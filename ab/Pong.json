@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.6",
-  "date": 1791151385,
-  "notes": "Double-tap the dark screen to wake it, and double-tap an empty spot on the home screen to turn it off (Settings > Home screen). DuckOS now updates itself, safely: if an update ever doesn't start, your phone goes back by itself.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.6/payload.bin",
+  "duckos": "1.0.7",
+  "date": 1791155808,
+  "notes": "DuckOS Camera and DuckOS Gallery. DuckPay cards: add Amex, Visa, Mastercard and store cards (or scan them), filled in when you pay online.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.7/payload.bin",
   "offset": 0,
-  "size": 1253046306,
+  "size": 1248310692,
   "headers": [
-    "FILE_HASH=Wxf1T6MY2HLO6YRG6JfGbwHVeW0mIwyQk9Ee4NGvnto=",
-    "FILE_SIZE=1253046306",
-    "METADATA_HASH=RJRYkJC6JEcz9ILap7j1AcQqB3QNMw9MV5mBCY3Tin0=",
-    "METADATA_SIZE=75260"
+    "FILE_HASH=4tyDjsrfHQoDAwtJpPaKcRoNLElK48v3sTv6h6cXX6A=",
+    "FILE_SIZE=1248310692",
+    "METADATA_HASH=jcJbCn8RPzAnaJGmLXVeKUP2iAnwuCvQSJZaHmLTrsA=",
+    "METADATA_SIZE=75202"
   ]
 }
