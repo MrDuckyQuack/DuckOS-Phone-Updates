@@ -1,0 +1,15 @@
+{
+  "version": "DuckOS 1.0.1",
+  "date": "1791133023",
+  "duckos": "1.0.1",
+  "notes": "A fresh DuckOS now has Android's web engine (WebView) ready from the very first start.",
+  "variants": [
+    {
+      "name": "treble_arm64_bvN",
+      "size": "870091504",
+      "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-1.0.1/DuckOS-1.0.1-phone-arm64-android15.img.xz",
+      "sha256": "ca23864846b0361a030d8cfb1acdefe6e774b37aa88d27483d52c7744ec82cdb",
+      "android": "15"
+    }
+  ]
+}
