@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.4",
-  "date": 1791148543,
-  "notes": "DuckOS's own keyboard, DuckAI's new natural voice (Settings > DuckAI > Voice), double-press power for DuckPay, and DuckOS's own system updates.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.4/payload.bin",
+  "duckos": "1.0.5",
+  "date": 1791150386,
+  "notes": "Double-tap the dark screen to wake it, and double-tap an empty spot on the home screen to turn it off (Settings > Home screen). DuckOS now updates itself.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.5/payload.bin",
   "offset": 0,
-  "size": 1253051338,
+  "size": 1253052086,
   "headers": [
-    "FILE_HASH=uaCopU+k+hZ4SQeLSPEkjaJk7Jrao9gV2djin+S9JlM=",
-    "FILE_SIZE=1253051338",
-    "METADATA_HASH=+5jOgZkKJrkDhc8ZrV8BogIh2dA+GlytCLbFuTOrddU=",
+    "FILE_HASH=HsccZuwLkogwnOomnc8r94ApoGMVnrnTZzmjKwcJFaY=",
+    "FILE_SIZE=1253052086",
+    "METADATA_HASH=6BIEaHh9vz4OJLyQ9miNdOtYm4np3lBpwpSrHidY5qk=",
     "METADATA_SIZE=75260"
   ]
 }
