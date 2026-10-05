@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.25",
-  "date": 1791234066,
-  "notes": "Your saved passwords are behind your fingerprint, face or PIN now: filling one into an app or a website asks first, and so does opening Settings > Passwords.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.25/payload.bin",
+  "duckos": "1.0.26",
+  "date": 1791236093,
+  "notes": "What's new in DuckOS 1.0.26\n\n\u2022 Your DuckCloud photos and videos now show in Photos, right alongside the ones on your phone.\n\u2022 Less Google: DuckOS no longer sends any usage data to Google. The hidden telemetry bundled with the camera's text and portrait features is removed, and the phone's network and time checks no longer go to Google either.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.26/payload.bin",
   "offset": 0,
-  "size": 1220765363,
+  "size": 1220754090,
   "headers": [
-    "FILE_HASH=szwcSRrn5qiVJrMxwl5CqziRiIVmCYrVjtz9A+fcFco=",
-    "FILE_SIZE=1220765363",
-    "METADATA_HASH=3/XVB1AyfKElUXoYkGBIxUDSJR6PByeMgFSSgoDXU04=",
-    "METADATA_SIZE=74689"
+    "FILE_HASH=y4JcF4hVKSJcI4N8WyYPl7bvXTO3AbA3eENVraEDhC8=",
+    "FILE_SIZE=1220754090",
+    "METADATA_HASH=JDSOH6vW9wFJBrGQ+KPCpi+wzZp655eajS4Lu0NH8vM=",
+    "METADATA_SIZE=74688"
   ]
 }
