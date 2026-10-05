@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.15",
-  "date": 1791211834,
-  "notes": "The DuckOS keyboard types by swiping, puts mistakes right as you go and has emoji. DuckFont made sharper for phones, with a finer cut for the clock and big titles. Settings redesigned, now the phone's own Settings, with DuckOS pages for Wi-Fi, Bluetooth, Display, Sound, Battery and Storage. The volume panel and Android's screens in DuckOS colours. Beta updates, to try the next DuckOS first.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.15/payload.bin",
+  "duckos": "1.0.16",
+  "date": 1791213507,
+  "notes": "DuckOS Phone: a keypad, recents, contacts and favourites, with DuckOS's own screens for calls coming in and going on. DuckOS Camera: Portrait mode, a timer, a grid, 16:9 photos, brighter or darker after tapping to focus, and 4K or 1080p video at 30 or 60 frames a second. Android's own keyboard is gone: the DuckOS keyboard is the phone's.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.16/payload.bin",
   "offset": 0,
-  "size": 1233726426,
+  "size": 1230220076,
   "headers": [
-    "FILE_HASH=A2yn5urrJy8VBcGd6PDCqRhA0QHNCUATs7hhhlY5Ib0=",
-    "FILE_SIZE=1233726426",
-    "METADATA_HASH=EgQuKIzgHn7WTk1djfJcjg6z8YQFrG5oj+B2IZka1gM=",
-    "METADATA_SIZE=75032"
+    "FILE_HASH=iC+XWoSEymLOR+Y9LBjveMGijjH+ZcYhKt9zzknmusc=",
+    "FILE_SIZE=1230220076",
+    "METADATA_HASH=vlu8hE55QaKoy+AwDnouLDNfvNDjmnnNjFMoeGCqu4s=",
+    "METADATA_SIZE=75090"
   ]
 }
