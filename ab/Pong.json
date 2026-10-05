@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.7",
-  "date": 1791155808,
-  "notes": "DuckOS Camera and DuckOS Gallery. DuckPay cards: add Amex, Visa, Mastercard and store cards (or scan them), filled in when you pay online.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.7/payload.bin",
+  "duckos": "1.0.8",
+  "date": 1791159567,
+  "notes": "DuckOS motion for every app, a new start-up animation, glass and haptics. DuckPay full screen, asking for your fingerprint, face or PIN. Start as a phone app drawer, one pull-down panel, sharper photos and the ultra-wide in Camera, and the fingerprint sensor found under the screen.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.8/payload.bin",
   "offset": 0,
-  "size": 1248310692,
+  "size": 1235997818,
   "headers": [
-    "FILE_HASH=4tyDjsrfHQoDAwtJpPaKcRoNLElK48v3sTv6h6cXX6A=",
-    "FILE_SIZE=1248310692",
-    "METADATA_HASH=jcJbCn8RPzAnaJGmLXVeKUP2iAnwuCvQSJZaHmLTrsA=",
-    "METADATA_SIZE=75202"
+    "FILE_HASH=ABrVYaiznhpRmcmmyJckl7w/4QO4A+FdEEpaGO0TEwY=",
+    "FILE_SIZE=1235997818",
+    "METADATA_HASH=xlWNapNFg4FaifuM3FrYwVj4X0MarUPonuCKflD0ihk=",
+    "METADATA_SIZE=74920"
   ]
 }
