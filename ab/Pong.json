@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.13",
-  "date": 1791200312,
-  "notes": "Recents in DuckOS's look: the DuckOS ring when nothing is open, DuckOS buttons. DuckPay confirms with your face by itself. Plus a smoother DuckOS, the new Updates page, the QR-reading camera, 120 Hz, Contacts and DuckMessage.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.13/payload.bin",
+  "duckos": "1.0.14",
+  "date": 1791209116,
+  "notes": "DuckAI listens again (and wakes faster), with a DuckAI bar on the home screen. The status bar clear of the round corners, no back swipe on the home screen, DuckOS colours in Quick Settings and the PIN pad, choosing many photos at once in Gallery, and every app coming in when Start opens.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.14/payload.bin",
   "offset": 0,
-  "size": 1232816889,
+  "size": 1232845348,
   "headers": [
-    "FILE_HASH=TETda8172mZCeO1Pgkz4fHpZMTRMDaAnq40cd0OupzA=",
-    "FILE_SIZE=1232816889",
-    "METADATA_HASH=X4SaQwDC3uULpFblTmv/o7Sr5vRl9Rz4y12OJkaTO8g=",
-    "METADATA_SIZE=75031"
+    "FILE_HASH=r4bmXvJXgSdJB6Sk3y3alNpOzT1e+3V775cv1Yw5QdY=",
+    "FILE_SIZE=1232845348",
+    "METADATA_HASH=smM621wIZgEpLkS8HGDSOgtgmfp6KOMTLNcQIY/+fLE=",
+    "METADATA_SIZE=75030"
   ]
 }
