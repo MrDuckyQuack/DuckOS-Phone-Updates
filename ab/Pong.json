@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.18",
-  "date": 1791220294,
-  "notes": "DuckStore: free and open-source apps in DuckOS's own store, installed and updated by DuckOS (F-Droid is gone). Ring your phone from the DuckTask app, and lock it, send it a link or play and pause its music. DuckOS's own power menu and restart screen. Fixes the home screen restarting over and over after 1.0.17.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.18/payload.bin",
+  "duckos": "1.0.19",
+  "date": 1791224445,
+  "notes": "DuckAI understands you in 30+ languages and answers aloud in yours (its language pack and Duckling 1 download by themselves over Wi-Fi); 'five seconds timer' works; its glow fills the whole screen; the screen stays on while you talk. A much better keyboard: next-word suggestions, keys that pop up, numbers on a hold or a number row, double-space full stop, slide Delete for whole words, paste what you copied, emoji suggestions. DuckOS sounds: 6 ringtones, 6 notification sounds, 3 alarms, a quick chime when your face unlocks the phone, no click when it locks. Back no longer restarts the home screen.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.19/payload.bin",
   "offset": 0,
-  "size": 1216819822,
+  "size": 1216928290,
   "headers": [
-    "FILE_HASH=6zXxwoqBPrOaPXN3YvE+3GPBO2RYOwkwfp95LVWhiMQ=",
-    "FILE_SIZE=1216819822",
-    "METADATA_HASH=ZkAJqzpGhzxYA/ieQpKy9KaGcGL1EEQESj0Nl6xd6zg=",
+    "FILE_HASH=OwnFZ1aw2tKpg4pmu8vRS/i9Mmn4sNbv0j6vRA/Y+F8=",
+    "FILE_SIZE=1216928290",
+    "METADATA_HASH=K+QIuQ3seZ3Urt2X7QsdWCk+X6ocdc41Q0y/W0/gX5Y=",
     "METADATA_SIZE=74576"
   ]
 }
