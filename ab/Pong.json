@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.23",
-  "date": 1791232407,
-  "notes": "Emergency calls work without a SIM again (112, 911 and the rest are recognised even with no SIM). \"Hey Duck\" answers with a soft chime, not a spoken Mhm. The lock-screen clock is a single line at the top, off the ring. Photos and Calendar icons are dark in the dark themes. Settings > Wi-Fi > SIMs opens the right screen.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.23/payload.bin",
+  "duckos": "1.0.24",
+  "date": 1791233584,
+  "notes": "Find My: the phone tells DuckCloud where it is, shares its exact GPS when you turn that on, and does what you ask from the map at cloud.ducktask.xyz/find -- play a sound, lock with a message, or locate -- even when it's locked; it checks in the moment it restarts. A new Find My app. DuckArcade holds all your games in one place. The Updates page shows what the DuckOS you're on brought.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.24/payload.bin",
   "offset": 0,
-  "size": 1220741699,
+  "size": 1220771274,
   "headers": [
-    "FILE_HASH=FW0ijnIRq+ioyvU/V2tOanWdTSQmtvp5bHfqKYz0ZPE=",
-    "FILE_SIZE=1220741699",
-    "METADATA_HASH=45uBDyeRhBWn9ynwNMOUyRTbZGII/VVsXmWbK7zZtik=",
-    "METADATA_SIZE=74689"
+    "FILE_HASH=ZXR3Csae4t4nFFcGIHu71972qv4FcGJwPtZPIIze7rI=",
+    "FILE_SIZE=1220771274",
+    "METADATA_HASH=Nc+dJ1Z6BefG6FGwNz+J+Ph/VN83tmc8OEoaM+KxuO8=",
+    "METADATA_SIZE=74688"
   ]
 }
