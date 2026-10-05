@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.11",
-  "date": 1791192933,
-  "notes": "A smoother DuckOS: DuckOS and the system's own screens compiled ahead of time after each update, and the screen following your back swipe. A new Updates page. Plus the QR-reading camera, 120 Hz, DuckPay like Apple Pay, Contacts and DuckMessage.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.11/payload.bin",
+  "duckos": "1.0.12",
+  "date": 1791194778,
+  "notes": "DuckPay confirms by itself when it sees your face, as Face ID does. A smoother DuckOS, a new Updates page, the QR-reading camera, 120 Hz, DuckPay like Apple Pay, Contacts and DuckMessage.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.12/payload.bin",
   "offset": 0,
-  "size": 1232833440,
+  "size": 1232840152,
   "headers": [
-    "FILE_HASH=9tdTx5jWPXALTiLbhvXNs/2awQbJJ0E3buzBxYcHbEA=",
-    "FILE_SIZE=1232833440",
-    "METADATA_HASH=pOJxavfPeyzuxF09N2NWhWOKwbwAgqKAQ1UhVMFK22o=",
+    "FILE_HASH=8v1+VT69MgpiUSZY29dopsncPme+9/4EkD2X0mQSIfw=",
+    "FILE_SIZE=1232840152",
+    "METADATA_HASH=qSlE8L3LciNENeJ33r+i7EElJyKQbDIyfVWVZJSdPoM=",
     "METADATA_SIZE=75030"
   ]
 }
