@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.32",
-  "date": 1791242958,
-  "notes": "What's new in DuckOS 1.0.32\n\n\u2022 DuckStore is replaced by F-Droid \u2014 the open-source app store, with no Google. It's your store for apps now.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.32/payload.bin",
+  "duckos": "1.0.33",
+  "date": 1791243881,
+  "notes": "What's new in DuckOS 1.0.33\n\n\u2022 New app: Bug Report \u2014 tell the DuckOS team when something's wrong, with your phone model and DuckOS version attached and, if you like, a screenshot. It goes straight to the team (nothing private is added).",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.33/payload.bin",
   "offset": 0,
-  "size": 1231534384,
+  "size": 1231525369,
   "headers": [
-    "FILE_HASH=ENUPQga9x9wo9cGgfOzK/dzqpZK4Avjt4gNjVk5YXXs=",
-    "FILE_SIZE=1231534384",
-    "METADATA_HASH=czHQPsFp6v+XhaUo07ox0ADzNE4F4dNSEfo5ZJWcFdQ=",
-    "METADATA_SIZE=75030"
+    "FILE_HASH=XfB7WCiZdI9pcl4+sUVVvzP8Liw5AS/5Wuphb+mJalo=",
+    "FILE_SIZE=1231525369",
+    "METADATA_HASH=1PLWFzSOyMTDJhwzgpdd6/WMRwtsYSUDWZclIfdX3Rg=",
+    "METADATA_SIZE=75031"
   ]
 }
