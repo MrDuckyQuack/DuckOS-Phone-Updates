@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.28",
-  "date": 1791239096,
-  "notes": "What's new in DuckOS 1.0.28\n\n\u2022 Find My now has a map, just like Apple's Find My: see this phone and all your devices as pins on the map, tap one to zoom to it, and pull up the list to play a sound, mark it lost, get directions, or remove it. The map is OpenStreetMap, so nothing goes to Google.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.28/payload.bin",
+  "duckos": "1.0.29",
+  "date": 1791241020,
+  "notes": "What's new in DuckOS 1.0.29\n\n\u2022 DuckArcade games are made for your phone now \u2014 Snake and Tetris have on-screen controls and fit the screen properly.\n\u2022 New: Settings \u203a My Device \u2014 your phone's info at a glance, plus Fresh Start (removes every app you installed and anything harmful, keeps your photos and DuckTask account) and Factory reset.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.29/payload.bin",
   "offset": 0,
-  "size": 1220827407,
+  "size": 1220827811,
   "headers": [
-    "FILE_HASH=kUDHpfdo+r9p5DW34lM8HMp8vwhwYal+bbE+UKgF48U=",
-    "FILE_SIZE=1220827407",
-    "METADATA_HASH=DDYCj0eRSHBoKhkjmTGY+q8GrqoEc4c8u/m+NL9jzaE=",
+    "FILE_HASH=NDykaQv7Z3qLOOUMAkQHrWRjowSm8vr2CyzIkc6cm7I=",
+    "FILE_SIZE=1220827811",
+    "METADATA_HASH=shRQEsxmnThexSU484FZ4LAbWDbbQfE6DUc3AyNeYvM=",
     "METADATA_SIZE=74689"
   ]
 }
