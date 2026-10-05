@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.26",
-  "date": 1791236093,
-  "notes": "What's new in DuckOS 1.0.26\n\n\u2022 Your DuckCloud photos and videos now show in Photos, right alongside the ones on your phone.\n\u2022 Less Google: DuckOS no longer sends any usage data to Google. The hidden telemetry bundled with the camera's text and portrait features is removed, and the phone's network and time checks no longer go to Google either.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.26/payload.bin",
+  "duckos": "1.0.27",
+  "date": 1791237298,
+  "notes": "What's new in DuckOS 1.0.27\n\n\u2022 Find My now shows all your devices, like Apple's Find My \u2014 this phone, your DuckOS PCs and your other phones, each with where it was last seen, its battery, and when. Open any one to play a sound on it, mark it lost with a message, get directions to it, or take it off your account.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.27/payload.bin",
   "offset": 0,
-  "size": 1220754090,
+  "size": 1220765138,
   "headers": [
-    "FILE_HASH=y4JcF4hVKSJcI4N8WyYPl7bvXTO3AbA3eENVraEDhC8=",
-    "FILE_SIZE=1220754090",
-    "METADATA_HASH=JDSOH6vW9wFJBrGQ+KPCpi+wzZp655eajS4Lu0NH8vM=",
+    "FILE_HASH=omA0IEpt8g89g/MWXnxld0AkYRlD9vI61wB/D9wjopc=",
+    "FILE_SIZE=1220765138",
+    "METADATA_HASH=+7h4b7GmVoT900ACN2DzNqBiPuTRONr/iPTKBXDPhto=",
     "METADATA_SIZE=74688"
   ]
 }
