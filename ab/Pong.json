@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.31",
-  "date": 1791242401,
-  "notes": "What's new in DuckOS 1.0.31\n\n\u2022 The Now Bar, on your home screen \u2014 a pill under the clock that shows what's happening right now, like Samsung's: the phone charging (filled to your battery level), or a timer counting down. It only shows when there's something to show, and tapping it opens it.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.31/payload.bin",
+  "duckos": "1.0.32",
+  "date": 1791242958,
+  "notes": "What's new in DuckOS 1.0.32\n\n\u2022 DuckStore is replaced by F-Droid \u2014 the open-source app store, with no Google. It's your store for apps now.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.32/payload.bin",
   "offset": 0,
-  "size": 1220872628,
+  "size": 1231534384,
   "headers": [
-    "FILE_HASH=4W+I9Kea9V3MyOmnt9vmyjBZM0WmDm1g6jQaB8SHteM=",
-    "FILE_SIZE=1220872628",
-    "METADATA_HASH=YlO/VrtlkXOvwIWlYzYPBQwxwGySyMFdS+U4S98GWGI=",
-    "METADATA_SIZE=74690"
+    "FILE_HASH=ENUPQga9x9wo9cGgfOzK/dzqpZK4Avjt4gNjVk5YXXs=",
+    "FILE_SIZE=1231534384",
+    "METADATA_HASH=czHQPsFp6v+XhaUo07ox0ADzNE4F4dNSEfo5ZJWcFdQ=",
+    "METADATA_SIZE=75030"
   ]
 }
