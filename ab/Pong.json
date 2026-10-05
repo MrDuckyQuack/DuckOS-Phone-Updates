@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.29",
-  "date": 1791241020,
-  "notes": "What's new in DuckOS 1.0.29\n\n\u2022 DuckArcade games are made for your phone now \u2014 Snake and Tetris have on-screen controls and fit the screen properly.\n\u2022 New: Settings \u203a My Device \u2014 your phone's info at a glance, plus Fresh Start (removes every app you installed and anything harmful, keeps your photos and DuckTask account) and Factory reset.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.29/payload.bin",
+  "duckos": "1.0.30",
+  "date": 1791241751,
+  "notes": "What's new in DuckOS 1.0.30\n\n\u2022 New app: DuckAntivirus \u2014 one tap checks your apps and files for anything risky or harmful, right on the phone (nothing is uploaded). It flags apps from unknown sources that ask for powers malware wants, finds known-bad files, and real-time protection watches every new app as it's installed.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.30/payload.bin",
   "offset": 0,
-  "size": 1220827811,
+  "size": 1220868487,
   "headers": [
-    "FILE_HASH=NDykaQv7Z3qLOOUMAkQHrWRjowSm8vr2CyzIkc6cm7I=",
-    "FILE_SIZE=1220827811",
-    "METADATA_HASH=shRQEsxmnThexSU484FZ4LAbWDbbQfE6DUc3AyNeYvM=",
+    "FILE_HASH=WfmrazCHL6PBVB5P6xdp5E347ZykmwQdzsCW1HXhn4M=",
+    "FILE_SIZE=1220868487",
+    "METADATA_HASH=N7ys4DnWhDSSmA0XUJDqg81xhbXwmlCyUtllGZCD/k0=",
     "METADATA_SIZE=74689"
   ]
 }
