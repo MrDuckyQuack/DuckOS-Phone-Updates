@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.14",
-  "date": 1791209116,
-  "notes": "DuckAI listens again (and wakes faster), with a DuckAI bar on the home screen. The status bar clear of the round corners, no back swipe on the home screen, DuckOS colours in Quick Settings and the PIN pad, choosing many photos at once in Gallery, and every app coming in when Start opens.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.14/payload.bin",
+  "duckos": "1.0.15",
+  "date": 1791211834,
+  "notes": "The DuckOS keyboard types by swiping, puts mistakes right as you go and has emoji. DuckFont made sharper for phones, with a finer cut for the clock and big titles. Settings redesigned, now the phone's own Settings, with DuckOS pages for Wi-Fi, Bluetooth, Display, Sound, Battery and Storage. The volume panel and Android's screens in DuckOS colours. Beta updates, to try the next DuckOS first.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.15/payload.bin",
   "offset": 0,
-  "size": 1232845348,
+  "size": 1233726426,
   "headers": [
-    "FILE_HASH=r4bmXvJXgSdJB6Sk3y3alNpOzT1e+3V775cv1Yw5QdY=",
-    "FILE_SIZE=1232845348",
-    "METADATA_HASH=smM621wIZgEpLkS8HGDSOgtgmfp6KOMTLNcQIY/+fLE=",
-    "METADATA_SIZE=75030"
+    "FILE_HASH=A2yn5urrJy8VBcGd6PDCqRhA0QHNCUATs7hhhlY5Ib0=",
+    "FILE_SIZE=1233726426",
+    "METADATA_HASH=EgQuKIzgHn7WTk1djfJcjg6z8YQFrG5oj+B2IZka1gM=",
+    "METADATA_SIZE=75032"
   ]
 }
