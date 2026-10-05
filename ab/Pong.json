@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.9",
-  "date": 1791179956,
-  "notes": "A 120 Hz screen and a lighter DuckOS. DuckPay like Apple Pay: your fingerprint right on its screen and your cards to choose from. New: DuckOS Contacts, DuckMessage, DuckPay in Quick Settings, and DuckOS's own lock and unlock sounds.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.9/payload.bin",
+  "duckos": "1.0.10",
+  "date": 1791184462,
+  "notes": "The camera reads QR codes: point it at one and tap to open the link, join the Wi-Fi or add the contact. Plus everything in 1.0.9: a 120 Hz screen, DuckPay like Apple Pay, DuckOS Contacts, DuckMessage and DuckOS's own lock sounds.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.10/payload.bin",
   "offset": 0,
-  "size": 1232816312,
+  "size": 1232825156,
   "headers": [
-    "FILE_HASH=5MRcdg/USE9EaTblpffjP3hF0iaKrsgQa/fuG3OeJRU=",
-    "FILE_SIZE=1232816312",
-    "METADATA_HASH=dyseKej7ZlOusQ5BAyoVJM3hvyXEHn1zfeKY7CFfNrY=",
+    "FILE_HASH=wbgXblfN7R7hgtnUP+FSoV5M1XzI5MvHzqXPBQ9Wxks=",
+    "FILE_SIZE=1232825156",
+    "METADATA_HASH=sLFAEBXkNw4Ovv/f7jYvULMOTIxVjjx4ngbM02UHtcg=",
     "METADATA_SIZE=75030"
   ]
 }
