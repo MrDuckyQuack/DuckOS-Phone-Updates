@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.19",
-  "date": 1791224445,
-  "notes": "DuckAI understands you in 30+ languages and answers aloud in yours (its language pack and Duckling 1 download by themselves over Wi-Fi); 'five seconds timer' works; its glow fills the whole screen; the screen stays on while you talk. A much better keyboard: next-word suggestions, keys that pop up, numbers on a hold or a number row, double-space full stop, slide Delete for whole words, paste what you copied, emoji suggestions. DuckOS sounds: 6 ringtones, 6 notification sounds, 3 alarms, a quick chime when your face unlocks the phone, no click when it locks. Back no longer restarts the home screen.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.19/payload.bin",
+  "duckos": "1.0.20",
+  "date": 1791228226,
+  "notes": "No more \"DuckAI is ready\" notification. Say \"Hey Duck\" and DuckAI answers. DuckAI hears German and other languages much better, answers in the language it writes in, speaks while it writes, and listening no longer fails (errors 8 and 11). DuckOS's own Settings everywhere: apps, privacy, location, languages, date and time, accessibility, accounts, default apps, Wi-Fi, Bluetooth and hotspot. Settings stays open when you change the theme or text size. Light theme: DuckTask, DuckPay, DuckWallet's icon, recent apps and the DuckAI bar are light too. Each DuckOS app has its own icon in recent apps. DuckStore offers DuckTask's apps. Fast typing isn't taken for swiping any more. Delete all DuckAI chats at once. Back on the home screen does nothing.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.20/payload.bin",
   "offset": 0,
-  "size": 1216928290,
+  "size": 1220978110,
   "headers": [
-    "FILE_HASH=OwnFZ1aw2tKpg4pmu8vRS/i9Mmn4sNbv0j6vRA/Y+F8=",
-    "FILE_SIZE=1216928290",
-    "METADATA_HASH=K+QIuQ3seZ3Urt2X7QsdWCk+X6ocdc41Q0y/W0/gX5Y=",
-    "METADATA_SIZE=74576"
+    "FILE_HASH=BYcW1ZQ+6/G5qbwIapdja/aKe7pdFWgnWDnqriT4bDk=",
+    "FILE_SIZE=1220978110",
+    "METADATA_HASH=wZVAhM85kkFWJgWWvL6rRVGc3Eqicktu0hZmpc37ycc=",
+    "METADATA_SIZE=74692"
   ]
 }
