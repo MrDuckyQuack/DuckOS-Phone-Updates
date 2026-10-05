@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.21",
-  "date": 1791229996,
-  "notes": "DuckWallet is now just your wallet: debit and credit cards, gift cards, store cards and tickets (Apple Wallet passes, PDF tickets or photos), no account needed, with animations. DuckOS runs its own timers: a countdown in your notifications and a Stop button when it rings; DuckAI starts them instantly, also in German and Turkish, and \"stop the timer\" stops them. DuckAI: no more \"Listening didn't work (11)\", speaks without pauses at every full stop, and listens again when it asks you something. Every ring spins. Gallery is now Photos, with DuckCloud's icon. The lock screen clock no longer sits on the ring. DuckPay's X button is gone.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.21/payload.bin",
+  "duckos": "1.0.22",
+  "date": 1791231449,
+  "notes": "Teach DuckAI your voice: in Settings > DuckAI, say \"Hey Duck\" a few times and it learns how you say it, so it catches you better. All on the phone.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.22/payload.bin",
   "offset": 0,
-  "size": 1220716027,
+  "size": 1220717706,
   "headers": [
-    "FILE_HASH=z4Px0QRFQYEM2a0tiVn40NY298A6fwatFCQ01EqXwX4=",
-    "FILE_SIZE=1220716027",
-    "METADATA_HASH=j/ABC8req9A8/1+Q+elIrAu7ARA+VjtKSpSs8pRxVQY=",
-    "METADATA_SIZE=74689"
+    "FILE_HASH=2bfMyv9tgU/E4AVLJhPfDKGuZkg9fKoA6PI8TLkCpX0=",
+    "FILE_SIZE=1220717706",
+    "METADATA_HASH=s9Km9q2bTsvdKRATyxrp/Eya2At1uwW+ozO2amI2xxI=",
+    "METADATA_SIZE=74688"
   ]
 }
