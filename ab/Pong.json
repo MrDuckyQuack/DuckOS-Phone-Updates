@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.27",
-  "date": 1791237298,
-  "notes": "What's new in DuckOS 1.0.27\n\n\u2022 Find My now shows all your devices, like Apple's Find My \u2014 this phone, your DuckOS PCs and your other phones, each with where it was last seen, its battery, and when. Open any one to play a sound on it, mark it lost with a message, get directions to it, or take it off your account.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.27/payload.bin",
+  "duckos": "1.0.28",
+  "date": 1791239096,
+  "notes": "What's new in DuckOS 1.0.28\n\n\u2022 Find My now has a map, just like Apple's Find My: see this phone and all your devices as pins on the map, tap one to zoom to it, and pull up the list to play a sound, mark it lost, get directions, or remove it. The map is OpenStreetMap, so nothing goes to Google.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.28/payload.bin",
   "offset": 0,
-  "size": 1220765138,
+  "size": 1220827407,
   "headers": [
-    "FILE_HASH=omA0IEpt8g89g/MWXnxld0AkYRlD9vI61wB/D9wjopc=",
-    "FILE_SIZE=1220765138",
-    "METADATA_HASH=+7h4b7GmVoT900ACN2DzNqBiPuTRONr/iPTKBXDPhto=",
-    "METADATA_SIZE=74688"
+    "FILE_HASH=kUDHpfdo+r9p5DW34lM8HMp8vwhwYal+bbE+UKgF48U=",
+    "FILE_SIZE=1220827407",
+    "METADATA_HASH=DDYCj0eRSHBoKhkjmTGY+q8GrqoEc4c8u/m+NL9jzaE=",
+    "METADATA_SIZE=74689"
   ]
 }
