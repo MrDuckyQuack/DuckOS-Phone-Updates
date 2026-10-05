@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.16",
-  "date": 1791213507,
-  "notes": "DuckOS Phone: a keypad, recents, contacts and favourites, with DuckOS's own screens for calls coming in and going on. DuckOS Camera: Portrait mode, a timer, a grid, 16:9 photos, brighter or darker after tapping to focus, and 4K or 1080p video at 30 or 60 frames a second. Android's own keyboard is gone: the DuckOS keyboard is the phone's.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.16/payload.bin",
+  "duckos": "1.0.17",
+  "date": 1791217208,
+  "notes": "The fingerprint sensor under the screen set up as one. DuckOS colours on the PIN pad and Android's screens. DuckOS's own emergency call screen; emergency numbers call straight away, SIM or not. One DuckTask account everywhere: DuckTask, DuckWallet and DuckTask's websites in DuckWeb sign in with the phone's. DuckAI always ready, with a new look. Updates install faster.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.17/payload.bin",
   "offset": 0,
-  "size": 1230220076,
+  "size": 1227332084,
   "headers": [
-    "FILE_HASH=iC+XWoSEymLOR+Y9LBjveMGijjH+ZcYhKt9zzknmusc=",
-    "FILE_SIZE=1230220076",
-    "METADATA_HASH=vlu8hE55QaKoy+AwDnouLDNfvNDjmnnNjFMoeGCqu4s=",
-    "METADATA_SIZE=75090"
+    "FILE_HASH=xUtsX+XnlI8P/wGOo04g0S2VkFPs+1fMlGrqyx7gzYA=",
+    "FILE_SIZE=1227332084",
+    "METADATA_HASH=HsQXDcVibN+UT3CsDPKXaCbQ6PxVg1qwhrCCm65Cchk=",
+    "METADATA_SIZE=74918"
   ]
 }
