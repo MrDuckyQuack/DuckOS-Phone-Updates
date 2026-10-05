@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.17",
-  "date": 1791217208,
-  "notes": "The fingerprint sensor under the screen set up as one. DuckOS colours on the PIN pad and Android's screens. DuckOS's own emergency call screen; emergency numbers call straight away, SIM or not. One DuckTask account everywhere: DuckTask, DuckWallet and DuckTask's websites in DuckWeb sign in with the phone's. DuckAI always ready, with a new look. Updates install faster.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.17/payload.bin",
+  "duckos": "1.0.18",
+  "date": 1791220294,
+  "notes": "DuckStore: free and open-source apps in DuckOS's own store, installed and updated by DuckOS (F-Droid is gone). Ring your phone from the DuckTask app, and lock it, send it a link or play and pause its music. DuckOS's own power menu and restart screen. Fixes the home screen restarting over and over after 1.0.17.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.18/payload.bin",
   "offset": 0,
-  "size": 1227332084,
+  "size": 1216819822,
   "headers": [
-    "FILE_HASH=xUtsX+XnlI8P/wGOo04g0S2VkFPs+1fMlGrqyx7gzYA=",
-    "FILE_SIZE=1227332084",
-    "METADATA_HASH=HsQXDcVibN+UT3CsDPKXaCbQ6PxVg1qwhrCCm65Cchk=",
-    "METADATA_SIZE=74918"
+    "FILE_HASH=6zXxwoqBPrOaPXN3YvE+3GPBO2RYOwkwfp95LVWhiMQ=",
+    "FILE_SIZE=1216819822",
+    "METADATA_HASH=ZkAJqzpGhzxYA/ieQpKy9KaGcGL1EEQESj0Nl6xd6zg=",
+    "METADATA_SIZE=74576"
   ]
 }
