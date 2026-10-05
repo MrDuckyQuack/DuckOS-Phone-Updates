@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.22",
-  "date": 1791231449,
-  "notes": "Teach DuckAI your voice: in Settings > DuckAI, say \"Hey Duck\" a few times and it learns how you say it, so it catches you better. All on the phone.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.22/payload.bin",
+  "duckos": "1.0.23",
+  "date": 1791232407,
+  "notes": "Emergency calls work without a SIM again (112, 911 and the rest are recognised even with no SIM). \"Hey Duck\" answers with a soft chime, not a spoken Mhm. The lock-screen clock is a single line at the top, off the ring. Photos and Calendar icons are dark in the dark themes. Settings > Wi-Fi > SIMs opens the right screen.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.23/payload.bin",
   "offset": 0,
-  "size": 1220717706,
+  "size": 1220741699,
   "headers": [
-    "FILE_HASH=2bfMyv9tgU/E4AVLJhPfDKGuZkg9fKoA6PI8TLkCpX0=",
-    "FILE_SIZE=1220717706",
-    "METADATA_HASH=s9Km9q2bTsvdKRATyxrp/Eya2At1uwW+ozO2amI2xxI=",
-    "METADATA_SIZE=74688"
+    "FILE_HASH=FW0ijnIRq+ioyvU/V2tOanWdTSQmtvp5bHfqKYz0ZPE=",
+    "FILE_SIZE=1220741699",
+    "METADATA_HASH=45uBDyeRhBWn9ynwNMOUyRTbZGII/VVsXmWbK7zZtik=",
+    "METADATA_SIZE=74689"
   ]
 }
