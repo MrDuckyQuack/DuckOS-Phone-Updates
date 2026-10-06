@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.46",
-  "date": 1791303870,
-  "notes": "What's new in DuckOS 1.0.46\n\n\u2022 Settings is its own app now \u2014 it stays open and shows in Recents instead of closing by itself.\n\u2022 Dynamic Island: cancelling a timer from the island actually stops it now, and it opens more smoothly.\n\u2022 DuckAI answers faster.\n\u2022 The Bug Report icon now matches the clean one from inside the app.\n\u2022 Removed Paint and Music Maker.\n\u2022 New: Test crash detection in Settings \u203a Safety \u2014 see the alert without dropping your phone.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.46/payload.bin",
+  "duckos": "1.0.47",
+  "date": 1791305686,
+  "notes": "What's new in DuckOS 1.0.47\n\n\u2022 DuckMaps works properly now \u2014 search and directions were being blocked, and that's fixed.\n\u2022 Sticky Notes is now Notes, with a fresh Samsung-style look: note cards with titles and previews, folders to sort them, and a full editor. Your old notes carry over.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.47/payload.bin",
   "offset": 0,
-  "size": 1227658791,
+  "size": 1227664127,
   "headers": [
-    "FILE_HASH=lZJcZn0IWXQO+7t+K8FfkpD7SyEIf1zc/38n0VBiN14=",
-    "FILE_SIZE=1227658791",
-    "METADATA_HASH=FRVIEhbMtoHCVZ6/3ROgpUw9+R94kLiQWlC8W8WDFww=",
+    "FILE_HASH=eSsq/kUpCsDiFn8aZxuMJV74j/YXnfypbFFN/r+LDqw=",
+    "FILE_SIZE=1227664127",
+    "METADATA_HASH=IuWic8O/GKWDcjqoh4duWRBXCm+tq8zojqjVv1PoxXY=",
     "METADATA_SIZE=74917"
   ]
 }
