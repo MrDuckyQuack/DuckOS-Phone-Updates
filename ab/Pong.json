@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.56",
-  "date": 1791319776,
-  "notes": "What's new in DuckOS 1.0.56\n\n\u2022 DuckOffice documents now reflow to the full width of the phone at a readable size \u2014 no more pinching to read or edit. Spreadsheets and presentations get the same compact, icon-only header, so everything fits one-handed.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.56/payload.bin",
+  "duckos": "1.0.57",
+  "date": 1791323082,
+  "notes": "What's new in DuckOS 1.0.57\n\n\u2022 Swipe down on the home screen now opens DuckOS's own Quick Panel (the liquid-glass one with your tiles, sliders and notifications) instead of Android's stock shade.\n\u2022 DuckOffice lost the title bar at the top of the window \u2014 the page gets that space back.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.57/payload.bin",
   "offset": 0,
-  "size": 1227696027,
+  "size": 1227673420,
   "headers": [
-    "FILE_HASH=uwKJg/6/2WU6PR8Gr/ZQ2jhqNBDW5RvkI0pKivSGPCE=",
-    "FILE_SIZE=1227696027",
-    "METADATA_HASH=4rxT30oNgvUOb4HdzgoRho6464+BQIwBogg7BkjREa0=",
-    "METADATA_SIZE=74917"
+    "FILE_HASH=qOxL2hovQcliyHXzfAHmEd5+LtGlhXtB9lwy2QrsE7s=",
+    "FILE_SIZE=1227673420",
+    "METADATA_HASH=Mf7R3klnGJLd6lx4YCEZkuJnG48JMCf/tFuSXlKUnjI=",
+    "METADATA_SIZE=74918"
   ]
 }
