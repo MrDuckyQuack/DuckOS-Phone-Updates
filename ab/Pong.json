@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.47",
-  "date": 1791305686,
-  "notes": "What's new in DuckOS 1.0.47\n\n\u2022 DuckMaps works properly now \u2014 search and directions were being blocked, and that's fixed.\n\u2022 Sticky Notes is now Notes, with a fresh Samsung-style look: note cards with titles and previews, folders to sort them, and a full editor. Your old notes carry over.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.47/payload.bin",
+  "duckos": "1.0.48",
+  "date": 1791306806,
+  "notes": "What's new in DuckOS 1.0.48\n\n\u2022 Lift to wake \u2014 pick up your phone and the screen turns on (Settings \u203a Wake & gestures).\n\u2022 Crash detection is a little more sensitive now, and its alert sounds a loud, urgent siren instead of the gentle default alarm.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.48/payload.bin",
   "offset": 0,
-  "size": 1227664127,
+  "size": 1227669967,
   "headers": [
-    "FILE_HASH=eSsq/kUpCsDiFn8aZxuMJV74j/YXnfypbFFN/r+LDqw=",
-    "FILE_SIZE=1227664127",
-    "METADATA_HASH=IuWic8O/GKWDcjqoh4duWRBXCm+tq8zojqjVv1PoxXY=",
+    "FILE_HASH=HRCZCZpsVPoqejEdjCq1+/wxHWsbBqNnT/FARGuaTUM=",
+    "FILE_SIZE=1227669967",
+    "METADATA_HASH=bUC+j2SSPQQSa/bqW7348g9fHBouvZOhS9JoeyDnMsg=",
     "METADATA_SIZE=74917"
   ]
 }
