@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.34",
-  "date": 1791263321,
-  "notes": "What's new in DuckOS 1.0.34\n\n\u2022 DuckPay and DuckWallet got a glow-up \u2014 your cards now look the part: a gold chip, the contactless mark, and the network's own look, matching across both. DuckPay's card sits better on screen too.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.34/payload.bin",
+  "duckos": "1.0.35",
+  "date": 1791264312,
+  "notes": "What's new in DuckOS 1.0.35\n\n\u2022 Two new widgets for the widget board (swipe right on the home screen): Battery \u2014 a ring showing how full it is, and the time to full while charging \u2014 and Photo, a recent picture from your gallery.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.35/payload.bin",
   "offset": 0,
-  "size": 1231528789,
+  "size": 1231532489,
   "headers": [
-    "FILE_HASH=WTsm+q3MNW8vkDjPrb4mB37wCoemXKCiJTod1aZbq1A=",
-    "FILE_SIZE=1231528789",
-    "METADATA_HASH=PTdZGl4VTmce3JIQ8uwutDHlyuN7RdFNEMHj2psUG28=",
+    "FILE_HASH=mbuH7LISh8e68cgZDy/mZJtMW3oFCbDBrVcXB8SN6hc=",
+    "FILE_SIZE=1231532489",
+    "METADATA_HASH=siAaiGXZLDcwMJJSnGfP3UtRY6JkbMmmCeyZJSYpnuE=",
     "METADATA_SIZE=75031"
   ]
 }
