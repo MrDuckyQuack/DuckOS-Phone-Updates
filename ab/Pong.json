@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.37",
-  "date": 1791273474,
-  "notes": "What's new in DuckOS 1.0.37\n\n\u2022 Medical ID. In Settings \u203a Medical ID, fill in your blood type, allergies, medications, conditions and emergency contacts. It shows on the emergency screen straight from the lock screen, so whoever helps you can see it without your PIN \u2014 tap a contact to call them.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.37/payload.bin",
+  "duckos": "1.0.38",
+  "date": 1791274372,
+  "notes": "What's new in DuckOS 1.0.38\n\n\u2022 DuckMaps \u2014 a map of the world with search and driving directions, on OpenStreetMap (no Google). Search for a place, see where you are, and get a route. Find it in your apps.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.38/payload.bin",
   "offset": 0,
-  "size": 1231559673,
+  "size": 1231610629,
   "headers": [
-    "FILE_HASH=fmIOJfBkHtQmtRscn/4PBuTBXqnRfXpnl3CsCalbZqo=",
-    "FILE_SIZE=1231559673",
-    "METADATA_HASH=nqtaSJzvTE4skZ3h/awB3ZtvKkbO0u9Sw7Q4Jtc8o68=",
+    "FILE_HASH=K9j3WIpnSeYaGTW8oZfuZnxJzUTXScL7B5e8HEnDobY=",
+    "FILE_SIZE=1231610629",
+    "METADATA_HASH=Krwip2ZI4NtQAZhZrAjHQq+3Gh9Mskg3MQGVHWCC7cI=",
     "METADATA_SIZE=75031"
   ]
 }
