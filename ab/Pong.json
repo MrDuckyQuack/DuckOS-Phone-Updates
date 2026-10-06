@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.38",
-  "date": 1791274372,
-  "notes": "What's new in DuckOS 1.0.38\n\n\u2022 DuckMaps \u2014 a map of the world with search and driving directions, on OpenStreetMap (no Google). Search for a place, see where you are, and get a route. Find it in your apps.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.38/payload.bin",
+  "duckos": "1.0.39",
+  "date": 1791279403,
+  "notes": "What's new in DuckOS 1.0.39\n\n\u2022 Liquid Glass \u2014 the Start menu and quick panel now frost the wallpaper behind them, with a soft glass sheen.\n\u2022 Crash detection \u2014 turn it on in Settings \u203a Medical ID. After a hard fall or crash, DuckOS asks if you're OK and opens Emergency if you don't answer. It never calls by itself.\n\u2022 Dynamic Island \u2014 a little pill around the camera shows live things like charging and timers, over any app. Tap it for more. Turn it off in Settings \u203a Display.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.39/payload.bin",
   "offset": 0,
-  "size": 1231610629,
+  "size": 1231615761,
   "headers": [
-    "FILE_HASH=K9j3WIpnSeYaGTW8oZfuZnxJzUTXScL7B5e8HEnDobY=",
-    "FILE_SIZE=1231610629",
-    "METADATA_HASH=Krwip2ZI4NtQAZhZrAjHQq+3Gh9Mskg3MQGVHWCC7cI=",
+    "FILE_HASH=MEpdgReRoYtslR3Tetv1rdywTwQtttxgqz/hxTg/yLY=",
+    "FILE_SIZE=1231615761",
+    "METADATA_HASH=/Ojp/mEBvjpK9GpxSTepDTHrWvQWYABG5wWD7ZXqZ40=",
     "METADATA_SIZE=75031"
   ]
 }
