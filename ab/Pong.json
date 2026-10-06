@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.57",
-  "date": 1791323082,
-  "notes": "What's new in DuckOS 1.0.57\n\n\u2022 Swipe down on the home screen now opens DuckOS's own Quick Panel (the liquid-glass one with your tiles, sliders and notifications) instead of Android's stock shade.\n\u2022 DuckOffice lost the title bar at the top of the window \u2014 the page gets that space back.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.57/payload.bin",
+  "duckos": "1.0.58",
+  "date": 1791324409,
+  "notes": "What's new in DuckOS 1.0.58\n\n\u2022 Settings \u203a Privacy & Security: TouchID and FaceID now opens the set-up screen properly (and is named that).\n\u2022 Settings \u203a Sound & Vibration: a new switch to turn the lock and unlock sounds off.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.58/payload.bin",
   "offset": 0,
-  "size": 1227673420,
+  "size": 1227687855,
   "headers": [
-    "FILE_HASH=qOxL2hovQcliyHXzfAHmEd5+LtGlhXtB9lwy2QrsE7s=",
-    "FILE_SIZE=1227673420",
-    "METADATA_HASH=Mf7R3klnGJLd6lx4YCEZkuJnG48JMCf/tFuSXlKUnjI=",
-    "METADATA_SIZE=74918"
+    "FILE_HASH=/QFYQf4hxsTBFV5/7GxxfMe8q5akc0F7NS0zku34z4E=",
+    "FILE_SIZE=1227687855",
+    "METADATA_HASH=8UjqhNOK20c6420TvPdASJ5AzsbGXzG2S6C3QS5OyBk=",
+    "METADATA_SIZE=74917"
   ]
 }
