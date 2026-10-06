@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.43",
-  "date": 1791293268,
-  "notes": "What's new in DuckOS 1.0.43\n\n\u2022 The Dynamic Island now hugs the camera like Apple's: when something is live (charging, a timer, the stopwatch) the pill wraps around the front camera, with the icon on one side and the detail on the other, and grows with a soft spring when you tap it.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.43/payload.bin",
+  "duckos": "1.0.44",
+  "date": 1791299248,
+  "notes": "What's new in DuckOS 1.0.44 \u2014 the Dynamic Island, reworked\n\n\u2022 It hugs the front camera and is always there on your home screen.\n\u2022 It steps aside when you open an app, so it never covers what you're doing.\n\u2022 Several live things at once (a timer, the stopwatch, charging) show together \u2014 tap to open it and see them all, each with a Stop or Cancel button. The Clock's timer and stopwatch both appear now.\n\u2022 Smoother, and the tap to open/close is fixed.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.44/payload.bin",
   "offset": 0,
-  "size": 1227674399,
+  "size": 1227672763,
   "headers": [
-    "FILE_HASH=ZBMzFAL05bO5POZ1XvqiKI//td194LPJnf9sPoImw1M=",
-    "FILE_SIZE=1227674399",
-    "METADATA_HASH=He+tJXac3/+vBeXbMU80c38X5bAzqs9X4ew4BuVfuZQ=",
+    "FILE_HASH=Vdc7cEnd6fCOJzKRPZkQMMSq4ZWQRWEnTtjJ5KYyHEU=",
+    "FILE_SIZE=1227672763",
+    "METADATA_HASH=UboocIej5T92uaFFfe/AVAE1oTOjdEXbElkj+ToWmWk=",
     "METADATA_SIZE=74917"
   ]
 }
