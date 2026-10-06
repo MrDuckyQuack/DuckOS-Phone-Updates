@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.62",
-  "date": 1791327602,
-  "notes": "What's new in DuckOS 1.0.62\n\n\u2022 Updates now show their steps: Preparing \u2192 Installing \u2192 Verifying the update, with the progress.\n\u2022 Settings: Back from DuckConnections, Passwords or DuckCloud+ returns to DuckCloud, not the Settings home.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.62/payload.bin",
+  "duckos": "1.0.63",
+  "date": 1791328369,
+  "notes": "What's new in DuckOS 1.0.63\n\n\u2022 You're told as soon as a new DuckOS is out (a notification), not only once a day.\n\u2022 Settings \u203a Updates: 'Last update' with the time it went on, and the security patch \u2014 nothing else in the way.\n\u2022 Auto update at 2 am: a new DuckOS is installed overnight; the phone restarts to finish only while its screen is off, otherwise it tells you.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.63/payload.bin",
   "offset": 0,
-  "size": 1227706637,
+  "size": 1227709595,
   "headers": [
-    "FILE_HASH=zU2R5nZ16g48+kHwkJAOnYD2pU6bLRj86Jw9rCvwScA=",
-    "FILE_SIZE=1227706637",
-    "METADATA_HASH=Y2znGCoitYWeM1C3yqFBzwRzxWxRTjd4GJSrmV7I5yM=",
-    "METADATA_SIZE=74919"
+    "FILE_HASH=/ARR2XO4wXYE9iHpH+5K9q6XpvTIJEU9G8vqJreiji4=",
+    "FILE_SIZE=1227709595",
+    "METADATA_HASH=HhG/A4YcShT1eoMsacnY0m08/gPnUHVTrC3Vxu/f9xk=",
+    "METADATA_SIZE=74917"
   ]
 }
