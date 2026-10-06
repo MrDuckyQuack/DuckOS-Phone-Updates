@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.45",
-  "date": 1791301081,
-  "notes": "What's new in DuckOS 1.0.45\n\n\u2022 Find My: moved the \"Share my exact location\" switch out of the app into Settings \u203a DuckCloud \u203a Find My, where it belongs.\n\u2022 Find My map is cleaner \u2014 calmer and less cluttered, so your devices stand out.\n\u2022 DuckCloud storage upgrade is nicer: clear plan cards with the storage up front and a simple Upgrade button.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.45/payload.bin",
+  "duckos": "1.0.46",
+  "date": 1791303870,
+  "notes": "What's new in DuckOS 1.0.46\n\n\u2022 Settings is its own app now \u2014 it stays open and shows in Recents instead of closing by itself.\n\u2022 Dynamic Island: cancelling a timer from the island actually stops it now, and it opens more smoothly.\n\u2022 DuckAI answers faster.\n\u2022 The Bug Report icon now matches the clean one from inside the app.\n\u2022 Removed Paint and Music Maker.\n\u2022 New: Test crash detection in Settings \u203a Safety \u2014 see the alert without dropping your phone.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.46/payload.bin",
   "offset": 0,
-  "size": 1227673579,
+  "size": 1227658791,
   "headers": [
-    "FILE_HASH=StLNpHg2YJu81JQ6mM33xT1pI8xHcYs9glUxfOFaapg=",
-    "FILE_SIZE=1227673579",
-    "METADATA_HASH=2Q6ZUOagxAu9ZF7UMtRTA4n4RuWcYRZQcCqkspUrX9M=",
+    "FILE_HASH=lZJcZn0IWXQO+7t+K8FfkpD7SyEIf1zc/38n0VBiN14=",
+    "FILE_SIZE=1227658791",
+    "METADATA_HASH=FRVIEhbMtoHCVZ6/3ROgpUw9+R94kLiQWlC8W8WDFww=",
     "METADATA_SIZE=74917"
   ]
 }
