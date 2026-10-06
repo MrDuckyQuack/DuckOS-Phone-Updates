@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.41",
-  "date": 1791291487,
-  "notes": "What's new in DuckOS 1.0.41\n\n\u2022 The Dynamic Island now shows your stopwatch. Start one in the Clock app and it appears around the camera, counting, over any app \u2014 tap it to see more.\n\u2022 Clearer message when an emergency call can't connect (it needs a mobile signal; with no SIM a call may not go through).",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.41/payload.bin",
+  "duckos": "1.0.42",
+  "date": 1791291984,
+  "notes": "What's new in DuckOS 1.0.42\n\n\u2022 App store: F-Droid is replaced by Aurora Store, which gives you the full Google Play catalogue without Google services. Open Aurora Store, sign in anonymously (or with your Google account), and install the apps you want.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.42/payload.bin",
   "offset": 0,
-  "size": 1231614877,
+  "size": 1227670495,
   "headers": [
-    "FILE_HASH=PjG4eEpPjfpPFOBv/palKn95IH9Uh/AeLpjaVCgUM4g=",
-    "FILE_SIZE=1231614877",
-    "METADATA_HASH=mrnyJTVtrSbAI6VKLur9GUAJOdZY1t8H/XdTAyzJ8p0=",
-    "METADATA_SIZE=75031"
+    "FILE_HASH=lPnUIuiFNFQQpLJIyj2iLp+YlBviTNi1I9npFCf/3Aw=",
+    "FILE_SIZE=1227670495",
+    "METADATA_HASH=eTd96p81DEKE736V2dNvhwBEXyoDhroIobnp5WgzUpw=",
+    "METADATA_SIZE=74917"
   ]
 }
