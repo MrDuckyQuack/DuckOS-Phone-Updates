@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.54",
-  "date": 1791317130,
-  "notes": "What's new in DuckOS 1.0.54\n\n\u2022 DuckMessage now works over the internet, DuckOS to DuckOS \u2014 message another DuckOS by their DuckCloud email, right in the same list as your texts. Real-time, with notifications.\n\u2022 Scanning a sign-in QR code (from Duck Passwords, or to sign in to DuckTask on the web) no longer calls it a 'DuckOS PC' \u2014 the sign-in reads for any device.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.54/payload.bin",
+  "duckos": "1.0.55",
+  "date": 1791318382,
+  "notes": "What's new in DuckOS 1.0.55\n\n\u2022 DuckOffice is redesigned for your phone. Documents, spreadsheets and presentations each fold down to one hand: a compact header, a toolbar that scrolls in a single row, DuckAI and the side panels slide over the file, and a presentation keeps its slides in a strip along the bottom. Files open fitted to the screen.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.55/payload.bin",
   "offset": 0,
-  "size": 1227694583,
+  "size": 1227694683,
   "headers": [
-    "FILE_HASH=iJfIosjHcYgG2Dc54TZIqR/zOEag89W5tB7/CqQLRsY=",
-    "FILE_SIZE=1227694583",
-    "METADATA_HASH=QErMDNGwNfAZ7DmqzEmFJTkxstLrnUpa+pLQt1e1CP8=",
+    "FILE_HASH=J47mrwUcbFOkbuSOKsiwCkUxUCC8vvNI/9ivGWfnaHQ=",
+    "FILE_SIZE=1227694683",
+    "METADATA_HASH=I+TfNT0plU0ssHhCe+Lj+ZT0p1JZB42dwHFNZZFon58=",
     "METADATA_SIZE=74917"
   ]
 }
