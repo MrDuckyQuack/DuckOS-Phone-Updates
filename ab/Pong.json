@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.35",
-  "date": 1791264312,
-  "notes": "What's new in DuckOS 1.0.35\n\n\u2022 Two new widgets for the widget board (swipe right on the home screen): Battery \u2014 a ring showing how full it is, and the time to full while charging \u2014 and Photo, a recent picture from your gallery.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.35/payload.bin",
+  "duckos": "1.0.36",
+  "date": 1791270828,
+  "notes": "What's new in DuckOS 1.0.36\n\n\u2022 Widgets on the home screen. Long-press the home screen and tap \"Add a widget\" to drop DuckOS widgets right among your app icons \u2014 the clock, battery or a photo as a neat square, the weather or agenda full-width. Long-press a widget to resize or remove it.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.36/payload.bin",
   "offset": 0,
-  "size": 1231532489,
+  "size": 1231541025,
   "headers": [
-    "FILE_HASH=mbuH7LISh8e68cgZDy/mZJtMW3oFCbDBrVcXB8SN6hc=",
-    "FILE_SIZE=1231532489",
-    "METADATA_HASH=siAaiGXZLDcwMJJSnGfP3UtRY6JkbMmmCeyZJSYpnuE=",
+    "FILE_HASH=Df1frhFgVRt9FeL8Pk4ykjHVzIVMLm9LrQ9IgwtVFOE=",
+    "FILE_SIZE=1231541025",
+    "METADATA_HASH=0XcI1rJi3AZIZ/1TztDVP+8+N/96pTw6ODfBr/BWxxY=",
     "METADATA_SIZE=75031"
   ]
 }
