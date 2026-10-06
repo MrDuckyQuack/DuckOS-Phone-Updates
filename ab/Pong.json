@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.64",
-  "date": 1791329533,
-  "notes": "What's new in DuckOS 1.0.64\n\n\u2022 Home screen: put apps anywhere. Hold an app and drag it to any spot \u2014 gaps allowed; the others flow around it. Drag an app straight out of the app drawer onto the home screen too.\n\u2022 The app drawer follows your finger as you swipe up (the home frosts over as it comes), opens when you let go far enough, or slides back down.\n\u2022 The ring moves up and makes room when the home screen has more rows of apps.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.64/payload.bin",
+  "duckos": "1.0.65",
+  "date": 1791330009,
+  "notes": "What's new in DuckOS 1.0.65\n\n\u2022 Connections stay on while locked: Wi-Fi, mobile data, Bluetooth and airplane mode can't be switched from the lock screen any more \u2014 its Quick Settings wait for your unlock (Settings \u203a Privacy & security, on by default). Notifications still pull down.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.65/payload.bin",
   "offset": 0,
-  "size": 1227720099,
+  "size": 1227722573,
   "headers": [
-    "FILE_HASH=NZaERsNkVqIk+Sm+rCpupvCs14oY7leVtp7wdXOswIU=",
-    "FILE_SIZE=1227720099",
-    "METADATA_HASH=BbE7gZoeu/A2Ku/muYm5DqWMIC2YaWe/qwqvPETwBPg=",
-    "METADATA_SIZE=74917"
+    "FILE_HASH=gqG6+iu8d+W5J7EfR0JLs4kidrwIbYcWDuwvNnCmPu0=",
+    "FILE_SIZE=1227722573",
+    "METADATA_HASH=V2YbOy/LOhDaa33C/lfawONGztn9Uy3OTR+7CYqdl94=",
+    "METADATA_SIZE=74919"
   ]
 }
