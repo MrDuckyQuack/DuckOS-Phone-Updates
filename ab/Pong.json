@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.39",
-  "date": 1791279403,
-  "notes": "What's new in DuckOS 1.0.39\n\n\u2022 Liquid Glass \u2014 the Start menu and quick panel now frost the wallpaper behind them, with a soft glass sheen.\n\u2022 Crash detection \u2014 turn it on in Settings \u203a Medical ID. After a hard fall or crash, DuckOS asks if you're OK and opens Emergency if you don't answer. It never calls by itself.\n\u2022 Dynamic Island \u2014 a little pill around the camera shows live things like charging and timers, over any app. Tap it for more. Turn it off in Settings \u203a Display.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.39/payload.bin",
+  "duckos": "1.0.40",
+  "date": 1791283225,
+  "notes": "What's new in DuckOS 1.0.40\n\n\u2022 DuckWeb: fixed not being able to search again \u2014 tap the address bar and type a new search any time.\n\u2022 Crash detection is now on by default (Settings \u203a Medical ID \u203a Safety to change). After a hard fall or crash it asks if you're OK and opens Emergency; it never calls by itself.\n\u2022 Liquid Glass is clearer \u2014 the Start menu and quick panel frost the wallpaper more.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.40/payload.bin",
   "offset": 0,
-  "size": 1231615761,
+  "size": 1231610837,
   "headers": [
-    "FILE_HASH=MEpdgReRoYtslR3Tetv1rdywTwQtttxgqz/hxTg/yLY=",
-    "FILE_SIZE=1231615761",
-    "METADATA_HASH=/Ojp/mEBvjpK9GpxSTepDTHrWvQWYABG5wWD7ZXqZ40=",
+    "FILE_HASH=FKpg6JLag2408V9KaASIBxb8Gf0rHcqXIzxcLeT4PWU=",
+    "FILE_SIZE=1231610837",
+    "METADATA_HASH=5qfZDjaIcFkQcaRICE0kS4mFLmizqGL39HBt6wKKrXM=",
     "METADATA_SIZE=75031"
   ]
 }
