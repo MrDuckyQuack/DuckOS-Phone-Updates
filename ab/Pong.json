@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.36",
-  "date": 1791270828,
-  "notes": "What's new in DuckOS 1.0.36\n\n\u2022 Widgets on the home screen. Long-press the home screen and tap \"Add a widget\" to drop DuckOS widgets right among your app icons \u2014 the clock, battery or a photo as a neat square, the weather or agenda full-width. Long-press a widget to resize or remove it.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.36/payload.bin",
+  "duckos": "1.0.37",
+  "date": 1791273474,
+  "notes": "What's new in DuckOS 1.0.37\n\n\u2022 Medical ID. In Settings \u203a Medical ID, fill in your blood type, allergies, medications, conditions and emergency contacts. It shows on the emergency screen straight from the lock screen, so whoever helps you can see it without your PIN \u2014 tap a contact to call them.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.37/payload.bin",
   "offset": 0,
-  "size": 1231541025,
+  "size": 1231559673,
   "headers": [
-    "FILE_HASH=Df1frhFgVRt9FeL8Pk4ykjHVzIVMLm9LrQ9IgwtVFOE=",
-    "FILE_SIZE=1231541025",
-    "METADATA_HASH=0XcI1rJi3AZIZ/1TztDVP+8+N/96pTw6ODfBr/BWxxY=",
+    "FILE_HASH=fmIOJfBkHtQmtRscn/4PBuTBXqnRfXpnl3CsCalbZqo=",
+    "FILE_SIZE=1231559673",
+    "METADATA_HASH=nqtaSJzvTE4skZ3h/awB3ZtvKkbO0u9Sw7Q4Jtc8o68=",
     "METADATA_SIZE=75031"
   ]
 }
