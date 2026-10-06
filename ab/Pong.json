@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.59",
-  "date": 1791325663,
-  "notes": "What's new in DuckOS 1.0.59\n\n\u2022 Find My now reaches your phone right away, even with the screen off: Play Sound, Lost Mode, Locate and Erase. While Find My sharing is on, one quiet 'Find My is on' notification shows the phone is reachable.\n\u2022 Lost Mode also turns on battery saver, so a lost phone stays findable for longer.\n\u2022 Erase: you can factory-reset the phone from your account (confirmed with your DuckTask password on the website). This is a real wipe \u2014 only use it when you mean it.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.59/payload.bin",
+  "duckos": "1.0.60",
+  "date": 1791326319,
+  "notes": "What's new in DuckOS 1.0.60\n\n\u2022 The Dynamic Island is gone, and with it its always-on notification.\n\u2022 'Crash detection is on' no longer sits in your notifications \u2014 crash detection still runs, quietly.\n\u2022 Settings \u203a DuckCloud now has DuckConnections (was 'DuckOS PCs' on the Settings home): sign in a DuckOS PC with this phone, lock it or sign it out. Scanning a sign-in code still takes you straight there.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.60/payload.bin",
   "offset": 0,
-  "size": 1227691047,
+  "size": 1227699095,
   "headers": [
-    "FILE_HASH=BU3edNgJA/l2SBvA2E/fQKcC6yKfmDTaLRCKEk4YEAs=",
-    "FILE_SIZE=1227691047",
-    "METADATA_HASH=rn3kmOMyGbTPgoMcgyugmSvdc0qhKoOkvO/PAYsp2nQ=",
+    "FILE_HASH=p2dMFZBGuuTwAtDbLRInEeZGojO0Z8bwTe+z0q2jMi8=",
+    "FILE_SIZE=1227699095",
+    "METADATA_HASH=6+0nsH6DK4v/KQ9ZJmdNxNqU1fjuAnRubjzwMK6KBv0=",
     "METADATA_SIZE=74917"
   ]
 }
