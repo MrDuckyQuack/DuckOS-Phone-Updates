@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.40",
-  "date": 1791283225,
-  "notes": "What's new in DuckOS 1.0.40\n\n\u2022 DuckWeb: fixed not being able to search again \u2014 tap the address bar and type a new search any time.\n\u2022 Crash detection is now on by default (Settings \u203a Medical ID \u203a Safety to change). After a hard fall or crash it asks if you're OK and opens Emergency; it never calls by itself.\n\u2022 Liquid Glass is clearer \u2014 the Start menu and quick panel frost the wallpaper more.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.40/payload.bin",
+  "duckos": "1.0.41",
+  "date": 1791291487,
+  "notes": "What's new in DuckOS 1.0.41\n\n\u2022 The Dynamic Island now shows your stopwatch. Start one in the Clock app and it appears around the camera, counting, over any app \u2014 tap it to see more.\n\u2022 Clearer message when an emergency call can't connect (it needs a mobile signal; with no SIM a call may not go through).",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.41/payload.bin",
   "offset": 0,
-  "size": 1231610837,
+  "size": 1231614877,
   "headers": [
-    "FILE_HASH=FKpg6JLag2408V9KaASIBxb8Gf0rHcqXIzxcLeT4PWU=",
-    "FILE_SIZE=1231610837",
-    "METADATA_HASH=5qfZDjaIcFkQcaRICE0kS4mFLmizqGL39HBt6wKKrXM=",
+    "FILE_HASH=PjG4eEpPjfpPFOBv/palKn95IH9Uh/AeLpjaVCgUM4g=",
+    "FILE_SIZE=1231614877",
+    "METADATA_HASH=mrnyJTVtrSbAI6VKLur9GUAJOdZY1t8H/XdTAyzJ8p0=",
     "METADATA_SIZE=75031"
   ]
 }
