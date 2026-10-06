@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.48",
-  "date": 1791306806,
-  "notes": "What's new in DuckOS 1.0.48\n\n\u2022 Lift to wake \u2014 pick up your phone and the screen turns on (Settings \u203a Wake & gestures).\n\u2022 Crash detection is a little more sensitive now, and its alert sounds a loud, urgent siren instead of the gentle default alarm.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.48/payload.bin",
+  "duckos": "1.0.49",
+  "date": 1791307388,
+  "notes": "What's new in DuckOS 1.0.49\n\n\u2022 Calendar on your phone now shows a day's events right under the month, instead of tucking them out of sight. The month is more compact, and toolbars wrap so nothing runs off the edge.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.49/payload.bin",
   "offset": 0,
-  "size": 1227669967,
+  "size": 1227665535,
   "headers": [
-    "FILE_HASH=HRCZCZpsVPoqejEdjCq1+/wxHWsbBqNnT/FARGuaTUM=",
-    "FILE_SIZE=1227669967",
-    "METADATA_HASH=bUC+j2SSPQQSa/bqW7348g9fHBouvZOhS9JoeyDnMsg=",
+    "FILE_HASH=Kq/HuuHlbbLFel3+tYzJ/zW8TfQLZemtG6sdUftfkco=",
+    "FILE_SIZE=1227665535",
+    "METADATA_HASH=ByWlN6g3DTt0KsLHB5iZPeURijKpP+Gm3ccodX44+XA=",
     "METADATA_SIZE=74917"
   ]
 }
