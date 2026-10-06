@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.61",
-  "date": 1791327173,
-  "notes": "What's new in DuckOS 1.0.61\n\n\u2022 No more 'allow DuckOS to\u2026' questions: modifying system settings, deleting pictures in Photos, all-files access and the rest are allowed from the start, as a phone's own apps are.\n\u2022 Shorter, crisper lock and unlock sounds (heard from the next restart).\n\u2022 The Now Bar (a running timer, charging) is on the lock screen now, not on the home after unlocking.\n\u2022 DuckAntivirus is part of Settings \u203a Privacy & Security now, not an app of its own.\n\u2022 DuckCloud: 'Upgrade storage' is gone; when your space is almost full, one button offers DuckCloud+ \u2014 with a preview purchase for now (nothing is charged).\n\u2022 Quick Settings' brightness works without being sent to a settings screen.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.61/payload.bin",
+  "duckos": "1.0.62",
+  "date": 1791327602,
+  "notes": "What's new in DuckOS 1.0.62\n\n\u2022 Updates now show their steps: Preparing \u2192 Installing \u2192 Verifying the update, with the progress.\n\u2022 Settings: Back from DuckConnections, Passwords or DuckCloud+ returns to DuckCloud, not the Settings home.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.62/payload.bin",
   "offset": 0,
-  "size": 1227713327,
+  "size": 1227706637,
   "headers": [
-    "FILE_HASH=ro7YoEP649mVxcLAMzgyvMBfaaXSm10reMEqis85Bw0=",
-    "FILE_SIZE=1227713327",
-    "METADATA_HASH=0pxH7QCuZvC6AttZmuwOSIL7NMFK9xdYIv4c0E/agQs=",
-    "METADATA_SIZE=74917"
+    "FILE_HASH=zU2R5nZ16g48+kHwkJAOnYD2pU6bLRj86Jw9rCvwScA=",
+    "FILE_SIZE=1227706637",
+    "METADATA_HASH=Y2znGCoitYWeM1C3yqFBzwRzxWxRTjd4GJSrmV7I5yM=",
+    "METADATA_SIZE=74919"
   ]
 }
