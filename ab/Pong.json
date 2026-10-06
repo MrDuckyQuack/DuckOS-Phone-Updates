@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.55",
-  "date": 1791318382,
-  "notes": "What's new in DuckOS 1.0.55\n\n\u2022 DuckOffice is redesigned for your phone. Documents, spreadsheets and presentations each fold down to one hand: a compact header, a toolbar that scrolls in a single row, DuckAI and the side panels slide over the file, and a presentation keeps its slides in a strip along the bottom. Files open fitted to the screen.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.55/payload.bin",
+  "duckos": "1.0.56",
+  "date": 1791319776,
+  "notes": "What's new in DuckOS 1.0.56\n\n\u2022 DuckOffice documents now reflow to the full width of the phone at a readable size \u2014 no more pinching to read or edit. Spreadsheets and presentations get the same compact, icon-only header, so everything fits one-handed.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.56/payload.bin",
   "offset": 0,
-  "size": 1227694683,
+  "size": 1227696027,
   "headers": [
-    "FILE_HASH=J47mrwUcbFOkbuSOKsiwCkUxUCC8vvNI/9ivGWfnaHQ=",
-    "FILE_SIZE=1227694683",
-    "METADATA_HASH=I+TfNT0plU0ssHhCe+Lj+ZT0p1JZB42dwHFNZZFon58=",
+    "FILE_HASH=uwKJg/6/2WU6PR8Gr/ZQ2jhqNBDW5RvkI0pKivSGPCE=",
+    "FILE_SIZE=1227696027",
+    "METADATA_HASH=4rxT30oNgvUOb4HdzgoRho6464+BQIwBogg7BkjREa0=",
     "METADATA_SIZE=74917"
   ]
 }
