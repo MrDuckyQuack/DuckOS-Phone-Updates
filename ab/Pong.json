@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.53",
-  "date": 1791314205,
-  "notes": "What's new in DuckOS 1.0.53\n\n\u2022 One DuckWallet now \u2014 the duplicate's gone. DuckWallet is your cards and tickets; crypto lives in the DuckTask app.\n\u2022 Crash alert is louder and more urgent \u2014 an Apple-style two-tone emergency alarm.\n\u2022 Swipe down on the home screen opens DuckOS's own quick panel instead of Android's.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.53/payload.bin",
+  "duckos": "1.0.54",
+  "date": 1791317130,
+  "notes": "What's new in DuckOS 1.0.54\n\n\u2022 DuckMessage now works over the internet, DuckOS to DuckOS \u2014 message another DuckOS by their DuckCloud email, right in the same list as your texts. Real-time, with notifications.\n\u2022 Scanning a sign-in QR code (from Duck Passwords, or to sign in to DuckTask on the web) no longer calls it a 'DuckOS PC' \u2014 the sign-in reads for any device.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.54/payload.bin",
   "offset": 0,
-  "size": 1227683875,
+  "size": 1227694583,
   "headers": [
-    "FILE_HASH=2oe4OFwipt4QrxfKmNg9rkK5bx2WQ3rYFZaJk98QN8E=",
-    "FILE_SIZE=1227683875",
-    "METADATA_HASH=RZI/MqILXARZq3JFxhnvZi1RcaVscv8U4Ih2154E4jY=",
+    "FILE_HASH=iJfIosjHcYgG2Dc54TZIqR/zOEag89W5tB7/CqQLRsY=",
+    "FILE_SIZE=1227694583",
+    "METADATA_HASH=QErMDNGwNfAZ7DmqzEmFJTkxstLrnUpa+pLQt1e1CP8=",
     "METADATA_SIZE=74917"
   ]
 }
