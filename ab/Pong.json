@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.51",
-  "date": 1791310600,
-  "notes": "What's new in DuckOS 1.0.51\n\n\u2022 DuckWallet cards and tickets now back up to DuckCloud \u2014 end-to-end encrypted, in the same vault as your passwords. Set up DuckCloud passwords (Settings \u203a DuckCloud) and your cards come along to your other DuckOS devices. DuckCloud only ever sees the encrypted blob.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.51/payload.bin",
+  "duckos": "1.0.52",
+  "date": 1791311923,
+  "notes": "What's new in DuckOS 1.0.52\n\n\u2022 Removed the back button from the top of every app \u2014 your phone's back gesture (or Home) already leaves an app, so it was just clutter. Apps feel cleaner and more full-screen now.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.52/payload.bin",
   "offset": 0,
-  "size": 1227682571,
+  "size": 1227672819,
   "headers": [
-    "FILE_HASH=3sXt2I97mK3063HRK2mYVIB+b7yIJy7EhtQjibyRwww=",
-    "FILE_SIZE=1227682571",
-    "METADATA_HASH=o7b3hAJektpP+5Z925Qe9iYNtV/ZoA6ZTKeMVGWMzso=",
+    "FILE_HASH=ioyRm3VGivQAGLB0Edgi473XUP0ucUZMibFfsqw5Mco=",
+    "FILE_SIZE=1227672819",
+    "METADATA_HASH=N9r0leRnzNwYIsgApQuNcFeVMO4h+IPIr9qB9bkYoPg=",
     "METADATA_SIZE=74917"
   ]
 }
