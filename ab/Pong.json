@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.60",
-  "date": 1791326319,
-  "notes": "What's new in DuckOS 1.0.60\n\n\u2022 The Dynamic Island is gone, and with it its always-on notification.\n\u2022 'Crash detection is on' no longer sits in your notifications \u2014 crash detection still runs, quietly.\n\u2022 Settings \u203a DuckCloud now has DuckConnections (was 'DuckOS PCs' on the Settings home): sign in a DuckOS PC with this phone, lock it or sign it out. Scanning a sign-in code still takes you straight there.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.60/payload.bin",
+  "duckos": "1.0.61",
+  "date": 1791327173,
+  "notes": "What's new in DuckOS 1.0.61\n\n\u2022 No more 'allow DuckOS to\u2026' questions: modifying system settings, deleting pictures in Photos, all-files access and the rest are allowed from the start, as a phone's own apps are.\n\u2022 Shorter, crisper lock and unlock sounds (heard from the next restart).\n\u2022 The Now Bar (a running timer, charging) is on the lock screen now, not on the home after unlocking.\n\u2022 DuckAntivirus is part of Settings \u203a Privacy & Security now, not an app of its own.\n\u2022 DuckCloud: 'Upgrade storage' is gone; when your space is almost full, one button offers DuckCloud+ \u2014 with a preview purchase for now (nothing is charged).\n\u2022 Quick Settings' brightness works without being sent to a settings screen.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.61/payload.bin",
   "offset": 0,
-  "size": 1227699095,
+  "size": 1227713327,
   "headers": [
-    "FILE_HASH=p2dMFZBGuuTwAtDbLRInEeZGojO0Z8bwTe+z0q2jMi8=",
-    "FILE_SIZE=1227699095",
-    "METADATA_HASH=6+0nsH6DK4v/KQ9ZJmdNxNqU1fjuAnRubjzwMK6KBv0=",
+    "FILE_HASH=ro7YoEP649mVxcLAMzgyvMBfaaXSm10reMEqis85Bw0=",
+    "FILE_SIZE=1227713327",
+    "METADATA_HASH=0pxH7QCuZvC6AttZmuwOSIL7NMFK9xdYIv4c0E/agQs=",
     "METADATA_SIZE=74917"
   ]
 }
