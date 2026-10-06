@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.49",
-  "date": 1791307388,
-  "notes": "What's new in DuckOS 1.0.49\n\n\u2022 Calendar on your phone now shows a day's events right under the month, instead of tucking them out of sight. The month is more compact, and toolbars wrap so nothing runs off the edge.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.49/payload.bin",
+  "duckos": "1.0.50",
+  "date": 1791309612,
+  "notes": "What's new in DuckOS 1.0.50\n\n\u2022 New: DuckWallet \u2014 your cards and tickets as an Apple-Wallet-style stack. Tap + to add a bank card, store card or ticket; tap a card to see it in full. DuckPay still pays with them when you double-press the power button.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.50/payload.bin",
   "offset": 0,
-  "size": 1227665535,
+  "size": 1227680963,
   "headers": [
-    "FILE_HASH=Kq/HuuHlbbLFel3+tYzJ/zW8TfQLZemtG6sdUftfkco=",
-    "FILE_SIZE=1227665535",
-    "METADATA_HASH=ByWlN6g3DTt0KsLHB5iZPeURijKpP+Gm3ccodX44+XA=",
+    "FILE_HASH=44CONSH2VCct0IUWjfPjwH/Ck42RMNJRkAY+Ub7Md7g=",
+    "FILE_SIZE=1227680963",
+    "METADATA_HASH=ctQShX309lEehbk/V1WDuH1tnsqZMLjygECsmJXn0PQ=",
     "METADATA_SIZE=74917"
   ]
 }
