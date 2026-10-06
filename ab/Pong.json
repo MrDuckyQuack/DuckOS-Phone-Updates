@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.42",
-  "date": 1791291984,
-  "notes": "What's new in DuckOS 1.0.42\n\n\u2022 App store: F-Droid is replaced by Aurora Store, which gives you the full Google Play catalogue without Google services. Open Aurora Store, sign in anonymously (or with your Google account), and install the apps you want.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.42/payload.bin",
+  "duckos": "1.0.43",
+  "date": 1791293268,
+  "notes": "What's new in DuckOS 1.0.43\n\n\u2022 The Dynamic Island now hugs the camera like Apple's: when something is live (charging, a timer, the stopwatch) the pill wraps around the front camera, with the icon on one side and the detail on the other, and grows with a soft spring when you tap it.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.43/payload.bin",
   "offset": 0,
-  "size": 1227670495,
+  "size": 1227674399,
   "headers": [
-    "FILE_HASH=lPnUIuiFNFQQpLJIyj2iLp+YlBviTNi1I9npFCf/3Aw=",
-    "FILE_SIZE=1227670495",
-    "METADATA_HASH=eTd96p81DEKE736V2dNvhwBEXyoDhroIobnp5WgzUpw=",
+    "FILE_HASH=ZBMzFAL05bO5POZ1XvqiKI//td194LPJnf9sPoImw1M=",
+    "FILE_SIZE=1227674399",
+    "METADATA_HASH=He+tJXac3/+vBeXbMU80c38X5bAzqs9X4ew4BuVfuZQ=",
     "METADATA_SIZE=74917"
   ]
 }
