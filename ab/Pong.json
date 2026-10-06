@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.63",
-  "date": 1791328369,
-  "notes": "What's new in DuckOS 1.0.63\n\n\u2022 You're told as soon as a new DuckOS is out (a notification), not only once a day.\n\u2022 Settings \u203a Updates: 'Last update' with the time it went on, and the security patch \u2014 nothing else in the way.\n\u2022 Auto update at 2 am: a new DuckOS is installed overnight; the phone restarts to finish only while its screen is off, otherwise it tells you.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.63/payload.bin",
+  "duckos": "1.0.64",
+  "date": 1791329533,
+  "notes": "What's new in DuckOS 1.0.64\n\n\u2022 Home screen: put apps anywhere. Hold an app and drag it to any spot \u2014 gaps allowed; the others flow around it. Drag an app straight out of the app drawer onto the home screen too.\n\u2022 The app drawer follows your finger as you swipe up (the home frosts over as it comes), opens when you let go far enough, or slides back down.\n\u2022 The ring moves up and makes room when the home screen has more rows of apps.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.64/payload.bin",
   "offset": 0,
-  "size": 1227709595,
+  "size": 1227720099,
   "headers": [
-    "FILE_HASH=/ARR2XO4wXYE9iHpH+5K9q6XpvTIJEU9G8vqJreiji4=",
-    "FILE_SIZE=1227709595",
-    "METADATA_HASH=HhG/A4YcShT1eoMsacnY0m08/gPnUHVTrC3Vxu/f9xk=",
+    "FILE_HASH=NZaERsNkVqIk+Sm+rCpupvCs14oY7leVtp7wdXOswIU=",
+    "FILE_SIZE=1227720099",
+    "METADATA_HASH=BbE7gZoeu/A2Ku/muYm5DqWMIC2YaWe/qwqvPETwBPg=",
     "METADATA_SIZE=74917"
   ]
 }
