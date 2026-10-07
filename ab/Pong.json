@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.68",
-  "date": 1791354794,
-  "notes": "What's new in DuckOS 1.0.68\n\n\u2022 Find My \u203a Erase and DuckWeb's passkeys on sites now have the phone's permission they need (they could have been refused in 1.0.59\u20131.0.67).\n\u2022 A new DuckOS is announced as soon as you open the home screen, DuckCloud account or not (checked at most every three hours).",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.68/payload.bin",
+  "duckos": "1.0.69",
+  "date": 1791355449,
+  "notes": "What's new in DuckOS 1.0.69\n\n\u2022 DuckMessage is end-to-end encrypted: each of your devices has a key of its own, and a message is sealed for every device of both people before it leaves the phone \u2014 DuckCloud only ever carries ciphertext. (It takes effect as DuckCloud is updated; until then messages go as before.)",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.69/payload.bin",
   "offset": 0,
-  "size": 1227803011,
+  "size": 1227805075,
   "headers": [
-    "FILE_HASH=qY4PkP8AaVMMsXhX37HfzDfTWAopTnuQLf13fZf9Dbw=",
-    "FILE_SIZE=1227803011",
-    "METADATA_HASH=YshXKvlnsLstvvnVUWBBpJgwMB5ZH9AG1VDuEmQSanE=",
+    "FILE_HASH=pZUR/23zULnGTF3ttHqZMQGiC5APtUF58ObtjWHoy10=",
+    "FILE_SIZE=1227805075",
+    "METADATA_HASH=ouUWyL0uuk3N17XBLSKauAdKj/FNwxi9waNFmC04nrw=",
     "METADATA_SIZE=74917"
   ]
 }
