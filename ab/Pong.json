@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.75",
-  "date": 1791387819,
-  "notes": "What's new in DuckOS 1.0.75\n\n\u2022 With the keyboard up, Android's \"hide the keyboard\" arrow in the navigation bar is at the bottom right now, where the thumb is, instead of the bottom left.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.75/payload.bin",
+  "duckos": "1.0.76",
+  "date": 1791393278,
+  "notes": "What's new in DuckOS 1.0.76\n\n\u2022 DuckAI is awake from the moment the phone starts, and stays awake: Duckling's brain is loaded as DuckOS comes up and the phone never takes it back for memory (Settings \u203a DuckAI \u203a Keep DuckAI ready).\n\u2022 Beta Store: the phone's app store, with the whole Google Play catalogue, now as DuckOS's own store (built from Aurora Store's code). It replaces Aurora Store.\n\u2022 DuckPay: a card can keep its security code (CVV/CVC), sealed with the number and shown or filled only after your fingerprint, face or PIN, so paying online is one tap. Add it when you add a card.\n\u2022 DuckPay from the power button with the screen off stays on screen (it used to close itself a moment after appearing).\n\u2022 DuckWallet 3.0.5: asks for your fingerprint, face or PIN each time it opens; the security code field; \"Show the number and code\".\n\u2022 Settings: Report a bug and Medical ID have the Settings top like every other page; Back from Passwords goes back to Settings (not to DuckCloud); after opening a search result, Back brings the search and its results back.\n\u2022 Swiping down on the home opens the phone's own notification shade and Quick Settings.\n\u2022 The keyboard's hide arrow sits at the bottom right (from 1.0.75).",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.76/payload.bin",
   "offset": 0,
-  "size": 1227881163,
+  "size": 1227854583,
   "headers": [
-    "FILE_HASH=8VfKgPqDcA3MghmkorWOaDuSIO9yW0NRCmouVwDG8Pc=",
-    "FILE_SIZE=1227881163",
-    "METADATA_HASH=nNXOmLf1WrTWrx+0ciGt6soQj93iq+peqKtN+vbmziQ=",
+    "FILE_HASH=05eolPJTCLSCFAUUkjcNF/u0lJWIAmTebAlgD7tj8a0=",
+    "FILE_SIZE=1227854583",
+    "METADATA_HASH=ZYZp0wF6r6apRLgY+02hfKV5YV81DQ9izioHoc48VLs=",
     "METADATA_SIZE=74917"
   ]
 }
