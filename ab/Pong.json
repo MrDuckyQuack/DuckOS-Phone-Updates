@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.66",
-  "date": 1791350722,
-  "notes": "What's new in DuckOS 1.0.66\n\n\u2022 Settings \u203a Passwords, laid out anew: six cards \u2014 All, Passkeys, Codes, Wi-Fi, Security, Deleted \u2014 with a search and a \u201c+\u201d.\n\u2022 One-time codes (the six digits an authenticator app gives): scan a site's QR code with DuckOS Camera or type the key; the codes tick here and go to DuckCloud with your passwords.\n\u2022 Security: reused and easy-to-guess passwords, and a leak check (haveibeenpwned, only five characters of each hash leave the phone).\n\u2022 Deleted: a removed password stays 30 days, to be had back. Wi-Fi: the phone's networks and the ones you keep in DuckCloud.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.66/payload.bin",
+  "duckos": "1.0.67",
+  "date": 1791351842,
+  "notes": "What's new in DuckOS 1.0.67\n\n\u2022 Passkeys: DuckOS is the phone's passkey provider. When a site in DuckWeb or any app offers \u201csign in with a passkey\u201d, DuckOS makes one and keeps it on this phone and in DuckCloud with your passwords \u2014 and signs you in with your fingerprint or face. Settings \u203a Passwords \u203a Passkeys lists them.\n\u2022 DuckOS Passwords is also the phone's autofill and credential provider from the first start.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.67/payload.bin",
   "offset": 0,
-  "size": 1227734507,
+  "size": 1227798611,
   "headers": [
-    "FILE_HASH=ClUyzoQd9rzmhBDh3ya6IpnRvvMFNHoIhfjcS0iSmt4=",
-    "FILE_SIZE=1227734507",
-    "METADATA_HASH=MkPLlu16oZdPlMMAK+vNsPr4Pbg8pcn/4gi87WSeOLs=",
+    "FILE_HASH=oZucmXAnSKR/BvkM5REo/NKbXj52RQljNS1sLpIltuw=",
+    "FILE_SIZE=1227798611",
+    "METADATA_HASH=AJ75aWmrQJgabF0398JpdBXEY0njyYBODOrEykaQ2F8=",
     "METADATA_SIZE=74917"
   ]
 }
