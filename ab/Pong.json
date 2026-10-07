@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.72",
-  "date": 1791360895,
-  "notes": "What's new in DuckOS 1.0.72\n\n\u2022 Contacts in DuckCloud: your contacts go with your account \u2014 every DuckOS you sign in to has the same people, and a contact edited, starred or deleted anywhere is so everywhere (Settings \u203a DuckCloud \u203a Contacts, on by default). People from an account on the phone (Google, the SIM) are never doubled.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.72/payload.bin",
+  "duckos": "1.0.73",
+  "date": 1791372224,
+  "notes": "What's new in DuckOS 1.0.73\n\n\u2022 Typing is smooth again: the keyboard runs on its own, so it no longer stalls the app you type into \u2014 and opening a note no longer freezes the phone.\n\u2022 To Do is new: My Day, Important, Planned, your own lists, and a little celebration when you finish a task.\n\u2022 Clock, Weather and DuckOffice are laid out for a phone.\n\u2022 Games fill the screen; Snake and Tetris are steered by swiping.\n\u2022 Camera: a PRO mode (ISO, shutter, white balance, focus by hand) and its buttons sit below the status bar.\n\u2022 DuckAI answers \"brightness lower\", \"make it brighter\", \"dim the screen\" at once, and closes with the glow sinking away.\n\u2022 Choosing a picture (Bug Report, wallpaper, DuckOffice, the web apps) is DuckOS's own picker now.\n\u2022 Settings \u203a Notifications: every app's notifications, DuckOS's own pages \u2014 on/off and each kind of notification.\n\u2022 Medical ID is quicker to fill in: date of birth and age, height and weight with units, contacts from Contacts, saved as you type.\n\u2022 Bug Report lives in Settings and stays open after sending. DuckMaps sits under the status bar, Find My lost its zoom buttons, app icons are centred, \"The home screen is full\" is fixed.\n\u2022 DuckConnections: Lock only for PCs, and a proper sign-out sheet.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.73/payload.bin",
   "offset": 0,
-  "size": 1227810839,
+  "size": 1227874247,
   "headers": [
-    "FILE_HASH=bpEgL09rXIK7EjQ/EIxl02sUAe358/bEs3z11Ek67MI=",
-    "FILE_SIZE=1227810839",
-    "METADATA_HASH=gJg+fLbIHhrlO3Zte3i1lQSQAOJInDaAqoRPDEXg4G0=",
+    "FILE_HASH=piVt++jlIIofopCjVuWx3h0L2/kLcDEQvhRXy7bx8Vo=",
+    "FILE_SIZE=1227874247",
+    "METADATA_HASH=jdPu7H4cUerkRav59w4baxTIylNuh2307Pg5aQqzCbQ=",
     "METADATA_SIZE=74917"
   ]
 }
