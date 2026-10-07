@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.78",
-  "date": 1791404142,
-  "notes": "What's new in DuckOS 1.0.78\n\n\u2022 Clock \u203a Alarms: the time in the Add Alarm sheet is DuckOS's own two big numbers, in 24-hour form when the phone is set that way (the browser's time box showed AM/PM whatever the setting).",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.78/payload.bin",
+  "duckos": "1.0.79",
+  "date": 1791407519,
+  "notes": "What's new in DuckOS 1.0.79\n\n\u2022 DuckStore opens straight to the store: no welcome pages, and the permissions it needs (installing apps, all-files access, notifications, running in the background) are given by the phone. Its store session is made by itself: the \"Access denied\" of 1.0.77 came from DuckStore giving its own name to Aurora's token service, which only knows Aurora's; it now introduces itself as Aurora Store does. Its icon is the bag on DuckOS's green, as its tile on the home screen.\n\u2022 DuckMaps: four map styles (Standard, Light, Dark, Satellite; the layers button), places near you first (a search for Lidl lists the ones down the road, with their distance), the map opens at your position straight away, and directions as Apple Maps gives them: by car, on foot or by bicycle, with the time and distance of each, then turn by turn with the next turn and its distance up top, the arrival time below, and every turn spoken in DuckAI's voice. It finds a new way when you leave the route.\n\u2022 \"Hey Duck\" learns your voice from six things you read out \u2014 \"Hey Duck\" on its own and in front of real questions (\"Hey Duck, what's the weather today?\") \u2014 so it catches the name the way you say it, in a sentence too.\n\u2022 The lock screen's grey dot (Android's fingerprint spot) is gone; the sensor is where it always was.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.79/payload.bin",
   "offset": 0,
-  "size": 1227875403,
+  "size": 1227926339,
   "headers": [
-    "FILE_HASH=s5n/WeKpP40rkQKagpr573Kk1I8Y73wUP75Z7QXFiAs=",
-    "FILE_SIZE=1227875403",
-    "METADATA_HASH=gSJM6xyVgkC1qBdM92jbJ4APltueHdVjURKEqdF54SI=",
+    "FILE_HASH=72nZBFLKi23QS3yZQIv7cm/VluCioyPUZOcjivq6UQk=",
+    "FILE_SIZE=1227926339",
+    "METADATA_HASH=71grf42u6aQ8YFMBC3gO7uCu5Q+l9MjCFGNHqqPWptI=",
     "METADATA_SIZE=74917"
   ]
 }
