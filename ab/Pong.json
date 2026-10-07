@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.80",
-  "date": 1791409981,
-  "notes": "What's new in DuckOS 1.0.80\n\n\u2022 DuckWallet adds a card the way Apple's Wallet does: hold it up to the camera and its number, expiry and name are read off it, with the card's own colours, or tap \"Enter Card Details Manually\". Then Card Details, the expiry and security code, \"Adding Card\u2026\" and \"Card Added\", where you can pick how the card looks.\n\u2022 \"Cards Found For You\": cards from your other devices (through DuckCloud) wait there until you add them to this phone.\n\u2022 Create a Pass: make your own pass for a membership, a ticket or anything with a barcode. Scan its barcode or QR code with the camera or take it from a photo, and pick a colour. Gift cards and store cards scan their barcodes with the camera too.\n\u2022 DuckPay: its \"+\" opens DuckWallet's new card adding, the card shows on its own once you're recognised (the note under it is gone), and cards keep the colours DuckWallet gave them.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.80/payload.bin",
+  "duckos": "1.0.81",
+  "date": 1791411294,
+  "notes": "What's new in DuckOS 1.0.81\n\n\u2022 DuckWallet shows your card as it really looks: the camera keeps the card's own picture (Klarna's, PayPal's, your bank's design), with the number, name and dates painted out, and \"\u2022\u2022\u2022\u2022 1234\" over it, as Apple's Wallet does. DuckPay shows the same picture. You can still pick colours instead.\n\u2022 Cards that print their number in four stacked lines (1234 / 5678 / 9012 / 3456) are read too.\n\u2022 DuckWallet checks the card: a number that isn't a real card number, or a date that has passed, is caught before it's added. It says whose card it is (from the name on the card, or the number's first six digits): for example \"PayPal \u00b7 Visa\" or \"Jyske Bank \u00b7 Visa Debit \u00b7 Denmark\". A typed-in card from a known issuer gets its issuer's colours.\n\u2022 Typing a card number or expiry date no longer jumps the cursor.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.81/payload.bin",
   "offset": 0,
-  "size": 1236849957,
+  "size": 1236863620,
   "headers": [
-    "FILE_HASH=KszugW803VI7JVOwfevIl9umvLOszDTNfThdfD15GFw=",
-    "FILE_SIZE=1236849957",
-    "METADATA_HASH=IFPNf8lLD6xB+fVZmNiUar3WFmAnfu+k0dgyUonODok=",
-    "METADATA_SIZE=75603"
+    "FILE_HASH=yaHeGSpFzyMIYNIdR3AxPlpsIvKFd7hK/GynQFF10yc=",
+    "FILE_SIZE=1236863620",
+    "METADATA_HASH=adhuDeFyw0lWNZSmsIY8W2pQQuS9dwk+7g4/T+5sLdM=",
+    "METADATA_SIZE=75602"
   ]
 }
