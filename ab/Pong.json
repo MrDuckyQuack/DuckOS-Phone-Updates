@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.79",
-  "date": 1791407519,
-  "notes": "What's new in DuckOS 1.0.79\n\n\u2022 DuckStore opens straight to the store: no welcome pages, and the permissions it needs (installing apps, all-files access, notifications, running in the background) are given by the phone. Its store session is made by itself: the \"Access denied\" of 1.0.77 came from DuckStore giving its own name to Aurora's token service, which only knows Aurora's; it now introduces itself as Aurora Store does. Its icon is the bag on DuckOS's green, as its tile on the home screen.\n\u2022 DuckMaps: four map styles (Standard, Light, Dark, Satellite; the layers button), places near you first (a search for Lidl lists the ones down the road, with their distance), the map opens at your position straight away, and directions as Apple Maps gives them: by car, on foot or by bicycle, with the time and distance of each, then turn by turn with the next turn and its distance up top, the arrival time below, and every turn spoken in DuckAI's voice. It finds a new way when you leave the route.\n\u2022 \"Hey Duck\" learns your voice from six things you read out \u2014 \"Hey Duck\" on its own and in front of real questions (\"Hey Duck, what's the weather today?\") \u2014 so it catches the name the way you say it, in a sentence too.\n\u2022 The lock screen's grey dot (Android's fingerprint spot) is gone; the sensor is where it always was.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.79/payload.bin",
+  "duckos": "1.0.80",
+  "date": 1791409981,
+  "notes": "What's new in DuckOS 1.0.80\n\n\u2022 DuckWallet adds a card the way Apple's Wallet does: hold it up to the camera and its number, expiry and name are read off it, with the card's own colours, or tap \"Enter Card Details Manually\". Then Card Details, the expiry and security code, \"Adding Card\u2026\" and \"Card Added\", where you can pick how the card looks.\n\u2022 \"Cards Found For You\": cards from your other devices (through DuckCloud) wait there until you add them to this phone.\n\u2022 Create a Pass: make your own pass for a membership, a ticket or anything with a barcode. Scan its barcode or QR code with the camera or take it from a photo, and pick a colour. Gift cards and store cards scan their barcodes with the camera too.\n\u2022 DuckPay: its \"+\" opens DuckWallet's new card adding, the card shows on its own once you're recognised (the note under it is gone), and cards keep the colours DuckWallet gave them.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.80/payload.bin",
   "offset": 0,
-  "size": 1227926339,
+  "size": 1236849957,
   "headers": [
-    "FILE_HASH=72nZBFLKi23QS3yZQIv7cm/VluCioyPUZOcjivq6UQk=",
-    "FILE_SIZE=1227926339",
-    "METADATA_HASH=71grf42u6aQ8YFMBC3gO7uCu5Q+l9MjCFGNHqqPWptI=",
-    "METADATA_SIZE=74917"
+    "FILE_HASH=KszugW803VI7JVOwfevIl9umvLOszDTNfThdfD15GFw=",
+    "FILE_SIZE=1236849957",
+    "METADATA_HASH=IFPNf8lLD6xB+fVZmNiUar3WFmAnfu+k0dgyUonODok=",
+    "METADATA_SIZE=75603"
   ]
 }
