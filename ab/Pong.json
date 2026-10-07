@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.77",
-  "date": 1791397514,
-  "notes": "What's new in DuckOS 1.0.77\n\n\u2022 DuckStore is the phone's store now: the whole Google Play catalogue, built from Aurora Store's code as DuckOS's own app, with no sign-in asked for (it makes its own session). The old DuckStore and Beta Store are gone.\n\u2022 DuckPay looks like Apple Pay: your card up top, the face (or fingerprint) mark in a dark tile over its edge that turns green the moment the phone knows you, your other cards along the bottom. The face is read on DuckPay's own screen, with Face ID's looking-about animation, and it keeps looking by itself if the first look misses.\n\u2022 DuckWallet 3.0.6: adding a card goes the Apple Wallet way (Add to DuckWallet sheet, an intro, then Card Details in steps).\n\u2022 Settings \u203a DuckCloud is laid out like a phone's account page: your avatar and name up top, grouped rows with icons, Sign Out at the end.\n\u2022 Home screen: apps can be put on any cell, anywhere between the clock and the DuckAI bar (hold one and drag it there). The ring turns in the rows that stay empty.\n\u2022 Photos: a deleted picture shrinks away and the others slide into its place.\n\u2022 Clock: alarms laid out like iOS's (big times, labels, repeat days, a sheet to add or edit), the stopwatch's Lap/Stop and Reset/Start buttons, times in 24-hour form when the phone is, and no Pomodoro in the timer.\n\u2022 Notes: hold a note to rename, duplicate or delete it.\n\u2022 On the emulator only, DuckOS's own Quick Panel is back for the home's swipe-down; phones keep Android's shade.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.77/payload.bin",
+  "duckos": "1.0.78",
+  "date": 1791404142,
+  "notes": "What's new in DuckOS 1.0.78\n\n\u2022 Clock \u203a Alarms: the time in the Add Alarm sheet is DuckOS's own two big numbers, in 24-hour form when the phone is set that way (the browser's time box showed AM/PM whatever the setting).",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.78/payload.bin",
   "offset": 0,
-  "size": 1227871403,
+  "size": 1227875403,
   "headers": [
-    "FILE_HASH=CBikj3yhRlJk3VrLC5sL6qd56RQhOU5GOziadv6gVG4=",
-    "FILE_SIZE=1227871403",
-    "METADATA_HASH=oxbWuJjQ3nKx9TEuc7Zc1IdAL1GpcK4sJPfnVC8bpLo=",
+    "FILE_HASH=s5n/WeKpP40rkQKagpr573Kk1I8Y73wUP75Z7QXFiAs=",
+    "FILE_SIZE=1227875403",
+    "METADATA_HASH=gSJM6xyVgkC1qBdM92jbJ4APltueHdVjURKEqdF54SI=",
     "METADATA_SIZE=74917"
   ]
 }
