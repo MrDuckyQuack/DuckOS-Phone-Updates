@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.65",
-  "date": 1791330009,
-  "notes": "What's new in DuckOS 1.0.65\n\n\u2022 Connections stay on while locked: Wi-Fi, mobile data, Bluetooth and airplane mode can't be switched from the lock screen any more \u2014 its Quick Settings wait for your unlock (Settings \u203a Privacy & security, on by default). Notifications still pull down.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.65/payload.bin",
+  "duckos": "1.0.66",
+  "date": 1791350722,
+  "notes": "What's new in DuckOS 1.0.66\n\n\u2022 Settings \u203a Passwords, laid out anew: six cards \u2014 All, Passkeys, Codes, Wi-Fi, Security, Deleted \u2014 with a search and a \u201c+\u201d.\n\u2022 One-time codes (the six digits an authenticator app gives): scan a site's QR code with DuckOS Camera or type the key; the codes tick here and go to DuckCloud with your passwords.\n\u2022 Security: reused and easy-to-guess passwords, and a leak check (haveibeenpwned, only five characters of each hash leave the phone).\n\u2022 Deleted: a removed password stays 30 days, to be had back. Wi-Fi: the phone's networks and the ones you keep in DuckCloud.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.66/payload.bin",
   "offset": 0,
-  "size": 1227722573,
+  "size": 1227734507,
   "headers": [
-    "FILE_HASH=gqG6+iu8d+W5J7EfR0JLs4kidrwIbYcWDuwvNnCmPu0=",
-    "FILE_SIZE=1227722573",
-    "METADATA_HASH=V2YbOy/LOhDaa33C/lfawONGztn9Uy3OTR+7CYqdl94=",
-    "METADATA_SIZE=74919"
+    "FILE_HASH=ClUyzoQd9rzmhBDh3ya6IpnRvvMFNHoIhfjcS0iSmt4=",
+    "FILE_SIZE=1227734507",
+    "METADATA_HASH=MkPLlu16oZdPlMMAK+vNsPr4Pbg8pcn/4gi87WSeOLs=",
+    "METADATA_SIZE=74917"
   ]
 }
