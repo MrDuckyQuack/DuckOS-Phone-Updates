@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.74",
-  "date": 1791385976,
-  "notes": "What's new in DuckOS 1.0.74\n\n\u2022 DuckAI answers: Duckling reads its whole prompt once in the background right after it wakes up, so a question gets its first words in seconds instead of minutes. While it reads, DuckAI says so, with the seconds; if it ever takes too long or stops, it says that too instead of staying silent.\n\u2022 DuckWallet 3.0.4: a card saved while DuckOS's wallet couldn't be reached is moved into it the next time DuckWallet opens, so DuckPay (double-press the power button) has every card.\n\u2022 Settings \u203a DuckCloud: the \"Delete everything in DuckCloud\" button is gone.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.74/payload.bin",
+  "duckos": "1.0.75",
+  "date": 1791387819,
+  "notes": "What's new in DuckOS 1.0.75\n\n\u2022 With the keyboard up, Android's \"hide the keyboard\" arrow in the navigation bar is at the bottom right now, where the thumb is, instead of the bottom left.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.75/payload.bin",
   "offset": 0,
-  "size": 1227878751,
+  "size": 1227881163,
   "headers": [
-    "FILE_HASH=gOexg4zR7796O4TeUgpXPNDDbOebi8uwE9Roz6L3wwM=",
-    "FILE_SIZE=1227878751",
-    "METADATA_HASH=JDzSTY1oalgREK5SabcuprtYY5Z9q14QlKhUE9UmRW4=",
+    "FILE_HASH=8VfKgPqDcA3MghmkorWOaDuSIO9yW0NRCmouVwDG8Pc=",
+    "FILE_SIZE=1227881163",
+    "METADATA_HASH=nNXOmLf1WrTWrx+0ciGt6soQj93iq+peqKtN+vbmziQ=",
     "METADATA_SIZE=74917"
   ]
 }
