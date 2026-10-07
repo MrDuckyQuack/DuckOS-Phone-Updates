@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.67",
-  "date": 1791351842,
-  "notes": "What's new in DuckOS 1.0.67\n\n\u2022 Passkeys: DuckOS is the phone's passkey provider. When a site in DuckWeb or any app offers \u201csign in with a passkey\u201d, DuckOS makes one and keeps it on this phone and in DuckCloud with your passwords \u2014 and signs you in with your fingerprint or face. Settings \u203a Passwords \u203a Passkeys lists them.\n\u2022 DuckOS Passwords is also the phone's autofill and credential provider from the first start.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.67/payload.bin",
+  "duckos": "1.0.68",
+  "date": 1791354794,
+  "notes": "What's new in DuckOS 1.0.68\n\n\u2022 Find My \u203a Erase and DuckWeb's passkeys on sites now have the phone's permission they need (they could have been refused in 1.0.59\u20131.0.67).\n\u2022 A new DuckOS is announced as soon as you open the home screen, DuckCloud account or not (checked at most every three hours).",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.68/payload.bin",
   "offset": 0,
-  "size": 1227798611,
+  "size": 1227803011,
   "headers": [
-    "FILE_HASH=oZucmXAnSKR/BvkM5REo/NKbXj52RQljNS1sLpIltuw=",
-    "FILE_SIZE=1227798611",
-    "METADATA_HASH=AJ75aWmrQJgabF0398JpdBXEY0njyYBODOrEykaQ2F8=",
+    "FILE_HASH=qY4PkP8AaVMMsXhX37HfzDfTWAopTnuQLf13fZf9Dbw=",
+    "FILE_SIZE=1227803011",
+    "METADATA_HASH=YshXKvlnsLstvvnVUWBBpJgwMB5ZH9AG1VDuEmQSanE=",
     "METADATA_SIZE=74917"
   ]
 }
