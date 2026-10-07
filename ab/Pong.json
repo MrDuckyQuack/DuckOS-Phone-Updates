@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.69",
-  "date": 1791355449,
-  "notes": "What's new in DuckOS 1.0.69\n\n\u2022 DuckMessage is end-to-end encrypted: each of your devices has a key of its own, and a message is sealed for every device of both people before it leaves the phone \u2014 DuckCloud only ever carries ciphertext. (It takes effect as DuckCloud is updated; until then messages go as before.)",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.69/payload.bin",
+  "duckos": "1.0.70",
+  "date": 1791357177,
+  "notes": "What's new in DuckOS 1.0.70\n\n\u2022 DuckMessage: write @username in a new message to reach someone by their DuckTask name (it needs the next DuckTask and DuckCloud updates; until then it says so).\n\u2022 A DuckMessage conversation says \u201cEnd-to-end encrypted\u201d under the name once its messages travel sealed.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.70/payload.bin",
   "offset": 0,
-  "size": 1227805075,
+  "size": 1227808583,
   "headers": [
-    "FILE_HASH=pZUR/23zULnGTF3ttHqZMQGiC5APtUF58ObtjWHoy10=",
-    "FILE_SIZE=1227805075",
-    "METADATA_HASH=ouUWyL0uuk3N17XBLSKauAdKj/FNwxi9waNFmC04nrw=",
+    "FILE_HASH=YvHOEl7SQCSMrrEMa4TnPpRLJ+i00H4ff6jSRZA1vcM=",
+    "FILE_SIZE=1227808583",
+    "METADATA_HASH=PxckPYjrwKuK+4E3KY4FlnC/Ji8ZL579252wBiDSs5A=",
     "METADATA_SIZE=74917"
   ]
 }
