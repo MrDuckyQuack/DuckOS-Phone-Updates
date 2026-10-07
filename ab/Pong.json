@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.73",
-  "date": 1791372224,
-  "notes": "What's new in DuckOS 1.0.73\n\n\u2022 Typing is smooth again: the keyboard runs on its own, so it no longer stalls the app you type into \u2014 and opening a note no longer freezes the phone.\n\u2022 To Do is new: My Day, Important, Planned, your own lists, and a little celebration when you finish a task.\n\u2022 Clock, Weather and DuckOffice are laid out for a phone.\n\u2022 Games fill the screen; Snake and Tetris are steered by swiping.\n\u2022 Camera: a PRO mode (ISO, shutter, white balance, focus by hand) and its buttons sit below the status bar.\n\u2022 DuckAI answers \"brightness lower\", \"make it brighter\", \"dim the screen\" at once, and closes with the glow sinking away.\n\u2022 Choosing a picture (Bug Report, wallpaper, DuckOffice, the web apps) is DuckOS's own picker now.\n\u2022 Settings \u203a Notifications: every app's notifications, DuckOS's own pages \u2014 on/off and each kind of notification.\n\u2022 Medical ID is quicker to fill in: date of birth and age, height and weight with units, contacts from Contacts, saved as you type.\n\u2022 Bug Report lives in Settings and stays open after sending. DuckMaps sits under the status bar, Find My lost its zoom buttons, app icons are centred, \"The home screen is full\" is fixed.\n\u2022 DuckConnections: Lock only for PCs, and a proper sign-out sheet.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.73/payload.bin",
+  "duckos": "1.0.74",
+  "date": 1791385976,
+  "notes": "What's new in DuckOS 1.0.74\n\n\u2022 DuckAI answers: Duckling reads its whole prompt once in the background right after it wakes up, so a question gets its first words in seconds instead of minutes. While it reads, DuckAI says so, with the seconds; if it ever takes too long or stops, it says that too instead of staying silent.\n\u2022 DuckWallet 3.0.4: a card saved while DuckOS's wallet couldn't be reached is moved into it the next time DuckWallet opens, so DuckPay (double-press the power button) has every card.\n\u2022 Settings \u203a DuckCloud: the \"Delete everything in DuckCloud\" button is gone.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.74/payload.bin",
   "offset": 0,
-  "size": 1227874247,
+  "size": 1227878751,
   "headers": [
-    "FILE_HASH=piVt++jlIIofopCjVuWx3h0L2/kLcDEQvhRXy7bx8Vo=",
-    "FILE_SIZE=1227874247",
-    "METADATA_HASH=jdPu7H4cUerkRav59w4baxTIylNuh2307Pg5aQqzCbQ=",
+    "FILE_HASH=gOexg4zR7796O4TeUgpXPNDDbOebi8uwE9Roz6L3wwM=",
+    "FILE_SIZE=1227878751",
+    "METADATA_HASH=JDzSTY1oalgREK5SabcuprtYY5Z9q14QlKhUE9UmRW4=",
     "METADATA_SIZE=74917"
   ]
 }
