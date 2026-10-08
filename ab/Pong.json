@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.87",
-  "date": 1791451535,
-  "notes": "What's new in DuckOS 1.0.87\n\n\u2022 Passkeys work in DuckWeb. Sites can make a passkey on this phone and sign you in with it, after the phone's lock.\n\u2022 Use another phone or tablet: when this phone has no passkey for a site, DuckOS shows a QR code. Scan it with the iPhone, Android phone or tablet that has the passkey. Apps get the same choice in Android's sign-in sheet.\n\u2022 DuckStore installs the apps you pick straight away, without Android asking each time.\n\u2022 Settings > Apps > an app: each permission has its own switch now.\n\u2022 \"Hey Duck\" lets go of the microphone while another app records, so WhatsApp voice messages and calls hear you.\n\u2022 DuckWallet has animations: cards rise in, fly open when tapped, and shrink away when removed.\n\u2022 Settings > Updates shows Preparing, Installing and Verifying in your language.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.87/payload.bin",
+  "duckos": "1.0.88",
+  "date": 1791453711,
+  "notes": "What's new in DuckOS 1.0.88\n\n\u2022 DuckAI answers in the language you speak or write, even when you switch between English, German and Turkish in one chat.\n\u2022 DuckAI understands German and Turkish commands right away: \"Kannst du WhatsApp \u00f6ffnen?\", \"Taschenlampe an\", \"Lautst\u00e4rke auf 30\", \"WhatsApp'\u0131 a\u00e7\", \"saat ka\u00e7\" and more.\n\u2022 DuckAI can open every app on your phone, use the shortcuts apps offer (a WhatsApp chat, a new incognito tab in Chrome), send text into any app, and write WhatsApp, Telegram or Signal messages for you to send.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.88/payload.bin",
   "offset": 0,
-  "size": 1237117745,
+  "size": 1237144564,
   "headers": [
-    "FILE_HASH=VZ7bCNurVqaI08Rq75+ZU+3tPrMEBVOlQNBgM3cf/OQ=",
-    "FILE_SIZE=1237117745",
-    "METADATA_HASH=fxeJX6b4W195HOItsb3GI6mgyBY5HI+E5e7+FnwbyNs=",
-    "METADATA_SIZE=75603"
+    "FILE_HASH=JgZ6GzQsjHhK+LFlUDUlQVyRHgzBj9c9OIiQ6e300Ao=",
+    "FILE_SIZE=1237144564",
+    "METADATA_HASH=emOsMh56qmg3PDx/L4YMnkvcO6XBjcuX+Xcio/lcIhc=",
+    "METADATA_SIZE=75602"
   ]
 }
