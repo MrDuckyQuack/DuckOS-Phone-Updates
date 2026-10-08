@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.88",
-  "date": 1791453711,
-  "notes": "What's new in DuckOS 1.0.88\n\n\u2022 DuckAI answers in the language you speak or write, even when you switch between English, German and Turkish in one chat.\n\u2022 DuckAI understands German and Turkish commands right away: \"Kannst du WhatsApp \u00f6ffnen?\", \"Taschenlampe an\", \"Lautst\u00e4rke auf 30\", \"WhatsApp'\u0131 a\u00e7\", \"saat ka\u00e7\" and more.\n\u2022 DuckAI can open every app on your phone, use the shortcuts apps offer (a WhatsApp chat, a new incognito tab in Chrome), send text into any app, and write WhatsApp, Telegram or Signal messages for you to send.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.88/payload.bin",
+  "duckos": "1.0.89",
+  "date": 1791458576,
+  "notes": "What's new in DuckOS 1.0.89\n\n\u2022 DuckMaps starts talking the moment you tap Go: the voice is ready when DuckMaps opens, and the first direction is prepared while you look at the route.\n\u2022 DuckMaps has animations: sheets slide up, the turn banner drops in, the pin drops onto the place, your dot pulses, and the route draws itself.\n\u2022 Microphone in other apps: WhatsApp voice messages and calls should hear you now. DuckOS turns off the phone maker's sound effects on the microphone, which left those recordings silent. Settings > Sound > Microphone can turn them back on.\n\u2022 Passkeys in apps like Discord: \"Another phone or tablet\" now always shows in Android's sign-in sheet, and DuckOS stays a passkey provider even when another one is set.\n\u2022 Settings > Apps > an app: permission switches move at once and no longer jump back while Android changes them.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.89/payload.bin",
   "offset": 0,
-  "size": 1237144564,
+  "size": 1237146463,
   "headers": [
-    "FILE_HASH=JgZ6GzQsjHhK+LFlUDUlQVyRHgzBj9c9OIiQ6e300Ao=",
-    "FILE_SIZE=1237144564",
-    "METADATA_HASH=emOsMh56qmg3PDx/L4YMnkvcO6XBjcuX+Xcio/lcIhc=",
-    "METADATA_SIZE=75602"
+    "FILE_HASH=oXQst3NMOgZB0vtM5+ymsPbDS7x5LsIXME527Kd4nfk=",
+    "FILE_SIZE=1237146463",
+    "METADATA_HASH=kQbnmES7FdZR8SzXWSdOoAWXdf7/0YBGUcyPD18A5wQ=",
+    "METADATA_SIZE=75601"
   ]
 }
