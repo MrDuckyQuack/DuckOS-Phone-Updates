@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.113",
-  "date": 1791500304,
-  "notes": "What's new in DuckOS 1.0.113\n\n\u2022 DuckConnections shows the browsers you opened DuckCloud's website in (with your phone's code) \u2014 which browser, and when it was last active. \"Sign out\" locks your messages, notes and contacts there within a minute; scan its code again to open them there.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.113/payload.bin",
+  "duckos": "1.0.114",
+  "date": 1791502848,
+  "notes": "What's new in DuckOS 1.0.114\n\n\u2022 Face: when your face isn't recognised, DuckOS asks \"Face not recognised \u2014 Try again\". Tap Try again, and once your face is recognised it goes straight in \u2014 no \"Continue\" to tap.\n\u2022 DuckPay shows your cards in DuckWallet's order, and your member cards, gift cards and tickets are there too: pick one and its barcode shows, big and bright, for the till.\n\u2022 Settings \u203a DuckTask account \u203a Sign-in & security opens properly (your passwords password and end-to-end encryption, in a sheet).\n\u2022 Privacy & security \u203a TouchID and FaceID opens your face settings.\n\u2022 Android's own screen lock and face pages are in DuckOS's colours (yellow on DuckOS's backgrounds) instead of Android's blue.\n\u2022 DuckAntivirus is a page of Settings now (Privacy & security \u203a DuckAntivirus), not an app of its own.\n\u2022 DuckAntivirus trusts apps from DuckStore (WhatsApp, Discord\u2026 are no longer \"from outside a trusted store\").\n\u2022 DuckAntivirus checks every app you install and every file you download, the moment it arrives, and tells you each time.\n\u2022 DuckAntivirus \u203a Web protection is a real switch now: DuckWeb's ad and tracker blocking.\n\u2022 Lock screen: Android's bar at the bottom is hidden on DuckOS's lock screen, so a swipe from the edge no longer leaves you on Android's old lock screen.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.114/payload.bin",
   "offset": 0,
-  "size": 1243069631,
+  "size": 1243140251,
   "headers": [
-    "FILE_HASH=eVyLFIE9NBwC1cl8t9hZPbaJhjp3lrR9jHZH6ztxRiE=",
-    "FILE_SIZE=1243069631",
-    "METADATA_HASH=cNBTztaVwlLCPbfDE1/luweFNCn1TVTYrekQ8nrSRKw=",
+    "FILE_HASH=pjmGlFhd/nS52AH6TpCu6lSLT9pbL+m1XEU2hv5x/AQ=",
+    "FILE_SIZE=1243140251",
+    "METADATA_HASH=8ldA9PwOhCfSN+VX6HNZOmZHT4/Wpvr606E7RQz+/4I=",
     "METADATA_SIZE=76001"
   ]
 }
