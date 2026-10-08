@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.85",
-  "date": 1791446011,
-  "notes": "What's new in DuckOS 1.0.85\n\n\u2022 DuckOS speaks your language: choose German or Turkish in Settings \u203a Languages & input and DuckOS's own apps follow at once \u2014 Settings, DuckWallet and DuckPay, Phone, Messages, Contacts, Camera, Photos, Files, DuckWeb, DuckAI, Clock, Calendar, To Do, Weather, Notes, the games and DuckMaps \u2014 along with every other app. In other languages, DuckOS's own words stay in English for now.\n\u2022 DuckMaps gives directions in your language, and says street names the way the country says them: on an English phone in Germany you hear \"turn left onto\" in English and \"Hauptstra\u00dfe\" in German.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.85/payload.bin",
+  "duckos": "1.0.86",
+  "date": 1791447777,
+  "notes": "What's new in DuckOS 1.0.86\n\n\u2022 Swiping down on the home screen opens the phone's notifications and Quick Settings again. Where Android let DuckOS's request go by, DuckOS now notices the shade didn't open and opens it another way.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.86/payload.bin",
   "offset": 0,
-  "size": 1237076672,
+  "size": 1237080085,
   "headers": [
-    "FILE_HASH=8/gj6R7najuROy4HDB9xdQMBGj+G9fAUU7KPhwqq9mE=",
-    "FILE_SIZE=1237076672",
-    "METADATA_HASH=gE4LImCS4CjUcABkdnPe4FUPfNMSBcR6RZcwjxDxoLM=",
-    "METADATA_SIZE=75602"
+    "FILE_HASH=CLGkmkFJlxApUub4/jtx/WfRmdtin7OxrqheRosSXjw=",
+    "FILE_SIZE=1237080085",
+    "METADATA_HASH=dVd1L3eznKmHLzZrIU2Xe3oYvvIo/pHdW5rptQklgxU=",
+    "METADATA_SIZE=75603"
   ]
 }
