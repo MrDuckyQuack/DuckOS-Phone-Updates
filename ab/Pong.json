@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.94",
-  "date": 1791472986,
-  "notes": "What's new in DuckOS 1.0.94\n\n\u2022 DuckAI can look at pictures: tap the picture button and ask about it. Claude, ChatGPT and Gemini see the picture itself; Duckling tells you what your phone recognises in it and reads its text.\n\u2022 DuckAI takes photos and selfies for you (\"take a selfie\"): DuckOS Camera opens, counts down and takes it.\n\u2022 DuckAI sends text messages from DuckOS's Messages after you tap Send on screen. Whenever the phone is locked, DuckAI asks for your fingerprint, face or PIN before it opens apps, makes something or shows what's private.\n\u2022 DuckPay: the card you pick glides smoothly to the top, the glow reaches up to the title, no more check mark or cards showing at the bottom of the chooser, and the cards stretch apart when you pull them down.\n\u2022 DuckPay: \"Remove this card\" is gone. Remove cards in DuckWallet.\n\u2022 Adding a card shows only whose card it is, with a little animation, and a wrong number shakes.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.94/payload.bin",
+  "duckos": "1.0.95",
+  "date": 1791473737,
+  "notes": "What's new in DuckOS 1.0.95\n\n\u2022 DuckOffice: \"Start something new\" scrolls smoothly when you swipe fast, its pictures always show, and the tiles line up with the page.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.95/payload.bin",
   "offset": 0,
-  "size": 1242776378,
+  "size": 1242777174,
   "headers": [
-    "FILE_HASH=9TtiYcQcpZqfUUq1ravbdxzq58h9sOVfEWRrxXW/g9o=",
-    "FILE_SIZE=1242776378",
-    "METADATA_HASH=OIGIQlI9YHi1D78TFGEfSIGgeIO8aWYT44b51U9RERw=",
+    "FILE_HASH=0kkyFhQZmF7pX0Kicbw3AN48ecC3HMLvSsQmS/gKJM8=",
+    "FILE_SIZE=1242777174",
+    "METADATA_HASH=YCsf2Q3T01wWeCpjj9NWlc5cApQ6b0OhVCeOmKgn5qo=",
     "METADATA_SIZE=76000"
   ]
 }
