@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.93",
-  "date": 1791470276,
-  "notes": "What's new in DuckOS 1.0.93\n\n\u2022 DuckAI shows \"Thinking\", \"Listening\" and \"Speaking\" in the language you spoke to it in.\n\u2022 DuckAI no longer reads its waiting messages (\"Thinking\u2026\", \"Still reading\u2026\") out loud; they show in grey while it works.\n\u2022 DuckAI no longer reads emojis out loud.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.93/payload.bin",
+  "duckos": "1.0.94",
+  "date": 1791472986,
+  "notes": "What's new in DuckOS 1.0.94\n\n\u2022 DuckAI can look at pictures: tap the picture button and ask about it. Claude, ChatGPT and Gemini see the picture itself; Duckling tells you what your phone recognises in it and reads its text.\n\u2022 DuckAI takes photos and selfies for you (\"take a selfie\"): DuckOS Camera opens, counts down and takes it.\n\u2022 DuckAI sends text messages from DuckOS's Messages after you tap Send on screen. Whenever the phone is locked, DuckAI asks for your fingerprint, face or PIN before it opens apps, makes something or shows what's private.\n\u2022 DuckPay: the card you pick glides smoothly to the top, the glow reaches up to the title, no more check mark or cards showing at the bottom of the chooser, and the cards stretch apart when you pull them down.\n\u2022 DuckPay: \"Remove this card\" is gone. Remove cards in DuckWallet.\n\u2022 Adding a card shows only whose card it is, with a little animation, and a wrong number shakes.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.94/payload.bin",
   "offset": 0,
-  "size": 1237154905,
+  "size": 1242776378,
   "headers": [
-    "FILE_HASH=0eng7LodlU4lg4U0rRvYkdIfm+7Y2wIXn6Ygs09FdwE=",
-    "FILE_SIZE=1237154905",
-    "METADATA_HASH=e+4refDXwjRbNAp4tn4pKed7tDHP9LJpBYucwaRsitg=",
-    "METADATA_SIZE=75603"
+    "FILE_HASH=9TtiYcQcpZqfUUq1ravbdxzq58h9sOVfEWRrxXW/g9o=",
+    "FILE_SIZE=1242776378",
+    "METADATA_HASH=OIGIQlI9YHi1D78TFGEfSIGgeIO8aWYT44b51U9RERw=",
+    "METADATA_SIZE=76000"
   ]
 }
