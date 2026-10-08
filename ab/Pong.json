@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.99",
-  "date": 1791478305,
-  "notes": "What's new in DuckOS 1.0.99\n\n\u2022 Lock app: in Settings \u203a Apps \u203a an app, turn on \"Lock app\" and it opens only with your fingerprint or face, however it's opened. It stays open while you use it and locks again 30 seconds after you leave it or when the screen goes off.\n\u2022 DuckAI installs apps: \"Install Spotify\" / \"Installiere Spotify\" / \"Spotify'\u0131 y\u00fckle\". You say yes, and DuckStore downloads and installs it by itself.\n\u2022 DuckAI's questions (send, call, install) look like DuckOS.\n\u2022 DuckWallet: member cards and gift cards can be edited (Edit card).\n\u2022 Apps that ask for a photo get DuckOS's own picker instead of Android's.\n\u2022 Camera: photos use the sensor's clean 12 MP mode (sharper, less noise). Pro mode keeps the full 50 MP.\n\u2022 Settings \u203a Apps \u203a an app opens without freezing.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.99/payload.bin",
+  "duckos": "1.0.100",
+  "date": 1791480065,
+  "notes": "What's new in DuckOS 1.0.100\n\n\u2022 Calls show again: the call screen comes up for calls you make and get, so you can see, answer and hang up. Android's call system had been looking for the stock dialer's screen inside DuckOS. After this update DuckOS Phone is your phone app again, with its own call screen.\n\u2022 Missed calls: DuckOS's own notification (\"Missed call from Anna\", Call back, Message). A tap opens DuckOS Phone's Recents, not Android's stock app.\n\u2022 A new DuckOS ringtone: a little marimba tune with soft chords, bass and a shaker. The old one is still there as \"Bells\".\n\u2022 Contacts: your own card at the top (\"My Card\"), shown and opened like any contact, with your name, number and email. Edit it like any contact.\n\u2022 The SIM PIN screen's \"Emergency\" opens DuckOS's emergency screen (with your Medical ID), even before the first unlock.\n\u2022 \"SIM card added / removed\" asks in DuckOS's own style.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.100/payload.bin",
   "offset": 0,
-  "size": 1242821342,
+  "size": 1242975839,
   "headers": [
-    "FILE_HASH=xTfkvZrPub7P2YtRZoU4CfRbs9+32txLi0VLKor3hqc=",
-    "FILE_SIZE=1242821342",
-    "METADATA_HASH=ksGNAebbAD53ttfzqUQcTpmGiK2DhRce+znTJjRDXr0=",
-    "METADATA_SIZE=76000"
+    "FILE_HASH=qUws1n3SKeR0thBjCl/qMagpPIK3dq2/YhOJTMOfwm0=",
+    "FILE_SIZE=1242975839",
+    "METADATA_HASH=naGb9tBI7sFlfCddjoevYTbXrTXhRsFlfOuOoijGjNk=",
+    "METADATA_SIZE=76001"
   ]
 }
