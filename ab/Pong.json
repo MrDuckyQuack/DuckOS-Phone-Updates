@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.107",
-  "date": 1791494431,
-  "notes": "What's new in DuckOS 1.0.107\n\n\u2022 Lock screen notifications: a new look (frosted cards with the app's name and time, the newest few, the rest stacked behind them), swipe a notification sideways to dismiss it, \"Clear all\", and tap one to open it right after you unlock.\n\u2022 Face unlock waits for you: when your face is recognised, the padlock over the clock springs open and the lock screen stays until you swipe up.\n\u2022 Fixed: holding an app and moving it very fast could leave an invisible copy of the app list over the home screen, which caught your touches.\n\u2022 Fixed: DuckAI's voice could crash when it was stopped mid-sentence.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.107/payload.bin",
+  "duckos": "1.0.108",
+  "date": 1791495496,
+  "notes": "What's new in DuckOS 1.0.108\n\n\u2022 Lock screen gallery: hold the lock screen and it shrinks into a card. Swipe between your lock screens and tap one to use it. Rename it, delete it, or create a new one with its own wallpaper, clock style (Bold, Light, Serif or Stacked) and colour. It opens once your face is recognised.\n\u2022 Weather-adaptive lock screen: turn it on for a lock screen and its sky follows the weather outside: drifting clouds, rain, snow, fog, the sun's glow, or stars at night.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.108/payload.bin",
   "offset": 0,
-  "size": 1243049603,
+  "size": 1243066159,
   "headers": [
-    "FILE_HASH=YApHTJRnbultw98ZHGBUydyHdH5o9ufVeCyC9fYGwgE=",
-    "FILE_SIZE=1243049603",
-    "METADATA_HASH=Ce2dVtp32LCEQ579Ci8VgfitKspVEvclvLYnoIhiWNU=",
+    "FILE_HASH=h7xEInIKZMaBJR+Kii7t5454rSvRF3/zox9vkL2K4yU=",
+    "FILE_SIZE=1243066159",
+    "METADATA_HASH=xOMGg8fKErddRb1ojXHD7azFaWp04dbcK+YOxnxYpII=",
     "METADATA_SIZE=76001"
   ]
 }
