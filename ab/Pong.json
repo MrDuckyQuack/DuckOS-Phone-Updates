@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.82",
-  "date": 1791437463,
-  "notes": "What's new in DuckOS 1.0.82\n\n\u2022 Adding cards now happens in your DuckWallet, the one on your home screen. 1.0.80 and 1.0.81 sent DuckPay's \"+\" to a different, hidden wallet app by mistake; DuckPay's \"+\" and DuckWallet's own \"+\" now both open the new adding in DuckWallet.\n\u2022 Everything from 1.0.80 and 1.0.81 is there: hold your card up to the camera (number across or stacked, expiry, name, the issuer and the card's own picture), Card Details with the check that it's a real card number, \"Card Added\" with the card's look, \"Cards Found For You\", and Create a Pass with barcode and QR code scanning. A pass or store card shows its barcode when you open it in DuckWallet.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.82/payload.bin",
+  "duckos": "1.0.83",
+  "date": 1791442752,
+  "notes": "What's new in DuckOS 1.0.83\n\n\u2022 DuckMaps: the Light and Dark map styles work again, without any API key. They're now the same OpenStreetMap map as Find My's (Light in soft greys, Dark with Find My's dark look); the map service they used before started asking for an API key. Standard and Satellite are as before.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.83/payload.bin",
   "offset": 0,
-  "size": 1236997605,
+  "size": 1236982402,
   "headers": [
-    "FILE_HASH=U3sj8voxn+IY+L1Z2QbaAWj/zyB3/pZyBRW1q+ZEnb4=",
-    "FILE_SIZE=1236997605",
-    "METADATA_HASH=2bdq0brQuzkeyTMXgMBDxwUH4LDcZaaSnII5aqwfHwI=",
-    "METADATA_SIZE=75603"
+    "FILE_HASH=wM0c68PFD7I4s2JXcCpvEc/DGV70gr0Ydp9XrOFgkFQ=",
+    "FILE_SIZE=1236982402",
+    "METADATA_HASH=wkx51nCIVUGyR3CQheeZS4Is1rBbNSfFgz3/VbMT0Xc=",
+    "METADATA_SIZE=75604"
   ]
 }
