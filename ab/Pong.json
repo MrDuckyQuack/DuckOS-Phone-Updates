@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.104",
-  "date": 1791488837,
-  "notes": "What's new in DuckOS 1.0.104\r\n\r\n\u2022 Texts come in: on this phone the radio passed incoming texts on only when it started after the rest of the phone, so not one ever arrived. DuckOS now restarts with the radio off and turns it on 30 seconds after start-up, and texts arrive.\r\n\u2022 DuckAI installs apps in the background: say yes and DuckStore downloads and installs the app without opening.\r\n\u2022 Updates download about 15 times faster: DuckOS fetches them over many connections at once (from the next update on).\r\n\u2022 4G and 5G: the phone may now use them (it was set to 2G/3G only, so it sat on 2G).\r\n\u2022 Face unlock does everything by itself: no swiping up after your face on the lock screen, and no \"Confirm\" after your face in DuckPay, App Lock, DuckWallet, Passwords and passkeys.\r\n\u2022 DuckPay: the Face ID tile is gone. While it looks for your face, DuckOS's own ring turns above \"Pay with Face\".\r\n\u2022 Text messages in DuckCloud, end-to-end encrypted: your texts go up sealed, so DuckCloud can't read them, and you can send texts from DuckCloud on the web through your phone. Turn it off in DuckCloud \u203a Text messages.\r\n\u2022 End-to-end encryption needs no setup any more: your phone makes the key itself. To open your messages on the web, scan the code it shows with your phone (Settings \u203a DuckConnections \u203a Scan, or the Camera) and confirm it's you.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.104/payload.bin",
+  "duckos": "1.0.105",
+  "date": 1791492301,
+  "notes": "What's new in DuckOS 1.0.105\n\n\u2022 DuckOS lock screen: its own big clock, the date, the weather, battery and next alarm, what's playing, and your latest notifications in glass, with the flashlight and the camera at hand. Waking up, it comes out of the dark into focus and DuckOS's ring draws itself. Swipe up and it blurs away to your face, fingerprint or PIN. Once you're in, the home screen comes into focus. You can turn it off in Settings \u203a Lock screen.\n\u2022 DuckMessage: new messages spring in, and the ones you send spring up from where you typed them. The conversation no longer flickers when a message arrives, and when the keyboard opens, the newest messages stay in sight.\n\u2022 Removing an app asks only once, in DuckOS's own sheet.\n\u2022 DuckWallet cards in DuckCloud, end-to-end encrypted, now also without a passwords password (the \"DuckWallet cards\" switch in DuckCloud).",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.105/payload.bin",
   "offset": 0,
-  "size": 1243019531,
+  "size": 1243037895,
   "headers": [
-    "FILE_HASH=YtT0HyakzbGcC25v/Z1Bto5sha7XyHQ0dBt6gBRpk3I=",
-    "FILE_SIZE=1243019531",
-    "METADATA_HASH=1XGSqMUuF0yMBWkIemRggAz8hj2ufhYad7ewmSsx9Uc=",
+    "FILE_HASH=PFelTAGMLIkWnbxW5LEgvrNGZnkoY/C7HIlblJmz7lo=",
+    "FILE_SIZE=1243037895",
+    "METADATA_HASH=Op3txFjoR8rK4hEhVRx08jycNObeu76VydFnHEvBekw=",
     "METADATA_SIZE=76001"
   ]
 }
