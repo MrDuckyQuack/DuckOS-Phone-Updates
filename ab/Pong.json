@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.97",
-  "date": 1791475808,
-  "notes": "What's new in DuckOS 1.0.97\n\n\u2022 Weather uses where your phone really is (GPS, or the Wi-Fi networks around you), not the town of your time zone. Tap the pin to find your place again. The weather widget and DuckAI use it too.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.97/payload.bin",
+  "duckos": "1.0.98",
+  "date": 1791476875,
+  "notes": "What's new in DuckOS 1.0.98\n\n\u2022 DuckAI writes down what you say in the language you actually spoke: English with an accent isn't turned into German any more, and short phrases like \"ja \u00f6ffnen\" aren't taken for Finnish.\n\u2022 DuckAI speaks without long pauses at full stops, commas and dashes.\n\u2022 \"Call Anna on WhatsApp\" / \"Ruf Anna auf WhatsApp an\": DuckAI starts a WhatsApp call after you say yes, and finds the right person even when the name was misheard a little.\n\u2022 DuckAI no longer suggests the Google Play Store: apps come from DuckStore.\n\u2022 DuckPay: the face tile goes once it knows you, and in the card chooser your current card stays in its place in the stack.\n\u2022 Uninstalling an app from the home screen or the app list asks in DuckOS's own style.\n\u2022 Holding an app in the app list and dragging it never leaves it stuck on the screen any more.\n\u2022 Settings \u203a Accounts: each account shows its app, and adding one opens the app to sign in (WhatsApp no longer just closes).\n\u2022 Updates download only with at least 20 % battery or the charger in. Battery saver turns itself on at 15 %.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.98/payload.bin",
   "offset": 0,
-  "size": 1242809294,
+  "size": 1242815206,
   "headers": [
-    "FILE_HASH=imrVbAAvWZ9PsqiS7WKAlF4sn9DpuPzrDCcM64Z5xfs=",
-    "FILE_SIZE=1242809294",
-    "METADATA_HASH=1KOf9fhviM+6iGKZFoKYl+Q9OKROAwfd3qkklmuuW14=",
+    "FILE_HASH=FOnaJlmWj/sHTppXe/sfbZpMIQuGND1wIDNm3BIJTOM=",
+    "FILE_SIZE=1242815206",
+    "METADATA_HASH=G1ZYrqkYjY9IwEi9N1AlRbXe0UOpijFY9P+tGNWJ/UI=",
     "METADATA_SIZE=76000"
   ]
 }
