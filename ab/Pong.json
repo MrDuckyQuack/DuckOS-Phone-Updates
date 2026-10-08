@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.102",
-  "date": 1791483034,
-  "notes": "What's new in DuckOS 1.0.102\n\n\u2022 Duckling sees pictures: send DuckAI a photo and Duckling looks at it itself, on your phone, no account or key needed. It switches by itself: pictures go to its eyes, words to its brain. Its eyes download once over Wi-Fi (3 GB).\n\u2022 Camera: the lens's optical stabilisation is on, and the camera's own noise reduction and sharpening run at their best settings.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.102/payload.bin",
+  "duckos": "1.0.103",
+  "date": 1791485650,
+  "notes": "What's new in DuckOS 1.0.103\n\n\u2022 Updates download about 15 times faster: DuckOS fetches them over many connections at once (from the next update on).\n\u2022 4G and 5G: the phone may now use them (it was set to 2G/3G only, so it sat on 2G).\n\u2022 Face unlock does everything by itself: no swiping up after your face on the lock screen, and no \"Confirm\" after your face in DuckPay, App Lock, DuckWallet, Passwords and passkeys.\n\u2022 DuckPay: the Face ID tile is gone. While it looks for your face, DuckOS's own ring turns above \"Pay with Face\".\n\u2022 Text messages in DuckCloud, end-to-end encrypted: your texts go up sealed, so DuckCloud can't read them, and you can send texts from DuckCloud on the web through your phone. Turn it off in DuckCloud \u203a Text messages.\n\u2022 End-to-end encryption needs no setup any more: your phone makes the key itself. To open your messages on the web, scan the code it shows with your phone (Settings \u203a DuckConnections \u203a Scan, or the Camera) and confirm it's you.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.103/payload.bin",
   "offset": 0,
-  "size": 1243011635,
+  "size": 1243011675,
   "headers": [
-    "FILE_HASH=m67y1rHhz11rAAaVyXzjqbvPMt0J6zhh+bC2EmSzmYA=",
-    "FILE_SIZE=1243011635",
-    "METADATA_HASH=1hEaB05u0H1+si5GlF3SdBnoO4ga22ifJA5uEDFJ86E=",
+    "FILE_HASH=x0thpA8UycyzkIR+5Xg0CtDkTBc4iSN2Zt+aB2Tz334=",
+    "FILE_SIZE=1243011675",
+    "METADATA_HASH=CP3cU4EGJE39wUT5uPoFbPp8+YqqIpz8ZpIpSU1E6Uk=",
     "METADATA_SIZE=76001"
   ]
 }
