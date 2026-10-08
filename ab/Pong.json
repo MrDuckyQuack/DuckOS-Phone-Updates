@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.108",
-  "date": 1791495496,
-  "notes": "What's new in DuckOS 1.0.108\n\n\u2022 Lock screen gallery: hold the lock screen and it shrinks into a card. Swipe between your lock screens and tap one to use it. Rename it, delete it, or create a new one with its own wallpaper, clock style (Bold, Light, Serif or Stacked) and colour. It opens once your face is recognised.\n\u2022 Weather-adaptive lock screen: turn it on for a lock screen and its sky follows the weather outside: drifting clouds, rain, snow, fog, the sun's glow, or stars at night.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.108/payload.bin",
+  "duckos": "1.0.109",
+  "date": 1791495969,
+  "notes": "What's new in DuckOS 1.0.109\n\n\u2022 Lock screen notifications, stacked like on an iPhone: only the newest shows, with the others behind it. Swipe up on them to see them all (scroll if there are many), pull down at the top to stack them again, and swipe down on the stack to tuck them away behind a small \"notifications\" count. Swipe or tap that to bring them back.\n\u2022 Android's old lock screen no longer shows: the back gesture doesn't leave DuckOS's lock screen, and if the screen comes on without it, it comes back.\n\u2022 Home screen: move an app and every other app stays exactly where it is. Drop it on another app and the two swap; drop it on a widget and it goes to the nearest free spot.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.109/payload.bin",
   "offset": 0,
-  "size": 1243066159,
+  "size": 1243068787,
   "headers": [
-    "FILE_HASH=h7xEInIKZMaBJR+Kii7t5454rSvRF3/zox9vkL2K4yU=",
-    "FILE_SIZE=1243066159",
-    "METADATA_HASH=xOMGg8fKErddRb1ojXHD7azFaWp04dbcK+YOxnxYpII=",
+    "FILE_HASH=VU/pT1HFgHe5YECOUyr7Z+05BEm48GKL+RLR2UxGihg=",
+    "FILE_SIZE=1243068787",
+    "METADATA_HASH=8vCgvZm1ZF1jB+vVJTnFm02WYrRGoeP/Z2lqmSJGKsM=",
     "METADATA_SIZE=76001"
   ]
 }
