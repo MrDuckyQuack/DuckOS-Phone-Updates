@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.92",
-  "date": 1791468906,
-  "notes": "What's new in DuckOS 1.0.92\n\n\u2022 WhatsApp voice messages and other apps hear you again. While \"Hey Duck\" listened, this phone's audio put every app that recorded at the same time on its low-power wake-word microphone, which is nearly silent. Hey Duck and DuckAI now listen through the normal microphone.\n\u2022 DuckAI no longer misses your first word.\n\u2022 Settings > Sound shows your ringtone, notification and alarm sounds by name again, and they stay right after updates.\n\u2022 Settings > Sound > Microphone > Test the microphone listens a little longer and also checks voice search.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.92/payload.bin",
+  "duckos": "1.0.93",
+  "date": 1791470276,
+  "notes": "What's new in DuckOS 1.0.93\n\n\u2022 DuckAI shows \"Thinking\", \"Listening\" and \"Speaking\" in the language you spoke to it in.\n\u2022 DuckAI no longer reads its waiting messages (\"Thinking\u2026\", \"Still reading\u2026\") out loud; they show in grey while it works.\n\u2022 DuckAI no longer reads emojis out loud.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.93/payload.bin",
   "offset": 0,
-  "size": 1237153617,
+  "size": 1237154905,
   "headers": [
-    "FILE_HASH=4phPTVXi4hiKQvXVjGUZIMYZ2FCZP4uvu7ifXe53Yy4=",
-    "FILE_SIZE=1237153617",
-    "METADATA_HASH=LQK3iiDxKFHTkakp43jG9Y96cIxKI7zMcD8lKZffwoI=",
+    "FILE_HASH=0eng7LodlU4lg4U0rRvYkdIfm+7Y2wIXn6Ygs09FdwE=",
+    "FILE_SIZE=1237154905",
+    "METADATA_HASH=e+4refDXwjRbNAp4tn4pKed7tDHP9LJpBYucwaRsitg=",
     "METADATA_SIZE=75603"
   ]
 }
