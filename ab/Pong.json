@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.109",
-  "date": 1791495969,
-  "notes": "What's new in DuckOS 1.0.109\n\n\u2022 Lock screen notifications, stacked like on an iPhone: only the newest shows, with the others behind it. Swipe up on them to see them all (scroll if there are many), pull down at the top to stack them again, and swipe down on the stack to tuck them away behind a small \"notifications\" count. Swipe or tap that to bring them back.\n\u2022 Android's old lock screen no longer shows: the back gesture doesn't leave DuckOS's lock screen, and if the screen comes on without it, it comes back.\n\u2022 Home screen: move an app and every other app stays exactly where it is. Drop it on another app and the two swap; drop it on a widget and it goes to the nearest free spot.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.109/payload.bin",
+  "duckos": "1.0.110",
+  "date": 1791496564,
+  "notes": "What's new in DuckOS 1.0.110\n\n\u2022 Lock screen notifications: swiped up, the list takes the whole screen (the clock, widgets and music step aside and come back when you stack them again). The notifications always stay in sight; there's no hidden \"notifications\" count any more.\n\u2022 Removing an app: its icon shrinks away with a soft burst before it goes, and the others slide into its place.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.110/payload.bin",
   "offset": 0,
-  "size": 1243068787,
+  "size": 1243063344,
   "headers": [
-    "FILE_HASH=VU/pT1HFgHe5YECOUyr7Z+05BEm48GKL+RLR2UxGihg=",
-    "FILE_SIZE=1243068787",
-    "METADATA_HASH=8vCgvZm1ZF1jB+vVJTnFm02WYrRGoeP/Z2lqmSJGKsM=",
-    "METADATA_SIZE=76001"
+    "FILE_HASH=BMeV4pdfP4Jj0dtKZRmQIrF9NQ/HGJRH3z2tRZY6CfU=",
+    "FILE_SIZE=1243063344",
+    "METADATA_HASH=5KvJWou1+5sz8V2TjtaTSdlbIIMpLe1U/XTO03+OSL0=",
+    "METADATA_SIZE=76002"
   ]
 }
