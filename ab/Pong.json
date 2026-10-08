@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.110",
-  "date": 1791496564,
-  "notes": "What's new in DuckOS 1.0.110\n\n\u2022 Lock screen notifications: swiped up, the list takes the whole screen (the clock, widgets and music step aside and come back when you stack them again). The notifications always stay in sight; there's no hidden \"notifications\" count any more.\n\u2022 Removing an app: its icon shrinks away with a soft burst before it goes, and the others slide into its place.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.110/payload.bin",
+  "duckos": "1.0.111",
+  "date": 1791498426,
+  "notes": "What's new in DuckOS 1.0.111\n\n\u2022 Lock screen: swiping up on Android's bar at the bottom no longer leaves you on Android's old lock screen \u2014 DuckOS's lock screen comes straight back (and with it, changing the lock screen only happens in DuckOS's own gallery: hold the lock screen).\n\u2022 Home screen: moving an app is smooth \u2014 it settles into its new place from where you let go, instead of jumping back and sliding over.\n\u2022 Texts written on DuckCloud's website (cloud.ducktask.xyz/messages) go out from your phone within seconds, also with the phone in your pocket (on Wi-Fi, or whenever the screen is on).\n\u2022 Scanning DuckCloud's QR code with the Camera opens the right card in DuckConnections, even when Settings was already open.\n\u2022 \"Open your messages there\" is properly translated (German, Turkish).\n\u2022 Removing an app: its icon shrinks away before it goes.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.111/payload.bin",
   "offset": 0,
-  "size": 1243063344,
+  "size": 1243078127,
   "headers": [
-    "FILE_HASH=BMeV4pdfP4Jj0dtKZRmQIrF9NQ/HGJRH3z2tRZY6CfU=",
-    "FILE_SIZE=1243063344",
-    "METADATA_HASH=5KvJWou1+5sz8V2TjtaTSdlbIIMpLe1U/XTO03+OSL0=",
-    "METADATA_SIZE=76002"
+    "FILE_HASH=5KVtuGjZquwJPRJHn305A/4gZ1CzsDw7pJ3ntThWwCY=",
+    "FILE_SIZE=1243078127",
+    "METADATA_HASH=bLl1IDmOZjvgaTcaXG0IuyURj7W3wRqfwzVvXyZ0V0c=",
+    "METADATA_SIZE=76001"
   ]
 }
