@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.101",
-  "date": 1791482153,
-  "notes": "What's new in DuckOS 1.0.101\n\n\u2022 A new DuckOS ringtone: a phone's ring turned into a beat. If DuckOS is your ringtone, you hear the new one; the very first one is still there as \"Bells\".\n\u2022 The Message icon (Contacts, Phone, DuckMessage) is a proper chat bubble, the same size as the icons beside it.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.101/payload.bin",
+  "duckos": "1.0.102",
+  "date": 1791483034,
+  "notes": "What's new in DuckOS 1.0.102\n\n\u2022 Duckling sees pictures: send DuckAI a photo and Duckling looks at it itself, on your phone, no account or key needed. It switches by itself: pictures go to its eyes, words to its brain. Its eyes download once over Wi-Fi (3 GB).\n\u2022 Camera: the lens's optical stabilisation is on, and the camera's own noise reduction and sharpening run at their best settings.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.102/payload.bin",
   "offset": 0,
-  "size": 1243007147,
+  "size": 1243011635,
   "headers": [
-    "FILE_HASH=XJMWylaT6vyjzmzgXxqMOVOXIyWtIccXBNw2Sq92rrs=",
-    "FILE_SIZE=1243007147",
-    "METADATA_HASH=B8qFybrheS8i3Q1S7GAtWtIL8oy6SWfFkzoMzDyN8Mg=",
+    "FILE_HASH=m67y1rHhz11rAAaVyXzjqbvPMt0J6zhh+bC2EmSzmYA=",
+    "FILE_SIZE=1243011635",
+    "METADATA_HASH=1hEaB05u0H1+si5GlF3SdBnoO4ga22ifJA5uEDFJ86E=",
     "METADATA_SIZE=76001"
   ]
 }
