@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.112",
-  "date": 1791499123,
-  "notes": "What's new in DuckOS 1.0.112\n\n\u2022 Face: when your face isn't recognised the first time, DuckOS simply looks again by itself \u2014 no \"Try again\" button, and no \"Continue\" to tap after it works (DuckWallet, Passwords, DuckConnections, app lock, passkeys).\n\u2022 DuckWallet: pull an open card down to go back to all your cards \u2014 it flies back into the pile.\n\u2022 DuckWallet: hold a card to lift it, move it up or down the pile, and let go; the other cards slide out of the way, and the order is kept.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.112/payload.bin",
+  "duckos": "1.0.113",
+  "date": 1791500304,
+  "notes": "What's new in DuckOS 1.0.113\n\n\u2022 DuckConnections shows the browsers you opened DuckCloud's website in (with your phone's code) \u2014 which browser, and when it was last active. \"Sign out\" locks your messages, notes and contacts there within a minute; scan its code again to open them there.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.113/payload.bin",
   "offset": 0,
-  "size": 1243074091,
+  "size": 1243069631,
   "headers": [
-    "FILE_HASH=Cuwo/YIR2KMWL6jPDlMqyGPg17Ui0ApfbDq0fvhKL/0=",
-    "FILE_SIZE=1243074091",
-    "METADATA_HASH=b3BkMaxRkecfL67D+sgmdQBF2lYqEt44NDTccIiBgV8=",
+    "FILE_HASH=eVyLFIE9NBwC1cl8t9hZPbaJhjp3lrR9jHZH6ztxRiE=",
+    "FILE_SIZE=1243069631",
+    "METADATA_HASH=cNBTztaVwlLCPbfDE1/luweFNCn1TVTYrekQ8nrSRKw=",
     "METADATA_SIZE=76001"
   ]
 }
