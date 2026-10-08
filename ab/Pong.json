@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.100",
-  "date": 1791480065,
-  "notes": "What's new in DuckOS 1.0.100\n\n\u2022 Calls show again: the call screen comes up for calls you make and get, so you can see, answer and hang up. Android's call system had been looking for the stock dialer's screen inside DuckOS. After this update DuckOS Phone is your phone app again, with its own call screen.\n\u2022 Missed calls: DuckOS's own notification (\"Missed call from Anna\", Call back, Message). A tap opens DuckOS Phone's Recents, not Android's stock app.\n\u2022 A new DuckOS ringtone: a little marimba tune with soft chords, bass and a shaker. The old one is still there as \"Bells\".\n\u2022 Contacts: your own card at the top (\"My Card\"), shown and opened like any contact, with your name, number and email. Edit it like any contact.\n\u2022 The SIM PIN screen's \"Emergency\" opens DuckOS's emergency screen (with your Medical ID), even before the first unlock.\n\u2022 \"SIM card added / removed\" asks in DuckOS's own style.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.100/payload.bin",
+  "duckos": "1.0.101",
+  "date": 1791482153,
+  "notes": "What's new in DuckOS 1.0.101\n\n\u2022 A new DuckOS ringtone: a phone's ring turned into a beat. If DuckOS is your ringtone, you hear the new one; the very first one is still there as \"Bells\".\n\u2022 The Message icon (Contacts, Phone, DuckMessage) is a proper chat bubble, the same size as the icons beside it.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.101/payload.bin",
   "offset": 0,
-  "size": 1242975839,
+  "size": 1243007147,
   "headers": [
-    "FILE_HASH=qUws1n3SKeR0thBjCl/qMagpPIK3dq2/YhOJTMOfwm0=",
-    "FILE_SIZE=1242975839",
-    "METADATA_HASH=naGb9tBI7sFlfCddjoevYTbXrTXhRsFlfOuOoijGjNk=",
+    "FILE_HASH=XJMWylaT6vyjzmzgXxqMOVOXIyWtIccXBNw2Sq92rrs=",
+    "FILE_SIZE=1243007147",
+    "METADATA_HASH=B8qFybrheS8i3Q1S7GAtWtIL8oy6SWfFkzoMzDyN8Mg=",
     "METADATA_SIZE=76001"
   ]
 }
