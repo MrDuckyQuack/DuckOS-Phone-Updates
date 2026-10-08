@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.95",
-  "date": 1791473737,
-  "notes": "What's new in DuckOS 1.0.95\n\n\u2022 DuckOffice: \"Start something new\" scrolls smoothly when you swipe fast, its pictures always show, and the tiles line up with the page.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.95/payload.bin",
+  "duckos": "1.0.96",
+  "date": 1791475042,
+  "notes": "What's new in DuckOS 1.0.96\n\n\u2022 Home screen: put apps anywhere, right up to the top of the screen. Hold an app and drag it to any spot.\n\u2022 The big clock can be moved or removed: hold it and drag it, or choose \"Remove from home\". Add it back with \"Add a widget\".\n\u2022 Add any app's widget straight to the home screen: hold an empty spot, tap \"Add a widget\" and pick one. Hold a widget to move it, resize it or remove it.\n\u2022 Recent apps: Medical ID, DuckAntivirus, DuckMaps and the other DuckOS screens show their own icons instead of the DuckOS ring.\n\u2022 DuckAI's picture and message words in German and Turkish.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.96/payload.bin",
   "offset": 0,
-  "size": 1242777174,
+  "size": 1242795898,
   "headers": [
-    "FILE_HASH=0kkyFhQZmF7pX0Kicbw3AN48ecC3HMLvSsQmS/gKJM8=",
-    "FILE_SIZE=1242777174",
-    "METADATA_HASH=YCsf2Q3T01wWeCpjj9NWlc5cApQ6b0OhVCeOmKgn5qo=",
+    "FILE_HASH=/RwBtXIhUH2N7hPS3fZYUeKbdSSbC5//CxiY5dtQ+2k=",
+    "FILE_SIZE=1242795898",
+    "METADATA_HASH=oP0YFmonCj3gUixd1RNWY2Q3kJ+M1KztgEdHIMZvV6o=",
     "METADATA_SIZE=76000"
   ]
 }
