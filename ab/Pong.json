@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.105",
-  "date": 1791492301,
-  "notes": "What's new in DuckOS 1.0.105\n\n\u2022 DuckOS lock screen: its own big clock, the date, the weather, battery and next alarm, what's playing, and your latest notifications in glass, with the flashlight and the camera at hand. Waking up, it comes out of the dark into focus and DuckOS's ring draws itself. Swipe up and it blurs away to your face, fingerprint or PIN. Once you're in, the home screen comes into focus. You can turn it off in Settings \u203a Lock screen.\n\u2022 DuckMessage: new messages spring in, and the ones you send spring up from where you typed them. The conversation no longer flickers when a message arrives, and when the keyboard opens, the newest messages stay in sight.\n\u2022 Removing an app asks only once, in DuckOS's own sheet.\n\u2022 DuckWallet cards in DuckCloud, end-to-end encrypted, now also without a passwords password (the \"DuckWallet cards\" switch in DuckCloud).",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.105/payload.bin",
+  "duckos": "1.0.106",
+  "date": 1791493962,
+  "notes": "What's new in DuckOS 1.0.106\n\n\u2022 DuckAI calls straight away: \"ruf Mama an\" starts the call (it asks first only when the name was heard a little differently).\n\u2022 DuckAI writes messages straight away, without the long thinking: \"schreib Mama, dass ich sp\u00e4ter komme\", \"schick Papa eine Nachricht: bin gleich da\", \"sag Oma, \u2026\", on WhatsApp too, and the same in English.\n\u2022 DuckWallet never shows a credit or debit card's number, only its last four digits.\n\u2022 Apps come and go with animations: an app being installed shows its progress in Start, a new app pops in with DuckOS's colours, and a removed app shrinks away while the others slide into its place. \"Uninstall\" is red in the menu.\n\u2022 Settings \u203a Passwords moves: the cards come in one after another, lists slide in, a password comes out of a blur when shown, \"Copy\" turns into \"Copied \u2713\", and a removed password folds away.\n\u2022 DuckCloud keeps your DuckOS messages too, end-to-end encrypted, so the DuckCloud website can show and send them along with your texts.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.106/payload.bin",
   "offset": 0,
-  "size": 1243037895,
+  "size": 1243036120,
   "headers": [
-    "FILE_HASH=PFelTAGMLIkWnbxW5LEgvrNGZnkoY/C7HIlblJmz7lo=",
-    "FILE_SIZE=1243037895",
-    "METADATA_HASH=Op3txFjoR8rK4hEhVRx08jycNObeu76VydFnHEvBekw=",
-    "METADATA_SIZE=76001"
+    "FILE_HASH=v7o2+LBi6AVBjbdSHMRS3iVS6oMzkUiWdumXQR0HnEA=",
+    "FILE_SIZE=1243036120",
+    "METADATA_HASH=QjSI5j2MwVbdY4s581ur1OpBAiD9Qr/kLnHRG37ALDc=",
+    "METADATA_SIZE=76002"
   ]
 }
