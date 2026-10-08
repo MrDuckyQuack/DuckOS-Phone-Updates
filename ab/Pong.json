@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.81",
-  "date": 1791411294,
-  "notes": "What's new in DuckOS 1.0.81\n\n\u2022 DuckWallet shows your card as it really looks: the camera keeps the card's own picture (Klarna's, PayPal's, your bank's design), with the number, name and dates painted out, and \"\u2022\u2022\u2022\u2022 1234\" over it, as Apple's Wallet does. DuckPay shows the same picture. You can still pick colours instead.\n\u2022 Cards that print their number in four stacked lines (1234 / 5678 / 9012 / 3456) are read too.\n\u2022 DuckWallet checks the card: a number that isn't a real card number, or a date that has passed, is caught before it's added. It says whose card it is (from the name on the card, or the number's first six digits): for example \"PayPal \u00b7 Visa\" or \"Jyske Bank \u00b7 Visa Debit \u00b7 Denmark\". A typed-in card from a known issuer gets its issuer's colours.\n\u2022 Typing a card number or expiry date no longer jumps the cursor.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.81/payload.bin",
+  "duckos": "1.0.82",
+  "date": 1791437463,
+  "notes": "What's new in DuckOS 1.0.82\n\n\u2022 Adding cards now happens in your DuckWallet, the one on your home screen. 1.0.80 and 1.0.81 sent DuckPay's \"+\" to a different, hidden wallet app by mistake; DuckPay's \"+\" and DuckWallet's own \"+\" now both open the new adding in DuckWallet.\n\u2022 Everything from 1.0.80 and 1.0.81 is there: hold your card up to the camera (number across or stacked, expiry, name, the issuer and the card's own picture), Card Details with the check that it's a real card number, \"Card Added\" with the card's look, \"Cards Found For You\", and Create a Pass with barcode and QR code scanning. A pass or store card shows its barcode when you open it in DuckWallet.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.82/payload.bin",
   "offset": 0,
-  "size": 1236863620,
+  "size": 1236997605,
   "headers": [
-    "FILE_HASH=yaHeGSpFzyMIYNIdR3AxPlpsIvKFd7hK/GynQFF10yc=",
-    "FILE_SIZE=1236863620",
-    "METADATA_HASH=adhuDeFyw0lWNZSmsIY8W2pQQuS9dwk+7g4/T+5sLdM=",
-    "METADATA_SIZE=75602"
+    "FILE_HASH=U3sj8voxn+IY+L1Z2QbaAWj/zyB3/pZyBRW1q+ZEnb4=",
+    "FILE_SIZE=1236997605",
+    "METADATA_HASH=2bdq0brQuzkeyTMXgMBDxwUH4LDcZaaSnII5aqwfHwI=",
+    "METADATA_SIZE=75603"
   ]
 }
