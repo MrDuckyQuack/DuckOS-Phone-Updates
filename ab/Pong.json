@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.86",
-  "date": 1791447777,
-  "notes": "What's new in DuckOS 1.0.86\n\n\u2022 Swiping down on the home screen opens the phone's notifications and Quick Settings again. Where Android let DuckOS's request go by, DuckOS now notices the shade didn't open and opens it another way.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.86/payload.bin",
+  "duckos": "1.0.87",
+  "date": 1791451535,
+  "notes": "What's new in DuckOS 1.0.87\n\n\u2022 Passkeys work in DuckWeb. Sites can make a passkey on this phone and sign you in with it, after the phone's lock.\n\u2022 Use another phone or tablet: when this phone has no passkey for a site, DuckOS shows a QR code. Scan it with the iPhone, Android phone or tablet that has the passkey. Apps get the same choice in Android's sign-in sheet.\n\u2022 DuckStore installs the apps you pick straight away, without Android asking each time.\n\u2022 Settings > Apps > an app: each permission has its own switch now.\n\u2022 \"Hey Duck\" lets go of the microphone while another app records, so WhatsApp voice messages and calls hear you.\n\u2022 DuckWallet has animations: cards rise in, fly open when tapped, and shrink away when removed.\n\u2022 Settings > Updates shows Preparing, Installing and Verifying in your language.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.87/payload.bin",
   "offset": 0,
-  "size": 1237080085,
+  "size": 1237117745,
   "headers": [
-    "FILE_HASH=CLGkmkFJlxApUub4/jtx/WfRmdtin7OxrqheRosSXjw=",
-    "FILE_SIZE=1237080085",
-    "METADATA_HASH=dVd1L3eznKmHLzZrIU2Xe3oYvvIo/pHdW5rptQklgxU=",
+    "FILE_HASH=VZ7bCNurVqaI08Rq75+ZU+3tPrMEBVOlQNBgM3cf/OQ=",
+    "FILE_SIZE=1237117745",
+    "METADATA_HASH=fxeJX6b4W195HOItsb3GI6mgyBY5HI+E5e7+FnwbyNs=",
     "METADATA_SIZE=75603"
   ]
 }
