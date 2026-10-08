@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.83",
-  "date": 1791442752,
-  "notes": "What's new in DuckOS 1.0.83\n\n\u2022 DuckMaps: the Light and Dark map styles work again, without any API key. They're now the same OpenStreetMap map as Find My's (Light in soft greys, Dark with Find My's dark look); the map service they used before started asking for an API key. Standard and Satellite are as before.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.83/payload.bin",
+  "duckos": "1.0.84",
+  "date": 1791445211,
+  "notes": "What's new in DuckOS 1.0.84\n\n\u2022 DuckMaps looks like Find My's map: the same quiet greys, dark in the dark themes and light in the Light theme. Dark and Light always use that look; Satellite is unchanged.\n\u2022 Settings shows on the open-apps page: opened from Start or the home screen, it's now its own app there, as when it's opened from Quick Settings.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.84/payload.bin",
   "offset": 0,
-  "size": 1236982402,
+  "size": 1236994996,
   "headers": [
-    "FILE_HASH=wM0c68PFD7I4s2JXcCpvEc/DGV70gr0Ydp9XrOFgkFQ=",
-    "FILE_SIZE=1236982402",
-    "METADATA_HASH=wkx51nCIVUGyR3CQheeZS4Is1rBbNSfFgz3/VbMT0Xc=",
-    "METADATA_SIZE=75604"
+    "FILE_HASH=uNoxbASFW4BAmIQaniJmMQ/eJcwuEfXcQmYWkRoHwZc=",
+    "FILE_SIZE=1236994996",
+    "METADATA_HASH=kbjzV7QC8tNuaVUKT7Cad64t8SC7/9yjQtByKbZQcNw=",
+    "METADATA_SIZE=75602"
   ]
 }
