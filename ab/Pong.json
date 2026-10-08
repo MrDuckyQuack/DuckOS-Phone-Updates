@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.84",
-  "date": 1791445211,
-  "notes": "What's new in DuckOS 1.0.84\n\n\u2022 DuckMaps looks like Find My's map: the same quiet greys, dark in the dark themes and light in the Light theme. Dark and Light always use that look; Satellite is unchanged.\n\u2022 Settings shows on the open-apps page: opened from Start or the home screen, it's now its own app there, as when it's opened from Quick Settings.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.84/payload.bin",
+  "duckos": "1.0.85",
+  "date": 1791446011,
+  "notes": "What's new in DuckOS 1.0.85\n\n\u2022 DuckOS speaks your language: choose German or Turkish in Settings \u203a Languages & input and DuckOS's own apps follow at once \u2014 Settings, DuckWallet and DuckPay, Phone, Messages, Contacts, Camera, Photos, Files, DuckWeb, DuckAI, Clock, Calendar, To Do, Weather, Notes, the games and DuckMaps \u2014 along with every other app. In other languages, DuckOS's own words stay in English for now.\n\u2022 DuckMaps gives directions in your language, and says street names the way the country says them: on an English phone in Germany you hear \"turn left onto\" in English and \"Hauptstra\u00dfe\" in German.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.85/payload.bin",
   "offset": 0,
-  "size": 1236994996,
+  "size": 1237076672,
   "headers": [
-    "FILE_HASH=uNoxbASFW4BAmIQaniJmMQ/eJcwuEfXcQmYWkRoHwZc=",
-    "FILE_SIZE=1236994996",
-    "METADATA_HASH=kbjzV7QC8tNuaVUKT7Cad64t8SC7/9yjQtByKbZQcNw=",
+    "FILE_HASH=8/gj6R7najuROy4HDB9xdQMBGj+G9fAUU7KPhwqq9mE=",
+    "FILE_SIZE=1237076672",
+    "METADATA_HASH=gE4LImCS4CjUcABkdnPe4FUPfNMSBcR6RZcwjxDxoLM=",
     "METADATA_SIZE=75602"
   ]
 }
