@@ -1,14 +1,14 @@
 {
-  "duckos": "1.0.91",
-  "date": 1791468126,
-  "notes": "What's new in DuckOS 1.0.91\n\n\u2022 DuckPay: the card glows in its own colour behind it, and the glow breathes once you've confirmed it's you.\n\u2022 DuckPay: drag the card down and all your cards fan out from it. The one you pick flies to the top.\n\u2022 DuckWallet: pull the cards down and they spread apart, then spring back. An open card glows in its colour.\n\u2022 Settings > Updates lists what's new one point at a time.",
-  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.91/payload.bin",
+  "duckos": "1.0.92",
+  "date": 1791468906,
+  "notes": "What's new in DuckOS 1.0.92\n\n\u2022 WhatsApp voice messages and other apps hear you again. While \"Hey Duck\" listened, this phone's audio put every app that recorded at the same time on its low-power wake-word microphone, which is nearly silent. Hey Duck and DuckAI now listen through the normal microphone.\n\u2022 DuckAI no longer misses your first word.\n\u2022 Settings > Sound shows your ringtone, notification and alarm sounds by name again, and they stay right after updates.\n\u2022 Settings > Sound > Microphone > Test the microphone listens a little longer and also checks voice search.",
+  "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.0.92/payload.bin",
   "offset": 0,
-  "size": 1237147861,
+  "size": 1237153617,
   "headers": [
-    "FILE_HASH=Z/0Q/9iaosDlxkRGIG7k0ZreRwtx8N/sGX+I3bd41L8=",
-    "FILE_SIZE=1237147861",
-    "METADATA_HASH=GH1xgM03c0vEen3W1hRNI+HlfeFzdOEed3XTAknB16w=",
+    "FILE_HASH=4phPTVXi4hiKQvXVjGUZIMYZ2FCZP4uvu7ifXe53Yy4=",
+    "FILE_SIZE=1237153617",
+    "METADATA_HASH=LQK3iiDxKFHTkakp43jG9Y96cIxKI7zMcD8lKZffwoI=",
     "METADATA_SIZE=75603"
   ]
 }
