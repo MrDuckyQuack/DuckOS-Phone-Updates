@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.2",
- "date": 1791555179,
- "notes": "DuckOS 1.1.2\n\n• DuckAI: timers start at once, even when the microphone mishears \"Timer\" (\"15 minutes\" alone works too) — and it just says \"Your 15-minute timer is running\".\n• DuckAI answers short after doing something, and shows **bold**, *italic*, lists, headings, code and links properly.\n• The DuckAI panel hears you out faster and catches misheard words.\n• Home: \"overdue\" and to-dos in your language.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.2/payload.bin",
+ "duckos": "1.1.3",
+ "date": 1791560310,
+ "notes": "DuckOS 1.1.3\n\n• Security: bringing things from your old phone over Wi-Fi is now encrypted end to end — nobody else on the Wi-Fi can see your photos or slip files in.\n• Security: other apps can no longer set off DuckOS alarms, mark your to-dos done or switch the radio; DuckOS's own servers are only ever reached over HTTPS; DuckOS's data stays out of backups; \"Hey Duck\" no longer writes what it hears into the system log.\n• DuckAI: reminders in German and Turkish work at once (\"Erinnere mich in 10 Minuten an…\") and are confirmed in your language.\n• Notifications in your language: reminders, timers, updates, calls.\n• Fixes: the last setup screen says what you really brought; the home date follows a new language at once; camera modes and long call-button words in your language.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.3/payload.bin",
  "offset": 0,
- "size": 1244871899,
+ "size": 1244886182,
  "headers": [
-  "FILE_HASH=7z2qOOhOyTWvT4to18iWZchZZwqQ9uHiHHJvGTg9sak=",
-  "FILE_SIZE=1244871899",
-  "METADATA_HASH=BgLal33P75GBQKidbcdluEByLtfPoeFc6RYndAo5EvY=",
-  "METADATA_SIZE=76057"
+  "FILE_HASH=hEmdshAbiYbTcyBCFEBL5YZtwYWnvKwCHRUzJXYTCX0=",
+  "FILE_SIZE=1244886182",
+  "METADATA_HASH=43gLQ3g6wjaqyLEhLA64X1QNwALKS35UqjJEbO8WbYA=",
+  "METADATA_SIZE=76060"
  ],
- "notes_de": "DuckOS 1.1.2\n\n• DuckAI: Timer starten sofort, auch wenn das Mikrofon „Timer“ falsch versteht (auch nur „15 Minuten“ geht) – und es sagt einfach „Dein Timer für 15 Minuten läuft“.\n• DuckAI antwortet kurz, wenn es etwas erledigt hat, und zeigt **fett**, *kursiv*, Listen, Überschriften, Code und Links richtig an.\n• Das DuckAI-Fenster hört schneller zu Ende und erkennt falsch verstandene Wörter.\n• Startbildschirm: „überfällig“ und Aufgaben in deiner Sprache.",
- "notes_tr": "DuckOS 1.1.2\n\n• DuckAI: Mikrofon „Timer“ı yanlış duysa bile zamanlayıcılar hemen başlar (sadece „15 dakika“ da olur) – ve sadece „15 dakikalık zamanlayıcınız çalışıyor“ der.\n• DuckAI bir şey yaptıktan sonra kısa cevap verir ve **kalın**, *italik*, listeler, başlıklar, kod ve bağlantıları doğru gösterir.\n• DuckAI paneli sizi daha hızlı dinler ve yanlış duyulan kelimeleri yakalar.\n• Ana ekran: „gecikmiş“ ve yapılacaklar sizin dilinizde."
+ "notes_de": "DuckOS 1.1.3\n\n• Sicherheit: Sachen vom alten Telefon kommen jetzt Ende-zu-Ende-verschlüsselt über das WLAN – niemand sonst im WLAN sieht deine Fotos oder kann Dateien einschleusen.\n• Sicherheit: Andere Apps können keine DuckOS-Wecker mehr auslösen, keine Aufgaben abhaken und kein Funkmodul schalten; DuckOS-Server werden nur noch über HTTPS erreicht; DuckOS-Daten landen nicht in Backups; „Hey Duck“ schreibt nicht mehr ins Systemprotokoll, was es hört.\n• DuckAI: Erinnerungen auf Deutsch und Türkisch klappen sofort („Erinnere mich in 10 Minuten an …“) und werden in deiner Sprache bestätigt.\n• Benachrichtigungen in deiner Sprache: Erinnerungen, Timer, Updates, Anrufe.\n• Korrekturen: Der letzte Einrichtungsschritt sagt, was wirklich mitgekommen ist; das Datum auf dem Startbildschirm folgt einer neuen Sprache sofort; Kamera-Modi und lange Wörter auf den Anruf-Tasten in deiner Sprache.",
+ "notes_tr": "DuckOS 1.1.3\n\n• Güvenlik: Eski telefonunuzdan Wi-Fi ile aktarılanlar artık uçtan uca şifreli – Wi-Fi'deki başka kimse fotoğraflarınızı göremez veya dosya sokamaz.\n• Güvenlik: Diğer uygulamalar artık DuckOS alarmlarını çaldıramaz, yapılacaklarınızı tamamlandı yapamaz veya radyoyu değiştiremez; DuckOS sunucularına yalnızca HTTPS ile bağlanılır; DuckOS verileri yedeklere girmez; „Hey Duck“ duyduklarını artık sistem günlüğüne yazmaz.\n• DuckAI: Almanca ve Türkçe hatırlatıcılar hemen çalışır („10 dakika sonra bana … hatırlat“) ve sizin dilinizde onaylanır.\n• Bildirimler sizin dilinizde: hatırlatıcılar, zamanlayıcılar, güncellemeler, aramalar.\n• Düzeltmeler: Kurulumun son ekranı gerçekten neyin geldiğini söyler; ana ekrandaki tarih yeni dile hemen uyar; kamera modları ve arama tuşlarındaki uzun kelimeler sizin dilinizde."
 }
