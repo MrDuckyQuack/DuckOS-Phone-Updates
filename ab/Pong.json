@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.3",
- "date": 1791560310,
- "notes": "DuckOS 1.1.3\n\n• Security: bringing things from your old phone over Wi-Fi is now encrypted end to end — nobody else on the Wi-Fi can see your photos or slip files in.\n• Security: other apps can no longer set off DuckOS alarms, mark your to-dos done or switch the radio; DuckOS's own servers are only ever reached over HTTPS; DuckOS's data stays out of backups; \"Hey Duck\" no longer writes what it hears into the system log.\n• DuckAI: reminders in German and Turkish work at once (\"Erinnere mich in 10 Minuten an…\") and are confirmed in your language.\n• Notifications in your language: reminders, timers, updates, calls.\n• Fixes: the last setup screen says what you really brought; the home date follows a new language at once; camera modes and long call-button words in your language.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.3/payload.bin",
+ "duckos": "1.1.4",
+ "date": 1791562165,
+ "notes": "DuckOS 1.1.4\n\n• DuckOffice in your language: menus, buttons, new files (\"Untitled document\"), page and word count.\n• Start finds DuckOS's apps by the names you see and everyday words (\"Weather\", \"alarm\", \"notes\"…).\n• Settings: when the camera, microphone and location were last used, app counts, the sound mode, passwords and DuckAI/DuckWeb descriptions are right and in your language.\n• DuckMessage, Calendar and many short texts read properly in your language (no more missing spaces).",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.4/payload.bin",
  "offset": 0,
- "size": 1244886182,
+ "size": 1244911054,
  "headers": [
-  "FILE_HASH=hEmdshAbiYbTcyBCFEBL5YZtwYWnvKwCHRUzJXYTCX0=",
-  "FILE_SIZE=1244886182",
-  "METADATA_HASH=43gLQ3g6wjaqyLEhLA64X1QNwALKS35UqjJEbO8WbYA=",
+  "FILE_HASH=0F5g8Hko7TYfRr27H7bTIyJmKQZiNhkZRciP2nDTuk8=",
+  "FILE_SIZE=1244911054",
+  "METADATA_HASH=6Bv6J9un74JWw9cNkTO8ymMTMFRLTt1n1RdKLjcE/ys=",
   "METADATA_SIZE=76060"
  ],
- "notes_de": "DuckOS 1.1.3\n\n• Sicherheit: Sachen vom alten Telefon kommen jetzt Ende-zu-Ende-verschlüsselt über das WLAN – niemand sonst im WLAN sieht deine Fotos oder kann Dateien einschleusen.\n• Sicherheit: Andere Apps können keine DuckOS-Wecker mehr auslösen, keine Aufgaben abhaken und kein Funkmodul schalten; DuckOS-Server werden nur noch über HTTPS erreicht; DuckOS-Daten landen nicht in Backups; „Hey Duck“ schreibt nicht mehr ins Systemprotokoll, was es hört.\n• DuckAI: Erinnerungen auf Deutsch und Türkisch klappen sofort („Erinnere mich in 10 Minuten an …“) und werden in deiner Sprache bestätigt.\n• Benachrichtigungen in deiner Sprache: Erinnerungen, Timer, Updates, Anrufe.\n• Korrekturen: Der letzte Einrichtungsschritt sagt, was wirklich mitgekommen ist; das Datum auf dem Startbildschirm folgt einer neuen Sprache sofort; Kamera-Modi und lange Wörter auf den Anruf-Tasten in deiner Sprache.",
- "notes_tr": "DuckOS 1.1.3\n\n• Güvenlik: Eski telefonunuzdan Wi-Fi ile aktarılanlar artık uçtan uca şifreli – Wi-Fi'deki başka kimse fotoğraflarınızı göremez veya dosya sokamaz.\n• Güvenlik: Diğer uygulamalar artık DuckOS alarmlarını çaldıramaz, yapılacaklarınızı tamamlandı yapamaz veya radyoyu değiştiremez; DuckOS sunucularına yalnızca HTTPS ile bağlanılır; DuckOS verileri yedeklere girmez; „Hey Duck“ duyduklarını artık sistem günlüğüne yazmaz.\n• DuckAI: Almanca ve Türkçe hatırlatıcılar hemen çalışır („10 dakika sonra bana … hatırlat“) ve sizin dilinizde onaylanır.\n• Bildirimler sizin dilinizde: hatırlatıcılar, zamanlayıcılar, güncellemeler, aramalar.\n• Düzeltmeler: Kurulumun son ekranı gerçekten neyin geldiğini söyler; ana ekrandaki tarih yeni dile hemen uyar; kamera modları ve arama tuşlarındaki uzun kelimeler sizin dilinizde."
+ "notes_de": "DuckOS 1.1.4\n\n• DuckOffice in deiner Sprache: Menüs, Tasten, neue Dateien („Unbenanntes Dokument“), Seiten- und Wortzahl.\n• Start findet die DuckOS-Apps unter den Namen, die du siehst, und mit Alltagswörtern („Wetter“, „Wecker“, „Haftnotizen“ …).\n• Einstellungen: Wann Kamera, Mikrofon und Standort zuletzt benutzt wurden, App-Anzahlen, der Tonmodus, Passwörter und die Beschreibungen von DuckAI und DuckWeb stimmen und sind auf Deutsch. „Neustart“ heißt jetzt „Neuanfang“.\n• DuckMessage, Kalender und viele kurze Texte lesen sich richtig (keine fehlenden Leerzeichen mehr).",
+ "notes_tr": "DuckOS 1.1.4\n\n• DuckOffice sizin dilinizde: menüler, düğmeler, yeni dosyalar („Adsız belge“), sayfa ve kelime sayısı.\n• Başlat, DuckOS uygulamalarını gördüğünüz adlarla ve günlük kelimelerle bulur („Hava durumu“, „alarm“, „notlar“…).\n• Ayarlar: kamera, mikrofon ve konumun en son ne zaman kullanıldığı, uygulama sayıları, ses modu, şifreler ve DuckAI/DuckWeb açıklamaları doğru ve sizin dilinizde.\n• DuckMessage, Takvim ve birçok kısa metin doğru okunur (eksik boşluklar yok)."
 }
