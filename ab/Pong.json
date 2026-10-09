@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.1",
- "date": 1791554291,
- "notes": "DuckOS 1.1.1\n\n• After a restart, DuckOS's own lock screen is there straight away — not Android's. Swipe up and enter your PIN once (as on every phone, your face can only unlock after that first PIN).",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.1/payload.bin",
+ "duckos": "1.1.2",
+ "date": 1791555179,
+ "notes": "DuckOS 1.1.2\n\n• DuckAI: timers start at once, even when the microphone mishears \"Timer\" (\"15 minutes\" alone works too) — and it just says \"Your 15-minute timer is running\".\n• DuckAI answers short after doing something, and shows **bold**, *italic*, lists, headings, code and links properly.\n• The DuckAI panel hears you out faster and catches misheard words.\n• Home: \"overdue\" and to-dos in your language.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.2/payload.bin",
  "offset": 0,
- "size": 1244884138,
+ "size": 1244871899,
  "headers": [
-  "FILE_HASH=aDIKnFVJyVxxuis9XYq1976xfuk+AAz77wwYscCNBHM=",
-  "FILE_SIZE=1244884138",
-  "METADATA_HASH=jKvOEgGAgqcEl8hYocfGo37Yt15TbwOS9ppRTneG1cg=",
-  "METADATA_SIZE=76056"
+  "FILE_HASH=7z2qOOhOyTWvT4to18iWZchZZwqQ9uHiHHJvGTg9sak=",
+  "FILE_SIZE=1244871899",
+  "METADATA_HASH=BgLal33P75GBQKidbcdluEByLtfPoeFc6RYndAo5EvY=",
+  "METADATA_SIZE=76057"
  ],
- "notes_de": "DuckOS 1.1.1\n\n• Nach einem Neustart ist sofort der DuckOS-Sperrbildschirm da – nicht der von Android. Nach oben wischen und einmal die PIN eingeben (wie bei jedem Telefon entsperrt das Gesicht erst nach dieser ersten PIN).",
- "notes_tr": "DuckOS 1.1.1\n\n• Yeniden başlatmadan sonra hemen DuckOS'un kendi kilit ekranı geliyor – Android'inki değil. Yukarı kaydırıp PIN'inizi bir kez girin (her telefonda olduğu gibi yüz tanıma bu ilk PIN'den sonra çalışır)."
+ "notes_de": "DuckOS 1.1.2\n\n• DuckAI: Timer starten sofort, auch wenn das Mikrofon „Timer“ falsch versteht (auch nur „15 Minuten“ geht) – und es sagt einfach „Dein Timer für 15 Minuten läuft“.\n• DuckAI antwortet kurz, wenn es etwas erledigt hat, und zeigt **fett**, *kursiv*, Listen, Überschriften, Code und Links richtig an.\n• Das DuckAI-Fenster hört schneller zu Ende und erkennt falsch verstandene Wörter.\n• Startbildschirm: „überfällig“ und Aufgaben in deiner Sprache.",
+ "notes_tr": "DuckOS 1.1.2\n\n• DuckAI: Mikrofon „Timer“ı yanlış duysa bile zamanlayıcılar hemen başlar (sadece „15 dakika“ da olur) – ve sadece „15 dakikalık zamanlayıcınız çalışıyor“ der.\n• DuckAI bir şey yaptıktan sonra kısa cevap verir ve **kalın**, *italik*, listeler, başlıklar, kod ve bağlantıları doğru gösterir.\n• DuckAI paneli sizi daha hızlı dinler ve yanlış duyulan kelimeleri yakalar.\n• Ana ekran: „gecikmiş“ ve yapılacaklar sizin dilinizde."
 }
