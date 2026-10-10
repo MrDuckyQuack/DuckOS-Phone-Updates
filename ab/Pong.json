@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.4",
- "date": 1791562165,
- "notes": "DuckOS 1.1.4\n\n• DuckOffice in your language: menus, buttons, new files (\"Untitled document\"), page and word count.\n• Start finds DuckOS's apps by the names you see and everyday words (\"Weather\", \"alarm\", \"notes\"…).\n• Settings: when the camera, microphone and location were last used, app counts, the sound mode, passwords and DuckAI/DuckWeb descriptions are right and in your language.\n• DuckMessage, Calendar and many short texts read properly in your language (no more missing spaces).",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.4/payload.bin",
+ "duckos": "1.1.5",
+ "date": 1791598494,
+ "notes": "DuckOS 1.1.5\n\n• Lock screen: without a face or fingerprint set up, hold the lock screen and enter your PIN to change it.\n• Calendar: \"Export .ics\" saves a real calendar file again (it ended in \".txt\").\n• DuckOS Keyboard: the Enter key in your language (\"Weiter\", \"Senden\"…); \"gehts\" is no longer changed to \"geht\".\n• Find My says when DuckCloud can't be reached, instead of searching forever.\n• More in your language: Files (\"3 items\", Audiobooks, Movies), To-do counts, Notes, radio countries, \"Saved to Downloads\", and DuckOS's names in Android's own lists (share sheet, Recents).",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.5/payload.bin",
  "offset": 0,
- "size": 1244911054,
+ "size": 1244911942,
  "headers": [
-  "FILE_HASH=0F5g8Hko7TYfRr27H7bTIyJmKQZiNhkZRciP2nDTuk8=",
-  "FILE_SIZE=1244911054",
-  "METADATA_HASH=6Bv6J9un74JWw9cNkTO8ymMTMFRLTt1n1RdKLjcE/ys=",
+  "FILE_HASH=IkgFrBgIaiJwUxkfTPbk7fsdIDzKmgr/L7gnVfHXh9M=",
+  "FILE_SIZE=1244911942",
+  "METADATA_HASH=rfYKNmifaAClJ75AqAg8A8qirVL/lHg8UrYW5WN2wiE=",
   "METADATA_SIZE=76060"
  ],
- "notes_de": "DuckOS 1.1.4\n\n• DuckOffice in deiner Sprache: Menüs, Tasten, neue Dateien („Unbenanntes Dokument“), Seiten- und Wortzahl.\n• Start findet die DuckOS-Apps unter den Namen, die du siehst, und mit Alltagswörtern („Wetter“, „Wecker“, „Haftnotizen“ …).\n• Einstellungen: Wann Kamera, Mikrofon und Standort zuletzt benutzt wurden, App-Anzahlen, der Tonmodus, Passwörter und die Beschreibungen von DuckAI und DuckWeb stimmen und sind auf Deutsch. „Neustart“ heißt jetzt „Neuanfang“.\n• DuckMessage, Kalender und viele kurze Texte lesen sich richtig (keine fehlenden Leerzeichen mehr).",
- "notes_tr": "DuckOS 1.1.4\n\n• DuckOffice sizin dilinizde: menüler, düğmeler, yeni dosyalar („Adsız belge“), sayfa ve kelime sayısı.\n• Başlat, DuckOS uygulamalarını gördüğünüz adlarla ve günlük kelimelerle bulur („Hava durumu“, „alarm“, „notlar“…).\n• Ayarlar: kamera, mikrofon ve konumun en son ne zaman kullanıldığı, uygulama sayıları, ses modu, şifreler ve DuckAI/DuckWeb açıklamaları doğru ve sizin dilinizde.\n• DuckMessage, Takvim ve birçok kısa metin doğru okunur (eksik boşluklar yok)."
+ "notes_de": "DuckOS 1.1.5\n\n• Sperrbildschirm: Ohne eingerichtetes Gesicht oder Fingerabdruck den Sperrbildschirm gedrückt halten und die PIN eingeben, um ihn zu ändern.\n• Kalender: „.ics exportieren“ speichert wieder eine echte Kalenderdatei (sie endete auf „.txt“).\n• DuckOS-Tastatur: Die Eingabetaste in deiner Sprache („Weiter“, „Senden“ …); aus „gehts“ wird nicht mehr „geht“.\n• „Wo ist?“ sagt, wenn DuckCloud nicht erreichbar ist, statt endlos zu suchen.\n• Mehr auf Deutsch: Dateien („3 Elemente“, Hörbücher, Filme), Aufgaben-Zähler, Notizen, Radio-Länder, „In Downloads gespeichert“ und DuckOS' Namen in Androids eigenen Listen (Teilen, Letzte Apps).",
+ "notes_tr": "DuckOS 1.1.5\n\n• Kilit ekranı: Yüz veya parmak izi ayarlı değilse, değiştirmek için kilit ekranına basılı tutup PIN'inizi girin.\n• Takvim: „.ics dışa aktar“ yine gerçek bir takvim dosyası kaydeder („.txt“ ile bitiyordu).\n• DuckOS Klavye: Enter tuşu sizin dilinizde („İleri“, „Gönder“…).\n• Bul, DuckCloud'a ulaşılamadığında bunu söyler, sonsuza kadar aramaz.\n• Daha fazlası sizin dilinizde: Dosyalar („3 öğe“, Sesli kitaplar, Filmler), yapılacak sayıları, Notlar, radyo ülkeleri, „İndirilenler'e kaydedildi“ ve Android'in kendi listelerinde DuckOS adları (paylaşım, Son uygulamalar)."
 }
