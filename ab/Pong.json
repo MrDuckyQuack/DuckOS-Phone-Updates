@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.24",
- "date": 1791649434,
- "notes": "DuckOS 1.1.24\n\n• DuckAI: your chats are now kept in DuckCloud, end-to-end encrypted, so they are on all your DuckOS phones and PCs. DuckCloud can't read them. Switch it off in Settings › DuckCloud.\n• DuckAI: sums with percent in words (\"Wie viel ist 15 Prozent von 80?\") are worked out right away and correctly.\n• DuckAI no longer changes the volume, brightness, flashlight and similar settings when you only asked a question.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.24/payload.bin",
+ "duckos": "1.1.25",
+ "date": 1791661308,
+ "notes": "DuckOS 1.1.25\n\n• DuckAI on the power button speaks its answers again. It stayed silent when its voice was still starting as the answer came, and the sheet could close before the voice had begun. Now it waits for the voice, and says so if the voice can't start.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.25/payload.bin",
  "offset": 0,
- "size": 1363614302,
+ "size": 1363616914,
  "headers": [
-  "FILE_HASH=4Ui42rXBgYa7TXzWeWJpc89iNs66b9frrHuVH3G+OP8=",
-  "FILE_SIZE=1363614302",
-  "METADATA_HASH=mEFhtXkfZMeQ0XRqAojTMsY7tQsqFJT9QXT5p8kIZKA=",
+  "FILE_HASH=LPMJtfjnd8HiRnvKDnSLA4MlUkvmOu61kogHnW76Cjg=",
+  "FILE_SIZE=1363616914",
+  "METADATA_HASH=/Wk4QhCCN39+qsAA/CFo6mjzB8Y8gR2PG2DIw7raX+g=",
   "METADATA_SIZE=80232"
  ],
- "notes_de": "DuckOS 1.1.24\n\n• DuckAI: Deine Chats werden jetzt in DuckCloud gespeichert, Ende-zu-Ende-verschlüsselt, und sind so auf all deinen DuckOS-Handys und -PCs. DuckCloud kann sie nicht lesen. Ausschalten kannst du das unter Einstellungen › DuckCloud.\n• DuckAI: Rechnungen mit Prozent in Worten („Wie viel ist 15 Prozent von 80?“) werden sofort und richtig ausgerechnet.\n• DuckAI ändert Lautstärke, Helligkeit, Taschenlampe und ähnliche Einstellungen nicht mehr, wenn du nur eine Frage gestellt hast.",
- "notes_tr": "DuckOS 1.1.24\n\n• DuckAI: Sohbetlerin artık DuckCloud'da uçtan uca şifreli olarak saklanıyor; böylece tüm DuckOS telefonlarında ve bilgisayarlarında var. DuckCloud onları okuyamaz. Ayarlar › DuckCloud'dan kapatabilirsin.\n• DuckAI: Kelimelerle yüzde hesapları (\"80'in yüzde 15'i kaç?\") anında ve doğru hesaplanıyor.\n• DuckAI, sadece bir soru sorduğunda artık ses düzeyini, parlaklığı, el fenerini ve benzeri ayarları değiştirmiyor."
+ "notes_de": "DuckOS 1.1.25\n\n• DuckAI auf der Ein-/Aus-Taste spricht seine Antworten wieder. Es blieb still, wenn seine Stimme beim Antworten noch startete, und das Fenster konnte sich schließen, bevor die Stimme begonnen hatte. Jetzt wartet es auf die Stimme und sagt Bescheid, falls sie nicht starten kann.",
+ "notes_tr": "DuckOS 1.1.25\n\n• Güç tuşundaki DuckAI yanıtlarını yeniden sesli söylüyor. Yanıt geldiğinde sesi hâlâ başlıyorsa sessiz kalıyordu ve pencere ses başlamadan kapanabiliyordu. Artık sesi bekliyor ve ses başlayamazsa bunu söylüyor."
 }
