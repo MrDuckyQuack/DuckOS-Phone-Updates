@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.23",
- "date": 1791639727,
- "notes": "DuckOS 1.1.23\n\n• DuckMusic: songs from YouTube show their cover big again, like every other song. The video is now a small tile in the corner (the smallest YouTube allows) and in the bar at the bottom.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.23/payload.bin",
+ "duckos": "1.1.24",
+ "date": 1791649434,
+ "notes": "DuckOS 1.1.24\n\n• DuckAI: your chats are now kept in DuckCloud, end-to-end encrypted, so they are on all your DuckOS phones and PCs. DuckCloud can't read them. Switch it off in Settings › DuckCloud.\n• DuckAI: sums with percent in words (\"Wie viel ist 15 Prozent von 80?\") are worked out right away and correctly.\n• DuckAI no longer changes the volume, brightness, flashlight and similar settings when you only asked a question.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.24/payload.bin",
  "offset": 0,
- "size": 1363613238,
+ "size": 1363614302,
  "headers": [
-  "FILE_HASH=mSHd231YytbiFOBgDkjSlbDy1ls6aE72r2xORVzj55M=",
-  "FILE_SIZE=1363613238",
-  "METADATA_HASH=Y+TGtcsg0BfIC2FeglyrrOR4Gzfdl8u9mehCweb6zbU=",
+  "FILE_HASH=4Ui42rXBgYa7TXzWeWJpc89iNs66b9frrHuVH3G+OP8=",
+  "FILE_SIZE=1363614302",
+  "METADATA_HASH=mEFhtXkfZMeQ0XRqAojTMsY7tQsqFJT9QXT5p8kIZKA=",
   "METADATA_SIZE=80232"
  ],
- "notes_de": "DuckOS 1.1.23\n\n• DuckMusic: Songs von YouTube zeigen wieder ihr Cover groß, wie alle anderen Songs. Das Video ist jetzt eine kleine Kachel in der Ecke (so klein, wie YouTube es erlaubt) und in der Leiste unten.",
- "notes_tr": "DuckOS 1.1.23\n\n• DuckMusic: YouTube'dan gelen şarkılar, diğer tüm şarkılar gibi kapaklarını yine büyük gösteriyor. Video artık köşede küçük bir kutucuk (YouTube'un izin verdiği en küçük boyut) ve alttaki çubukta."
+ "notes_de": "DuckOS 1.1.24\n\n• DuckAI: Deine Chats werden jetzt in DuckCloud gespeichert, Ende-zu-Ende-verschlüsselt, und sind so auf all deinen DuckOS-Handys und -PCs. DuckCloud kann sie nicht lesen. Ausschalten kannst du das unter Einstellungen › DuckCloud.\n• DuckAI: Rechnungen mit Prozent in Worten („Wie viel ist 15 Prozent von 80?“) werden sofort und richtig ausgerechnet.\n• DuckAI ändert Lautstärke, Helligkeit, Taschenlampe und ähnliche Einstellungen nicht mehr, wenn du nur eine Frage gestellt hast.",
+ "notes_tr": "DuckOS 1.1.24\n\n• DuckAI: Sohbetlerin artık DuckCloud'da uçtan uca şifreli olarak saklanıyor; böylece tüm DuckOS telefonlarında ve bilgisayarlarında var. DuckCloud onları okuyamaz. Ayarlar › DuckCloud'dan kapatabilirsin.\n• DuckAI: Kelimelerle yüzde hesapları (\"80'in yüzde 15'i kaç?\") anında ve doğru hesaplanıyor.\n• DuckAI, sadece bir soru sorduğunda artık ses düzeyini, parlaklığı, el fenerini ve benzeri ayarları değiştirmiyor."
 }
