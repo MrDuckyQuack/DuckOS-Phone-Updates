@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.7",
- "date": 1791601736,
- "notes": "DuckOS 1.1.7\n\n• DuckOS Keyboard: the bottom row no longer slips under the back and switch buttons after DuckOS restarts (a new design, an update).\n• Phone: calls from numbers not in Contacts no longer say \"Custom\".\n• More in your language: DuckStore app pages (size, licence, warnings, \"Updated\"), new contacts (\"add phone\", \"add email\"), Files (\"Sort by name\", \"3 selected\") and two Settings descriptions.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.7/payload.bin",
+ "duckos": "1.1.8",
+ "date": 1791602246,
+ "notes": "DuckOS 1.1.8\n\n• The face and PIN prompts (DuckPay, passwords, cards, passkeys) speak your language.\n• Short pop-up messages (\"Copied\", \"Downloading…\", \"Bookmarked\"…) and DuckOS's notification categories in Android's settings are in your language.\n• With large text, Settings rows keep their titles whole (the value moves to a second line).",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.8/payload.bin",
  "offset": 0,
- "size": 1244923182,
+ "size": 1244911595,
  "headers": [
-  "FILE_HASH=oWWQYLPGgCO8Xlh6ucAgjr2rSVB1z6kwibd8gohyNn0=",
-  "FILE_SIZE=1244923182",
-  "METADATA_HASH=iAso4uXwAByllYQx8LbNDuIVg9fUk1Cd0PA39yd49RM=",
-  "METADATA_SIZE=76056"
+  "FILE_HASH=xed0t9WkkgM1r87+DqHBZ9kw/+4Bl29mOwpbtNbEnnk=",
+  "FILE_SIZE=1244911595",
+  "METADATA_HASH=YSH2lsfrtEnbhRLG19BP0xnKHdZfVR8a74wkXMdw38Q=",
+  "METADATA_SIZE=76057"
  ],
- "notes_de": "DuckOS 1.1.7\n\n• DuckOS-Tastatur: Die unterste Reihe rutscht nicht mehr unter die Zurück- und Wechseltasten, wenn DuckOS neu startet (neues Design, Update).\n• Telefon: Anrufe von Nummern, die nicht in Kontakte sind, heißen nicht mehr „Benutzerdefiniert“.\n• Mehr auf Deutsch: App-Seiten in DuckStore (Größe, Lizenz, Hinweise, „Aktualisiert am“), neue Kontakte („Telefon hinzufügen“, „E-Mail hinzufügen“), Dateien („Nach Name sortieren“, „3 ausgewählt“) und zwei Beschreibungen in den Einstellungen.",
- "notes_tr": "DuckOS 1.1.7\n\n• DuckOS Klavye: DuckOS yeniden başladığında (yeni tasarım, güncelleme) alt sıra artık geri ve değiştir düğmelerinin altına kaymıyor.\n• Telefon: Kişiler'de olmayan numaralardan gelen aramalar artık „Özel“ yazmıyor.\n• Daha fazlası sizin dilinizde: DuckStore uygulama sayfaları (boyut, lisans, uyarılar, „güncellendi“), yeni kişiler („telefon ekle“, „e-posta ekle“), Dosyalar („Ada göre sırala“, „3 seçildi“) ve iki Ayarlar açıklaması."
+ "notes_de": "DuckOS 1.1.8\n\n• Die Gesichts- und PIN-Abfragen (DuckPay, Passwörter, Karten, Passkeys) sprechen Deutsch.\n• Kurze Hinweise („Kopiert“, „Wird heruntergeladen …“, „Lesezeichen gesetzt“ …) und DuckOS' Benachrichtigungskategorien in Androids Einstellungen sind auf Deutsch.\n• Bei großer Schrift bleiben die Titel in den Einstellungen ganz (der Wert rutscht in eine zweite Zeile).",
+ "notes_tr": "DuckOS 1.1.8\n\n• Yüz ve PIN istemleri (DuckPay, şifreler, kartlar, geçiş anahtarları) sizin dilinizde.\n• Kısa açılır mesajlar („Kopyalandı“, „İndiriliyor…“…) ve Android ayarlarındaki DuckOS bildirim kategorileri sizin dilinizde.\n• Büyük yazıda Ayarlar satırlarının başlıkları bölünmez (değer ikinci satıra geçer)."
 }
