@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.6",
- "date": 1791600243,
- "notes": "DuckOS 1.1.6\n\n• DuckOS Keyboard looks cleaner: every row reaches both edges (German and Turkish rows ended short), Shift, Delete and Enter line up, softer keys, no dots, a new emoji key.\n• Settings search finds pages by everyday words in your language (\"wallpaper\", \"ringtone\"…).\n• DuckAI: an answer that starts going round in circles stops by itself.\n• Quick Settings: notification times in your language.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.6/payload.bin",
+ "duckos": "1.1.7",
+ "date": 1791601736,
+ "notes": "DuckOS 1.1.7\n\n• DuckOS Keyboard: the bottom row no longer slips under the back and switch buttons after DuckOS restarts (a new design, an update).\n• Phone: calls from numbers not in Contacts no longer say \"Custom\".\n• More in your language: DuckStore app pages (size, licence, warnings, \"Updated\"), new contacts (\"add phone\", \"add email\"), Files (\"Sort by name\", \"3 selected\") and two Settings descriptions.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.7/payload.bin",
  "offset": 0,
- "size": 1244918478,
+ "size": 1244923182,
  "headers": [
-  "FILE_HASH=oHM6T9kzb8/dkV3FymrS6bih0ekfzIxWX3CF2/vnjFo=",
-  "FILE_SIZE=1244918478",
-  "METADATA_HASH=87rcwWzsIaXonEgcNsGVybiNJvSpQasy7g+ibzOZovM=",
+  "FILE_HASH=oWWQYLPGgCO8Xlh6ucAgjr2rSVB1z6kwibd8gohyNn0=",
+  "FILE_SIZE=1244923182",
+  "METADATA_HASH=iAso4uXwAByllYQx8LbNDuIVg9fUk1Cd0PA39yd49RM=",
   "METADATA_SIZE=76056"
  ],
- "notes_de": "DuckOS 1.1.6\n\n• Die DuckOS-Tastatur sieht aufgeräumter aus: Jede Reihe reicht bis an beide Ränder (bei Deutsch und Türkisch endeten Reihen zu früh), Umschalt-, Lösch- und Eingabetaste sind bündig, weichere Tasten, keine Punkte, eine neue Emoji-Taste.\n• Die Suche in den Einstellungen findet Seiten mit Alltagswörtern („Hintergrund“, „Klingelton“ …).\n• DuckAI: Eine Antwort, die sich im Kreis dreht, hört von selbst auf.\n• Schnelleinstellungen: Zeiten bei Benachrichtigungen auf Deutsch („jetzt“, „5 Min.“).",
- "notes_tr": "DuckOS 1.1.6\n\n• DuckOS Klavye daha düzenli görünüyor: her sıra iki kenara da uzanıyor (Almanca ve Türkçe sıralar erken bitiyordu), Shift, Sil ve Enter hizalı, daha yumuşak tuşlar, nokta yok, yeni emoji tuşu.\n• Ayarlar araması sayfaları günlük kelimelerle bulur („duvar kağıdı“, „zil sesi“…).\n• DuckAI: kendini tekrar etmeye başlayan bir cevap kendiliğinden durur.\n• Hızlı Ayarlar: bildirim saatleri sizin dilinizde."
+ "notes_de": "DuckOS 1.1.7\n\n• DuckOS-Tastatur: Die unterste Reihe rutscht nicht mehr unter die Zurück- und Wechseltasten, wenn DuckOS neu startet (neues Design, Update).\n• Telefon: Anrufe von Nummern, die nicht in Kontakte sind, heißen nicht mehr „Benutzerdefiniert“.\n• Mehr auf Deutsch: App-Seiten in DuckStore (Größe, Lizenz, Hinweise, „Aktualisiert am“), neue Kontakte („Telefon hinzufügen“, „E-Mail hinzufügen“), Dateien („Nach Name sortieren“, „3 ausgewählt“) und zwei Beschreibungen in den Einstellungen.",
+ "notes_tr": "DuckOS 1.1.7\n\n• DuckOS Klavye: DuckOS yeniden başladığında (yeni tasarım, güncelleme) alt sıra artık geri ve değiştir düğmelerinin altına kaymıyor.\n• Telefon: Kişiler'de olmayan numaralardan gelen aramalar artık „Özel“ yazmıyor.\n• Daha fazlası sizin dilinizde: DuckStore uygulama sayfaları (boyut, lisans, uyarılar, „güncellendi“), yeni kişiler („telefon ekle“, „e-posta ekle“), Dosyalar („Ada göre sırala“, „3 seçildi“) ve iki Ayarlar açıklaması."
 }
