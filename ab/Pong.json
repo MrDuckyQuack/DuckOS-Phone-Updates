@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.14",
- "date": 1791617587,
- "notes": "DuckOS 1.1.14\n\n• microG is built in: apps that need Google's push (Discord and others) get their messages, and apps that use Google's services work, without Google's own. Turn it on in Settings › Google services (microG): Google device registration and Cloud Messaging.\n• DuckMusic: whole songs free (Audius), every song as a 30-second preview (Deezer), and the radio on its own tab. Home, Radio, Library and Search are along the bottom; the list of other music apps is gone.\n• Store links open DuckStore straight away, without asking \"Open with\".",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.14/payload.bin",
+ "duckos": "1.1.15",
+ "date": 1791618937,
+ "notes": "DuckOS 1.1.15\n\n• DuckAI plays music: \"Play Dracula by Tame Impala\", \"play lofi\". Your own songs come first, then free whole songs; otherwise a 30-second preview.\n• DuckAI's Stop button stops at once, even while Duckling is still reading your question.\n• DuckMusic: tap the heart in the player to keep a song in Liked songs (Library). \"See all\" on the home shelves. Previews and liked songs always play, and the wrong \"This song can't be played\" message is gone.\n• Screen readers (TalkBack) read DuckOS's buttons in your language.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.15/payload.bin",
  "offset": 0,
- "size": 1363548367,
+ "size": 1363556594,
  "headers": [
-  "FILE_HASH=ZR5JDLGS7uxh2kmZFVRWj2jaqNcP5yUj4fUFxST31Ds=",
-  "FILE_SIZE=1363548367",
-  "METADATA_HASH=TOshzRM3L/qqXUyyQBkvMgjDYdPd1dDDzqni9IOsqJY=",
-  "METADATA_SIZE=80233"
+  "FILE_HASH=akdqa3h1i2dxGSq9GwAPl3y+8EM8BVU9DaJgLujLW+8=",
+  "FILE_SIZE=1363556594",
+  "METADATA_HASH=ydWl2LWFmfxgfOAkN/08TlPiBplU8iEP0FCIIHTJLGc=",
+  "METADATA_SIZE=80232"
  ],
- "notes_de": "DuckOS 1.1.14\n\n• microG ist eingebaut: Apps, die Googles Push brauchen (Discord und andere), bekommen ihre Nachrichten, und Apps mit Google-Diensten funktionieren – ohne Googles eigene. Einschalten unter Einstellungen › Google-Dienste (microG): Google-Geräteregistrierung und Cloud Messaging.\n• DuckMusic: ganze Songs gratis (Audius), jeder Song als 30-Sekunden-Vorschau (Deezer) und das Radio im eigenen Tab. Start, Radio, Mediathek und Suchen sind unten; die Liste anderer Musik-Apps ist weg.\n• Store-Links öffnen DuckStore sofort, ohne „Öffnen mit“ zu fragen.",
- "notes_tr": "DuckOS 1.1.14\n\n• microG yerleşik: Google bildirimlerine ihtiyaç duyan uygulamalar (Discord ve diğerleri) mesajlarını alır, Google hizmetlerini kullanan uygulamalar çalışır – Google'ın kendisi olmadan. Ayarlar › Google hizmetleri (microG) bölümünden açın: Google cihaz kaydı ve Cloud Messaging.\n• DuckMusic: ücretsiz tam şarkılar (Audius), her şarkı 30 saniyelik önizleme olarak (Deezer) ve radyo kendi sekmesinde. Ana sayfa, Radyo, Kitaplık ve Arama altta; diğer müzik uygulamalarının listesi kaldırıldı.\n• Mağaza bağlantıları \"Birlikte aç\" diye sormadan doğrudan DuckStore'u açar."
+ "notes_de": "DuckOS 1.1.15\n\n• DuckAI spielt Musik: „Spiel Dracula von Tame Impala“, „Spiel Lofi“. Zuerst deine eigenen Songs, dann ganze Songs gratis, sonst eine 30-Sekunden-Vorschau.\n• Der Stopp-Knopf in DuckAI stoppt sofort, auch während Duckling deine Frage noch liest.\n• DuckMusic: Tipp im Player auf das Herz, um einen Song in den Lieblingssongs (Mediathek) zu behalten. „Alle ansehen“ auf der Startseite. Vorschauen und Lieblingssongs spielen immer, und die falsche Meldung „Dieser Song kann nicht abgespielt werden“ ist weg. Der Knopf heißt jetzt „Abspielen“.\n• Bildschirmleser (TalkBack) lesen die Knöpfe von DuckOS auf Deutsch vor.",
+ "notes_tr": "DuckOS 1.1.15\n\n• DuckAI müzik çalar: \"Tarkan çal\", \"Dracula'yı çal\". Önce kendi şarkılarınız, sonra ücretsiz tam şarkılar; yoksa 30 saniyelik önizleme.\n• DuckAI'daki Durdur düğmesi, Duckling sorunuzu okurken bile hemen durdurur.\n• DuckMusic: Bir şarkıyı Beğenilen şarkılar'da (Kitaplık) tutmak için oynatıcıdaki kalbe dokunun. Ana sayfada \"Tümünü gör\". Önizlemeler ve beğenilen şarkılar her zaman çalar; yanlış \"Bu şarkı çalınamıyor\" mesajı kaldırıldı. Düğme artık \"Çal\" diyor.\n• Ekran okuyucular (TalkBack) DuckOS düğmelerini Türkçe okur."
 }
