@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.18",
- "date": 1791623749,
- "notes": "DuckOS 1.1.18\n\n• Lock screen: a swipe up on Android's gesture bar no longer pulls away the DuckOS lock screen, so Android's old one doesn't show behind it. Android's home and recents gestures are off while the phone is locked; the lock screen's own swipe up unlocks as before.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.18/payload.bin",
+ "duckos": "1.1.19",
+ "date": 1791624606,
+ "notes": "DuckOS 1.1.19\n\n• Settings › DuckMusic › Sound: an equalizer with your phone's presets (Pop, Rock, Jazz, Classical…), bass boost, and \"Louder\" for quiet songs.\n• Settings › DuckMusic › Streaming: turn off mobile data for DuckMusic (songs and radio only on Wi-Fi), and high-quality radio (stations at 128 kbps or more).",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.19/payload.bin",
  "offset": 0,
- "size": 1363571759,
+ "size": 1363566545,
  "headers": [
-  "FILE_HASH=XA+JMzhmnD1keHLjmJV+TcZHT44C3i/rrkIHNnLxLeU=",
-  "FILE_SIZE=1363571759",
-  "METADATA_HASH=id3XiD4+4FQtbjVPoE3OGme4nvzHFLoxQ6xc2Dih+Kg=",
-  "METADATA_SIZE=80233"
+  "FILE_HASH=lrmlNoFbkCM91rSRkLk3cfsp5Uu1N1xC29EE3cVyLEE=",
+  "FILE_SIZE=1363566545",
+  "METADATA_HASH=bml1uv9VO7BS8NjunPhI7w2r4CIwZKfzNWboyDHt2jQ=",
+  "METADATA_SIZE=80231"
  ],
- "notes_de": "DuckOS 1.1.18\n\n• Sperrbildschirm: Ein Wisch nach oben auf Androids Gestenleiste zieht den DuckOS-Sperrbildschirm nicht mehr weg, Androids alter Sperrbildschirm erscheint also nicht mehr dahinter. Androids Gesten für Startbildschirm und letzte Apps sind aus, solange das Telefon gesperrt ist; der eigene Wisch nach oben entsperrt wie bisher.",
- "notes_tr": "DuckOS 1.1.18\n\n• Kilit ekranı: Android'in hareket çubuğunda yukarı kaydırmak artık DuckOS kilit ekranını kaydırıp çekmiyor, bu yüzden Android'in eski kilit ekranı arkasında görünmüyor. Telefon kilitliyken Android'in ana ekran ve son uygulamalar hareketleri kapalı; kilit ekranının kendi yukarı kaydırması eskisi gibi kilidi açar."
+ "notes_de": "DuckOS 1.1.19\n\n• Einstellungen › DuckMusic › Klang: ein Equalizer mit den Voreinstellungen deines Telefons (Pop, Rock, Jazz, Klassik …), Bass-Boost und „Lauter“ für leise Songs.\n• Einstellungen › DuckMusic › Streaming: mobile Daten für DuckMusic ausschalten (Songs und Radio nur im WLAN) und Radio in hoher Qualität (Sender mit 128 kbit/s oder mehr).",
+ "notes_tr": "DuckOS 1.1.19\n\n• Ayarlar › DuckMusic › Ses: telefonunuzun hazır ayarlarıyla bir ekolayzer (Pop, Rock, Caz, Klasik…), bas güçlendirme ve sessiz şarkılar için \"Daha yüksek\".\n• Ayarlar › DuckMusic › Akış: DuckMusic için mobil veriyi kapatın (şarkılar ve radyo yalnızca Wi-Fi'de) ve yüksek kaliteli radyo (128 kbps veya üzeri istasyonlar)."
 }
