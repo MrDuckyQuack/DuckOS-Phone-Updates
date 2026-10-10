@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.5",
- "date": 1791598494,
- "notes": "DuckOS 1.1.5\n\n• Lock screen: without a face or fingerprint set up, hold the lock screen and enter your PIN to change it.\n• Calendar: \"Export .ics\" saves a real calendar file again (it ended in \".txt\").\n• DuckOS Keyboard: the Enter key in your language (\"Weiter\", \"Senden\"…); \"gehts\" is no longer changed to \"geht\".\n• Find My says when DuckCloud can't be reached, instead of searching forever.\n• More in your language: Files (\"3 items\", Audiobooks, Movies), To-do counts, Notes, radio countries, \"Saved to Downloads\", and DuckOS's names in Android's own lists (share sheet, Recents).",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.5/payload.bin",
+ "duckos": "1.1.6",
+ "date": 1791600243,
+ "notes": "DuckOS 1.1.6\n\n• DuckOS Keyboard looks cleaner: every row reaches both edges (German and Turkish rows ended short), Shift, Delete and Enter line up, softer keys, no dots, a new emoji key.\n• Settings search finds pages by everyday words in your language (\"wallpaper\", \"ringtone\"…).\n• DuckAI: an answer that starts going round in circles stops by itself.\n• Quick Settings: notification times in your language.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.6/payload.bin",
  "offset": 0,
- "size": 1244911942,
+ "size": 1244918478,
  "headers": [
-  "FILE_HASH=IkgFrBgIaiJwUxkfTPbk7fsdIDzKmgr/L7gnVfHXh9M=",
-  "FILE_SIZE=1244911942",
-  "METADATA_HASH=rfYKNmifaAClJ75AqAg8A8qirVL/lHg8UrYW5WN2wiE=",
-  "METADATA_SIZE=76060"
+  "FILE_HASH=oHM6T9kzb8/dkV3FymrS6bih0ekfzIxWX3CF2/vnjFo=",
+  "FILE_SIZE=1244918478",
+  "METADATA_HASH=87rcwWzsIaXonEgcNsGVybiNJvSpQasy7g+ibzOZovM=",
+  "METADATA_SIZE=76056"
  ],
- "notes_de": "DuckOS 1.1.5\n\n• Sperrbildschirm: Ohne eingerichtetes Gesicht oder Fingerabdruck den Sperrbildschirm gedrückt halten und die PIN eingeben, um ihn zu ändern.\n• Kalender: „.ics exportieren“ speichert wieder eine echte Kalenderdatei (sie endete auf „.txt“).\n• DuckOS-Tastatur: Die Eingabetaste in deiner Sprache („Weiter“, „Senden“ …); aus „gehts“ wird nicht mehr „geht“.\n• „Wo ist?“ sagt, wenn DuckCloud nicht erreichbar ist, statt endlos zu suchen.\n• Mehr auf Deutsch: Dateien („3 Elemente“, Hörbücher, Filme), Aufgaben-Zähler, Notizen, Radio-Länder, „In Downloads gespeichert“ und DuckOS' Namen in Androids eigenen Listen (Teilen, Letzte Apps).",
- "notes_tr": "DuckOS 1.1.5\n\n• Kilit ekranı: Yüz veya parmak izi ayarlı değilse, değiştirmek için kilit ekranına basılı tutup PIN'inizi girin.\n• Takvim: „.ics dışa aktar“ yine gerçek bir takvim dosyası kaydeder („.txt“ ile bitiyordu).\n• DuckOS Klavye: Enter tuşu sizin dilinizde („İleri“, „Gönder“…).\n• Bul, DuckCloud'a ulaşılamadığında bunu söyler, sonsuza kadar aramaz.\n• Daha fazlası sizin dilinizde: Dosyalar („3 öğe“, Sesli kitaplar, Filmler), yapılacak sayıları, Notlar, radyo ülkeleri, „İndirilenler'e kaydedildi“ ve Android'in kendi listelerinde DuckOS adları (paylaşım, Son uygulamalar)."
+ "notes_de": "DuckOS 1.1.6\n\n• Die DuckOS-Tastatur sieht aufgeräumter aus: Jede Reihe reicht bis an beide Ränder (bei Deutsch und Türkisch endeten Reihen zu früh), Umschalt-, Lösch- und Eingabetaste sind bündig, weichere Tasten, keine Punkte, eine neue Emoji-Taste.\n• Die Suche in den Einstellungen findet Seiten mit Alltagswörtern („Hintergrund“, „Klingelton“ …).\n• DuckAI: Eine Antwort, die sich im Kreis dreht, hört von selbst auf.\n• Schnelleinstellungen: Zeiten bei Benachrichtigungen auf Deutsch („jetzt“, „5 Min.“).",
+ "notes_tr": "DuckOS 1.1.6\n\n• DuckOS Klavye daha düzenli görünüyor: her sıra iki kenara da uzanıyor (Almanca ve Türkçe sıralar erken bitiyordu), Shift, Sil ve Enter hizalı, daha yumuşak tuşlar, nokta yok, yeni emoji tuşu.\n• Ayarlar araması sayfaları günlük kelimelerle bulur („duvar kağıdı“, „zil sesi“…).\n• DuckAI: kendini tekrar etmeye başlayan bir cevap kendiliğinden durur.\n• Hızlı Ayarlar: bildirim saatleri sizin dilinizde."
 }
