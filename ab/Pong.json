@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.13",
- "date": 1791606123,
- "notes": "DuckOS 1.1.13\n\n• DuckAI does more at once in German and Turkish, without waiting for the AI: \"Mach das Licht an\", \"Spiel Musik\", \"Nächstes Lied\", \"Neuer Termin morgen um 10 Uhr Zahnarzt\", \"Dunkles Design\", \"Wie viel Akku habe ich?\", \"Lies meine Benachrichtigungen vor\"; \"Annemi ara\", \"Müzik çal\", \"Sonraki şarkı\", \"Yarın hava nasıl?\", \"Pil ne durumda?\", \"Beni yarın 6'da uyandır\".\n• Its confirmations say the day and time in your language (\"morgen um 10:00\").",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.13/payload.bin",
+ "duckos": "1.1.14",
+ "date": 1791617587,
+ "notes": "DuckOS 1.1.14\n\n• microG is built in: apps that need Google's push (Discord and others) get their messages, and apps that use Google's services work, without Google's own. Turn it on in Settings › Google services (microG): Google device registration and Cloud Messaging.\n• DuckMusic: whole songs free (Audius), every song as a 30-second preview (Deezer), and the radio on its own tab. Home, Radio, Library and Search are along the bottom; the list of other music apps is gone.\n• Store links open DuckStore straight away, without asking \"Open with\".",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.14/payload.bin",
  "offset": 0,
- "size": 1244926182,
+ "size": 1363548367,
  "headers": [
-  "FILE_HASH=A+yI8eTJC3/L+oBkSFeEq6yJwZRWsuNzRNWeq1kYfI4=",
-  "FILE_SIZE=1244926182",
-  "METADATA_HASH=tN5MgkhwKBA+WhpbJTn6wLeLWok0D1yRhsBOkeRBkgg=",
-  "METADATA_SIZE=76056"
+  "FILE_HASH=ZR5JDLGS7uxh2kmZFVRWj2jaqNcP5yUj4fUFxST31Ds=",
+  "FILE_SIZE=1363548367",
+  "METADATA_HASH=TOshzRM3L/qqXUyyQBkvMgjDYdPd1dDDzqni9IOsqJY=",
+  "METADATA_SIZE=80233"
  ],
- "notes_de": "DuckOS 1.1.13\n\n• DuckAI erledigt mehr sofort, ohne auf die KI zu warten: „Mach das Licht an“, „Spiel Musik“, „Nächstes Lied“, „Neuer Termin morgen um 10 Uhr Zahnarzt“, „Dunkles Design“, „Wie viel Akku habe ich?“, „Lies meine Benachrichtigungen vor“.\n• Die Bestätigungen nennen Tag und Uhrzeit auf Deutsch („morgen um 10:00“).",
- "notes_tr": "DuckOS 1.1.13\n\n• DuckAI yapay zekâyı beklemeden daha fazlasını hemen yapar: „Annemi ara“, „Müzik çal“, „Sonraki şarkı“, „Yarın hava nasıl?“, „Pil ne durumda?“, „Beni yarın 6'da uyandır“.\n• Onaylar günü ve saati sizin dilinizde söyler („yarın saat 10:00“)."
+ "notes_de": "DuckOS 1.1.14\n\n• microG ist eingebaut: Apps, die Googles Push brauchen (Discord und andere), bekommen ihre Nachrichten, und Apps mit Google-Diensten funktionieren – ohne Googles eigene. Einschalten unter Einstellungen › Google-Dienste (microG): Google-Geräteregistrierung und Cloud Messaging.\n• DuckMusic: ganze Songs gratis (Audius), jeder Song als 30-Sekunden-Vorschau (Deezer) und das Radio im eigenen Tab. Start, Radio, Mediathek und Suchen sind unten; die Liste anderer Musik-Apps ist weg.\n• Store-Links öffnen DuckStore sofort, ohne „Öffnen mit“ zu fragen.",
+ "notes_tr": "DuckOS 1.1.14\n\n• microG yerleşik: Google bildirimlerine ihtiyaç duyan uygulamalar (Discord ve diğerleri) mesajlarını alır, Google hizmetlerini kullanan uygulamalar çalışır – Google'ın kendisi olmadan. Ayarlar › Google hizmetleri (microG) bölümünden açın: Google cihaz kaydı ve Cloud Messaging.\n• DuckMusic: ücretsiz tam şarkılar (Audius), her şarkı 30 saniyelik önizleme olarak (Deezer) ve radyo kendi sekmesinde. Ana sayfa, Radyo, Kitaplık ve Arama altta; diğer müzik uygulamalarının listesi kaldırıldı.\n• Mağaza bağlantıları \"Birlikte aç\" diye sormadan doğrudan DuckStore'u açar."
 }
