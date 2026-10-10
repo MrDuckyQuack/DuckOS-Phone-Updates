@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.12",
- "date": 1791605571,
- "notes": "DuckOS 1.1.12\n\n• DuckAI: the suggestions under its ring are asked in your language and answered at once (\"What's on today?\", adding to your to-do list, \"15% of 80\") — in German and Turkish too; Turkish \"turn on the flashlight\" no longer looks for an app.\n• Battery: \"Charging on USB · full in 40 min\" in your language.\n• Fresh Start's question and Files' \"Search in …\" in your language.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.12/payload.bin",
+ "duckos": "1.1.13",
+ "date": 1791606123,
+ "notes": "DuckOS 1.1.13\n\n• DuckAI does more at once in German and Turkish, without waiting for the AI: \"Mach das Licht an\", \"Spiel Musik\", \"Nächstes Lied\", \"Neuer Termin morgen um 10 Uhr Zahnarzt\", \"Dunkles Design\", \"Wie viel Akku habe ich?\", \"Lies meine Benachrichtigungen vor\"; \"Annemi ara\", \"Müzik çal\", \"Sonraki şarkı\", \"Yarın hava nasıl?\", \"Pil ne durumda?\", \"Beni yarın 6'da uyandır\".\n• Its confirmations say the day and time in your language (\"morgen um 10:00\").",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.13/payload.bin",
  "offset": 0,
- "size": 1244922854,
+ "size": 1244926182,
  "headers": [
-  "FILE_HASH=tvenBUhLfEjkGV1hKFSLpD5j21T931cZYATUhQXxow0=",
-  "FILE_SIZE=1244922854",
-  "METADATA_HASH=bDui+l3GToWecemhqp2W11jBN6hWHXOs4i48N2q1DA0=",
+  "FILE_HASH=A+yI8eTJC3/L+oBkSFeEq6yJwZRWsuNzRNWeq1kYfI4=",
+  "FILE_SIZE=1244926182",
+  "METADATA_HASH=tN5MgkhwKBA+WhpbJTn6wLeLWok0D1yRhsBOkeRBkgg=",
   "METADATA_SIZE=76056"
  ],
- "notes_de": "DuckOS 1.1.12\n\n• DuckAI: Die Vorschläge unter dem Ring werden auf Deutsch gestellt und sofort beantwortet („Was steht heute an?“, „Füg Milch zu meiner To-do-Liste hinzu“, „15 % von 80“).\n• Akku: „Lädt über USB · voll in 40 Min.“ auf Deutsch.\n• Die Frage bei „Neuanfang“ und „In … suchen“ in Dateien auf Deutsch.",
- "notes_tr": "DuckOS 1.1.12\n\n• DuckAI: halkanın altındaki öneriler Türkçe sorulur ve hemen cevaplanır („Bugün ne var?“, „Yapılacaklar listeme süt ekle“, „80'in %15'i“); „El fenerini aç“ artık bir uygulama aramıyor.\n• Pil: „USB ile şarj oluyor · 40 dk içinde dolu“ sizin dilinizde.\n• Temiz Başlangıç sorusu ve Dosyalar'daki „… içinde ara“ sizin dilinizde."
+ "notes_de": "DuckOS 1.1.13\n\n• DuckAI erledigt mehr sofort, ohne auf die KI zu warten: „Mach das Licht an“, „Spiel Musik“, „Nächstes Lied“, „Neuer Termin morgen um 10 Uhr Zahnarzt“, „Dunkles Design“, „Wie viel Akku habe ich?“, „Lies meine Benachrichtigungen vor“.\n• Die Bestätigungen nennen Tag und Uhrzeit auf Deutsch („morgen um 10:00“).",
+ "notes_tr": "DuckOS 1.1.13\n\n• DuckAI yapay zekâyı beklemeden daha fazlasını hemen yapar: „Annemi ara“, „Müzik çal“, „Sonraki şarkı“, „Yarın hava nasıl?“, „Pil ne durumda?“, „Beni yarın 6'da uyandır“.\n• Onaylar günü ve saati sizin dilinizde söyler („yarın saat 10:00“)."
 }
