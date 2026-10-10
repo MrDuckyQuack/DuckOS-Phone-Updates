@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.19",
- "date": 1791624606,
- "notes": "DuckOS 1.1.19\n\n• Settings › DuckMusic › Sound: an equalizer with your phone's presets (Pop, Rock, Jazz, Classical…), bass boost, and \"Louder\" for quiet songs.\n• Settings › DuckMusic › Streaming: turn off mobile data for DuckMusic (songs and radio only on Wi-Fi), and high-quality radio (stations at 128 kbps or more).",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.19/payload.bin",
+ "duckos": "1.1.20",
+ "date": 1791630896,
+ "notes": "DuckOS 1.1.20\n\n• DuckMusic plays whole songs itself, from YouTube (YouTube's own player and ads, so the artists get paid). On a 30-second preview, tap \"Whole song here (YouTube)\". In Search, press the search key or \"Whole songs from YouTube\". Or ask DuckAI: \"Spiel Ara Beni von Hadise\". The video shows in the player and small at the bottom, and pauses when you leave DuckMusic (YouTube's rules).\n• DuckAI answers sooner after waking up: what it reads before your first question is saved on the phone and loaded back in a moment, instead of being read again for a minute.\n• DuckMusic's player no longer gets stuck half-way down.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.20/payload.bin",
  "offset": 0,
- "size": 1363566545,
+ "size": 1363579726,
  "headers": [
-  "FILE_HASH=lrmlNoFbkCM91rSRkLk3cfsp5Uu1N1xC29EE3cVyLEE=",
-  "FILE_SIZE=1363566545",
-  "METADATA_HASH=bml1uv9VO7BS8NjunPhI7w2r4CIwZKfzNWboyDHt2jQ=",
-  "METADATA_SIZE=80231"
+  "FILE_HASH=f6/RT1QCFiYn6MpjMrAmWO/lsDlySCOwYXo2RrMtjY4=",
+  "FILE_SIZE=1363579726",
+  "METADATA_HASH=USvFrZ2zAoZb0qYbMHjymCsGo090jXYc343toxTZnB4=",
+  "METADATA_SIZE=80232"
  ],
- "notes_de": "DuckOS 1.1.19\n\n• Einstellungen › DuckMusic › Klang: ein Equalizer mit den Voreinstellungen deines Telefons (Pop, Rock, Jazz, Klassik …), Bass-Boost und „Lauter“ für leise Songs.\n• Einstellungen › DuckMusic › Streaming: mobile Daten für DuckMusic ausschalten (Songs und Radio nur im WLAN) und Radio in hoher Qualität (Sender mit 128 kbit/s oder mehr).",
- "notes_tr": "DuckOS 1.1.19\n\n• Ayarlar › DuckMusic › Ses: telefonunuzun hazır ayarlarıyla bir ekolayzer (Pop, Rock, Caz, Klasik…), bas güçlendirme ve sessiz şarkılar için \"Daha yüksek\".\n• Ayarlar › DuckMusic › Akış: DuckMusic için mobil veriyi kapatın (şarkılar ve radyo yalnızca Wi-Fi'de) ve yüksek kaliteli radyo (128 kbps veya üzeri istasyonlar)."
+ "notes_de": "DuckOS 1.1.20\n\n• DuckMusic spielt ganze Songs selbst, von YouTube (YouTubes eigener Player mit Werbung, so werden die Künstler bezahlt). Bei einer 30-Sekunden-Vorschau „Ganzer Song hier (YouTube)“ tippen. In der Suche die Suchtaste oder „Ganze Songs von YouTube“. Oder DuckAI fragen: „Spiel Ara Beni von Hadise“. Das Video ist im Player und klein unten zu sehen und pausiert, wenn du DuckMusic verlässt (YouTubes Regeln).\n• DuckAI antwortet nach dem Aufwachen schneller: Was es vor deiner ersten Frage liest, wird auf dem Telefon gespeichert und in einem Moment wieder geladen, statt eine Minute lang neu gelesen zu werden.\n• Der Player von DuckMusic bleibt nicht mehr auf halber Höhe hängen.",
+ "notes_tr": "DuckOS 1.1.20\n\n• DuckMusic tam şarkıları kendisi çalıyor, YouTube'dan (YouTube'un kendi oynatıcısı ve reklamları; böylece sanatçılar ödeme alıyor). 30 saniyelik bir önizlemede \"Şarkının tamamı burada (YouTube)\" seçeneğine dokunun. Aramada arama tuşuna veya \"YouTube'dan tam şarkılar\"a basın. Ya da DuckAI'ye sorun: \"Tarkan çal\". Video oynatıcıda ve altta küçük görünür; DuckMusic'ten çıkınca durur (YouTube'un kuralları).\n• DuckAI uyandıktan sonra daha hızlı cevap veriyor: ilk sorunuzdan önce okuduğu şey telefona kaydedilir ve bir dakika boyunca yeniden okunmak yerine bir anda yüklenir.\n• DuckMusic oynatıcısı artık yarı yolda takılı kalmıyor."
 }
