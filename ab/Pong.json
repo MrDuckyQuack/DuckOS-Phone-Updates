@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.16",
- "date": 1791621106,
- "notes": "DuckOS 1.1.16\n\n• App notifications through microG: Google device registration and Cloud Messaging are now on from the start. After updating, open Discord (or the app) once so it signs up for notifications.\n• DuckMusic: sharp covers (big pictures in the player and the notification). Search shows your recent searches and what you played lately. A preview has a \"Whole song in YouTube Music\" (or Spotify…) button that plays the whole song there.\n• Sign-in & security (DuckCloud) shows completely, above the gesture bar.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.16/payload.bin",
+ "duckos": "1.1.17",
+ "date": 1791622541,
+ "notes": "DuckOS 1.1.17\n\n• DuckMusic: shuffle and repeat (the whole list or one song) in the player.\n• Settings › DuckMusic: shuffle, repeat, 30-second previews on or off, which app plays whole songs, the radio's country, and your search history. The gear in DuckMusic opens it.\n• DuckAI: \"play … with me\" (a game) no longer starts a song.\n• Settings › Storage › Free up space is now DuckOS's own: clear apps' temporary files, empty Trash, review Downloads, see your largest files, and remove apps you haven't used for a month.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.17/payload.bin",
  "offset": 0,
- "size": 1363591966,
+ "size": 1363567206,
  "headers": [
-  "FILE_HASH=M82uRCkgLZP88hJoTyTjP2kc424+eZriDlMabXtTMWg=",
-  "FILE_SIZE=1363591966",
-  "METADATA_HASH=KNDCz6i8sG6SsHjDTN8DOYUywiaCf3Bd1KyQ98MvXwY=",
+  "FILE_HASH=srd/HStZOm5tz3YASbjlnDerw1+iMCf2WmgKcV4KrTA=",
+  "FILE_SIZE=1363567206",
+  "METADATA_HASH=Nkf1pxBSLXippNrEIHTese41iXbyiZAqMn7QWFnK4Y4=",
   "METADATA_SIZE=80232"
  ],
- "notes_de": "DuckOS 1.1.16\n\n• App-Benachrichtigungen über microG: Google-Geräteregistrierung und Cloud Messaging sind jetzt von Anfang an an. Öffne nach dem Update Discord (oder die App) einmal, damit sie sich für Benachrichtigungen anmeldet.\n• DuckMusic: scharfe Cover (große Bilder im Player und in der Benachrichtigung). Die Suche zeigt deine letzten Suchen und was du zuletzt gespielt hast. Vorschauen haben einen Knopf „Ganzer Song in YouTube Music“ (oder Spotify …), der den ganzen Song dort spielt.\n• Anmeldung & Sicherheit (DuckCloud) wird ganz angezeigt, über der Gestenleiste.",
- "notes_tr": "DuckOS 1.1.16\n\n• microG ile uygulama bildirimleri: Google cihaz kaydı ve Cloud Messaging artık baştan açık. Güncellemeden sonra Discord'u (veya uygulamayı) bir kez açın ki bildirimlere kaydolsun.\n• DuckMusic: net kapaklar (oynatıcıda ve bildirimde büyük resimler). Arama son aramalarınızı ve son çaldıklarınızı gösterir. Önizlemelerde şarkının tamamını orada çalan bir \"Şarkının tamamı YouTube Music uygulamasında\" (veya Spotify…) düğmesi var.\n• Oturum açma ve güvenlik (DuckCloud) hareket çubuğunun üstünde tamamen görünür."
+ "notes_de": "DuckOS 1.1.17\n\n• DuckMusic: Zufallswiedergabe und Wiederholen (die ganze Liste oder ein Song) im Player.\n• Einstellungen › DuckMusic: Zufallswiedergabe, Wiederholen, 30-Sekunden-Vorschauen an oder aus, welche App ganze Songs spielt, das Land fürs Radio und dein Suchverlauf. Das Zahnrad in DuckMusic öffnet sie.\n• DuckAI: „Spiel … mit mir“ (ein Spiel) startet keinen Song mehr.\n• Einstellungen › Speicher › Speicherplatz freigeben ist jetzt von DuckOS: temporäre Dateien der Apps löschen, den Papierkorb leeren, Downloads ansehen, die größten Dateien sehen und Apps entfernen, die du seit einem Monat nicht benutzt hast.",
+ "notes_tr": "DuckOS 1.1.17\n\n• DuckMusic: oynatıcıda karışık çalma ve tekrarlama (tüm liste veya tek şarkı).\n• Ayarlar › DuckMusic: karışık çalma, tekrarlama, 30 saniyelik önizlemeleri açma/kapatma, tam şarkıları hangi uygulamanın çalacağı, radyonun ülkesi ve arama geçmişiniz. DuckMusic'teki dişli simgesi açar.\n• DuckAI: \"benimle … oyna\" (bir oyun) artık şarkı başlatmıyor.\n• Ayarlar › Depolama › Yer aç artık DuckOS'un: uygulamaların geçici dosyalarını temizleyin, çöp kutusunu boşaltın, İndirilenler'e bakın, en büyük dosyalarınızı görün ve bir aydır kullanmadığınız uygulamaları kaldırın."
 }
