@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.11",
- "date": 1791604957,
- "notes": "DuckOS 1.1.11\n\n• Messages with the screen off: WhatsApp, Signal, Telegram, Threema, Molly, Element and SimpleX may now keep running while the phone sleeps, so their messages arrive straight away instead of only when you turn the screen on. (DuckOS has no Google push; these apps keep their own connection, which Android's deep sleep used to cut.)",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.11/payload.bin",
+ "duckos": "1.1.12",
+ "date": 1791605571,
+ "notes": "DuckOS 1.1.12\n\n• DuckAI: the suggestions under its ring are asked in your language and answered at once (\"What's on today?\", adding to your to-do list, \"15% of 80\") — in German and Turkish too; Turkish \"turn on the flashlight\" no longer looks for an app.\n• Battery: \"Charging on USB · full in 40 min\" in your language.\n• Fresh Start's question and Files' \"Search in …\" in your language.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.12/payload.bin",
  "offset": 0,
- "size": 1244926286,
+ "size": 1244922854,
  "headers": [
-  "FILE_HASH=im0+AbR/hGX06fMVm8BJqE3K2+gyQRgdMVxhUNs5Ylg=",
-  "FILE_SIZE=1244926286",
-  "METADATA_HASH=eIU5smQ5oYXNq8hyl97Y9Av/3Xc7aUkrvDszRcrpamc=",
+  "FILE_HASH=tvenBUhLfEjkGV1hKFSLpD5j21T931cZYATUhQXxow0=",
+  "FILE_SIZE=1244922854",
+  "METADATA_HASH=bDui+l3GToWecemhqp2W11jBN6hWHXOs4i48N2q1DA0=",
   "METADATA_SIZE=76056"
  ],
- "notes_de": "DuckOS 1.1.11\n\n• Nachrichten bei ausgeschaltetem Bildschirm: WhatsApp, Signal, Telegram, Threema, Molly, Element und SimpleX dürfen jetzt weiterlaufen, während das Telefon schläft – ihre Nachrichten kommen sofort an, nicht erst, wenn du den Bildschirm einschaltest. (DuckOS hat keinen Google-Push; diese Apps halten eine eigene Verbindung, die Androids Tiefschlaf bisher gekappt hat.)",
- "notes_tr": "DuckOS 1.1.11\n\n• Ekran kapalıyken mesajlar: WhatsApp, Signal, Telegram, Threema, Molly, Element ve SimpleX artık telefon uyurken çalışmaya devam edebilir – mesajları ekranı açınca değil, hemen gelir. (DuckOS'ta Google bildirimi yok; bu uygulamalar kendi bağlantılarını tutar, Android'in derin uykusu bunu kesiyordu.)"
+ "notes_de": "DuckOS 1.1.12\n\n• DuckAI: Die Vorschläge unter dem Ring werden auf Deutsch gestellt und sofort beantwortet („Was steht heute an?“, „Füg Milch zu meiner To-do-Liste hinzu“, „15 % von 80“).\n• Akku: „Lädt über USB · voll in 40 Min.“ auf Deutsch.\n• Die Frage bei „Neuanfang“ und „In … suchen“ in Dateien auf Deutsch.",
+ "notes_tr": "DuckOS 1.1.12\n\n• DuckAI: halkanın altındaki öneriler Türkçe sorulur ve hemen cevaplanır („Bugün ne var?“, „Yapılacaklar listeme süt ekle“, „80'in %15'i“); „El fenerini aç“ artık bir uygulama aramıyor.\n• Pil: „USB ile şarj oluyor · 40 dk içinde dolu“ sizin dilinizde.\n• Temiz Başlangıç sorusu ve Dosyalar'daki „… içinde ara“ sizin dilinizde."
 }
