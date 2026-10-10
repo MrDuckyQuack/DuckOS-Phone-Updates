@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.10",
- "date": 1791604478,
- "notes": "DuckOS 1.1.10\n\n• DuckMessage: hold a message to copy it.\n• The Sticky Notes widget shows your notes again (it said \"No notes yet\" since Notes got titles).\n• More in your language: message dates (\"Yesterday 15:31\"), DuckWeb's tab count, saved and reused passwords, ages in Medical ID, copying from a QR code, moving and copying in Files, passkey sign-in and the automatic design.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.10/payload.bin",
+ "duckos": "1.1.11",
+ "date": 1791604957,
+ "notes": "DuckOS 1.1.11\n\n• Messages with the screen off: WhatsApp, Signal, Telegram, Threema, Molly, Element and SimpleX may now keep running while the phone sleeps, so their messages arrive straight away instead of only when you turn the screen on. (DuckOS has no Google push; these apps keep their own connection, which Android's deep sleep used to cut.)",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.11/payload.bin",
  "offset": 0,
- "size": 1244948442,
+ "size": 1244926286,
  "headers": [
-  "FILE_HASH=/p5Bbv8ENCo050QGR0tjmuDFOg50HF+pC5hh/RlriqU=",
-  "FILE_SIZE=1244948442",
-  "METADATA_HASH=DVMtIL0wd0Entbns9YkoHeUpWRNWK/6AXcakFLWmofc=",
+  "FILE_HASH=im0+AbR/hGX06fMVm8BJqE3K2+gyQRgdMVxhUNs5Ylg=",
+  "FILE_SIZE=1244926286",
+  "METADATA_HASH=eIU5smQ5oYXNq8hyl97Y9Av/3Xc7aUkrvDszRcrpamc=",
   "METADATA_SIZE=76056"
  ],
- "notes_de": "DuckOS 1.1.10\n\n• DuckMessage: Nachricht gedrückt halten, um sie zu kopieren.\n• Das Haftnotizen-Widget zeigt deine Notizen wieder (es sagte „Noch keine Notizen“, seit Notizen Titel haben).\n• Mehr auf Deutsch: Datum über Nachrichten („Gestern 15:31“), Tab-Anzahl in DuckWeb, gespeicherte und mehrfach verwendete Passwörter, Alter im Notfallpass, Kopieren aus einem QR-Code, Verschieben und Kopieren in Dateien, Anmelden mit Passkey und das automatische Design.",
- "notes_tr": "DuckOS 1.1.10\n\n• DuckMessage: kopyalamak için bir mesaja basılı tutun.\n• Yapışkan Notlar widget'ı notlarınızı yine gösteriyor (Notlar başlık aldığından beri „Henüz not yok“ diyordu).\n• Daha fazlası sizin dilinizde: mesaj tarihleri („Dün 15:31“), DuckWeb sekme sayısı, kayıtlı ve tekrar kullanılan şifreler, Tıbbi Kimlik'te yaş, QR koddan kopyalama, Dosyalar'da taşıma ve kopyalama, geçiş anahtarıyla giriş ve otomatik tasarım."
+ "notes_de": "DuckOS 1.1.11\n\n• Nachrichten bei ausgeschaltetem Bildschirm: WhatsApp, Signal, Telegram, Threema, Molly, Element und SimpleX dürfen jetzt weiterlaufen, während das Telefon schläft – ihre Nachrichten kommen sofort an, nicht erst, wenn du den Bildschirm einschaltest. (DuckOS hat keinen Google-Push; diese Apps halten eine eigene Verbindung, die Androids Tiefschlaf bisher gekappt hat.)",
+ "notes_tr": "DuckOS 1.1.11\n\n• Ekran kapalıyken mesajlar: WhatsApp, Signal, Telegram, Threema, Molly, Element ve SimpleX artık telefon uyurken çalışmaya devam edebilir – mesajları ekranı açınca değil, hemen gelir. (DuckOS'ta Google bildirimi yok; bu uygulamalar kendi bağlantılarını tutar, Android'in derin uykusu bunu kesiyordu.)"
 }
