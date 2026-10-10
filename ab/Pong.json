@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.22",
- "date": 1791637053,
- "notes": "DuckOS 1.1.22\n\n• DuckMusic search is simpler: one \"Songs\" list, and every song in it plays whole. The extra YouTube search button is gone.\n• A whole song plays just that song, not its lyrics, 1-hour or 8D versions after it.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.22/payload.bin",
+ "duckos": "1.1.23",
+ "date": 1791639727,
+ "notes": "DuckOS 1.1.23\n\n• DuckMusic: songs from YouTube show their cover big again, like every other song. The video is now a small tile in the corner (the smallest YouTube allows) and in the bar at the bottom.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.23/payload.bin",
  "offset": 0,
- "size": 1363616574,
+ "size": 1363613238,
  "headers": [
-  "FILE_HASH=prYHz/MmftWTCci2GrW/w1I6YtKncUbOH1sOZiM71bk=",
-  "FILE_SIZE=1363616574",
-  "METADATA_HASH=fEB6eazQs65Cy0J7FnaHWaDj9i+yFqK50Svuo1wQi2A=",
+  "FILE_HASH=mSHd231YytbiFOBgDkjSlbDy1ls6aE72r2xORVzj55M=",
+  "FILE_SIZE=1363613238",
+  "METADATA_HASH=Y+TGtcsg0BfIC2FeglyrrOR4Gzfdl8u9mehCweb6zbU=",
   "METADATA_SIZE=80232"
  ],
- "notes_de": "DuckOS 1.1.22\n\n• Die Suche in DuckMusic ist einfacher: eine Liste „Songs“, und jeder Song darin spielt ganz. Der zusätzliche YouTube-Suchknopf ist weg.\n• Ein ganzer Song spielt nur diesen Song – nicht danach noch Lyrics-, 1-Stunden- oder 8D-Versionen.",
- "notes_tr": "DuckOS 1.1.22\n\n• DuckMusic araması daha sade: tek bir \"Şarkılar\" listesi, içindeki her şarkı tamamen çalar. Ek YouTube arama düğmesi kaldırıldı.\n• Tam bir şarkı yalnızca o şarkıyı çalar; ardından sözlü, 1 saatlik veya 8D versiyonları çalmaz."
+ "notes_de": "DuckOS 1.1.23\n\n• DuckMusic: Songs von YouTube zeigen wieder ihr Cover groß, wie alle anderen Songs. Das Video ist jetzt eine kleine Kachel in der Ecke (so klein, wie YouTube es erlaubt) und in der Leiste unten.",
+ "notes_tr": "DuckOS 1.1.23\n\n• DuckMusic: YouTube'dan gelen şarkılar, diğer tüm şarkılar gibi kapaklarını yine büyük gösteriyor. Video artık köşede küçük bir kutucuk (YouTube'un izin verdiği en küçük boyut) ve alttaki çubukta."
 }
