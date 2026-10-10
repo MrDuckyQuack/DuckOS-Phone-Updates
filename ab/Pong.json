@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.21",
- "date": 1791634053,
- "notes": "DuckOS 1.1.21\n\n• DuckMusic: no more 30-second previews. Songs from the charts and search play whole, from YouTube; DuckMusic remembers each song's video, so playing it again costs nothing.\n• YouTube songs keep playing when you leave DuckMusic, in a small floating video window with previous, play/pause and next buttons. They pause when the screen goes off (YouTube's rules).\n• Opening and closing the player many times no longer loses the sound or the video.\n• Radio: search for stations, your stations one tap away, and quick picks for Pop, Rock, News, Dance, Hip-Hop, Jazz, Classical, 80s, 90s, Electronic, Chill and Sport, here or worldwide.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.21/payload.bin",
+ "duckos": "1.1.22",
+ "date": 1791637053,
+ "notes": "DuckOS 1.1.22\n\n• DuckMusic search is simpler: one \"Songs\" list, and every song in it plays whole. The extra YouTube search button is gone.\n• A whole song plays just that song, not its lyrics, 1-hour or 8D versions after it.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.22/payload.bin",
  "offset": 0,
- "size": 1363593030,
+ "size": 1363616574,
  "headers": [
-  "FILE_HASH=thY8iTmoGb6fN0rEyJleKyPpS29wQoBcAzA8yCcYa3s=",
-  "FILE_SIZE=1363593030",
-  "METADATA_HASH=VpyV6eIuw4KGonIsJ9g/P5YLzN9EGF9h/DJQZGaESnk=",
+  "FILE_HASH=prYHz/MmftWTCci2GrW/w1I6YtKncUbOH1sOZiM71bk=",
+  "FILE_SIZE=1363616574",
+  "METADATA_HASH=fEB6eazQs65Cy0J7FnaHWaDj9i+yFqK50Svuo1wQi2A=",
   "METADATA_SIZE=80232"
  ],
- "notes_de": "DuckOS 1.1.21\n\n• DuckMusic: keine 30-Sekunden-Vorschauen mehr. Songs aus den Charts und der Suche spielen ganz, von YouTube; DuckMusic merkt sich das Video jedes Songs, das nächste Mal kostet es nichts.\n• YouTube-Songs spielen weiter, wenn du DuckMusic verlässt – in einem kleinen schwebenden Videofenster mit Zurück, Wiedergabe/Pause und Weiter. Wenn der Bildschirm ausgeht, pausieren sie (YouTubes Regeln).\n• Den Player oft öffnen und schließen lässt Ton und Video nicht mehr verschwinden.\n• Radio: Sender suchen, deine Sender mit einem Tipp, und schnelle Auswahl für Pop, Rock, Nachrichten, Dance, Hip-Hop, Jazz, Klassik, 80er, 90er, Elektronisch, Chill und Sport – hier oder weltweit.",
- "notes_tr": "DuckOS 1.1.21\n\n• DuckMusic: artık 30 saniyelik önizleme yok. Listelerden ve aramadan şarkılar YouTube'dan tam olarak çalar; DuckMusic her şarkının videosunu hatırlar, tekrar çalmak bir şeye mal olmaz.\n• YouTube şarkıları DuckMusic'ten çıkınca küçük, yüzen bir video penceresinde (önceki, oynat/duraklat, sonraki düğmeleriyle) çalmaya devam eder. Ekran kapanınca durur (YouTube'un kuralları).\n• Oynatıcıyı defalarca açıp kapatmak artık sesi ve videoyu kaybettirmiyor.\n• Radyo: istasyon arama, istasyonların tek dokunuşla, ve Pop, Rock, Haberler, Dans, Hip-Hop, Caz, Klasik, 80'ler, 90'lar, Elektronik, Rahat ve Spor için hızlı seçim – burada veya dünya çapında."
+ "notes_de": "DuckOS 1.1.22\n\n• Die Suche in DuckMusic ist einfacher: eine Liste „Songs“, und jeder Song darin spielt ganz. Der zusätzliche YouTube-Suchknopf ist weg.\n• Ein ganzer Song spielt nur diesen Song – nicht danach noch Lyrics-, 1-Stunden- oder 8D-Versionen.",
+ "notes_tr": "DuckOS 1.1.22\n\n• DuckMusic araması daha sade: tek bir \"Şarkılar\" listesi, içindeki her şarkı tamamen çalar. Ek YouTube arama düğmesi kaldırıldı.\n• Tam bir şarkı yalnızca o şarkıyı çalar; ardından sözlü, 1 saatlik veya 8D versiyonları çalmaz."
 }
