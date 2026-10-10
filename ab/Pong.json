@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.20",
- "date": 1791630896,
- "notes": "DuckOS 1.1.20\n\n• DuckMusic plays whole songs itself, from YouTube (YouTube's own player and ads, so the artists get paid). On a 30-second preview, tap \"Whole song here (YouTube)\". In Search, press the search key or \"Whole songs from YouTube\". Or ask DuckAI: \"Spiel Ara Beni von Hadise\". The video shows in the player and small at the bottom, and pauses when you leave DuckMusic (YouTube's rules).\n• DuckAI answers sooner after waking up: what it reads before your first question is saved on the phone and loaded back in a moment, instead of being read again for a minute.\n• DuckMusic's player no longer gets stuck half-way down.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.20/payload.bin",
+ "duckos": "1.1.21",
+ "date": 1791634053,
+ "notes": "DuckOS 1.1.21\n\n• DuckMusic: no more 30-second previews. Songs from the charts and search play whole, from YouTube; DuckMusic remembers each song's video, so playing it again costs nothing.\n• YouTube songs keep playing when you leave DuckMusic, in a small floating video window with previous, play/pause and next buttons. They pause when the screen goes off (YouTube's rules).\n• Opening and closing the player many times no longer loses the sound or the video.\n• Radio: search for stations, your stations one tap away, and quick picks for Pop, Rock, News, Dance, Hip-Hop, Jazz, Classical, 80s, 90s, Electronic, Chill and Sport, here or worldwide.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.21/payload.bin",
  "offset": 0,
- "size": 1363579726,
+ "size": 1363593030,
  "headers": [
-  "FILE_HASH=f6/RT1QCFiYn6MpjMrAmWO/lsDlySCOwYXo2RrMtjY4=",
-  "FILE_SIZE=1363579726",
-  "METADATA_HASH=USvFrZ2zAoZb0qYbMHjymCsGo090jXYc343toxTZnB4=",
+  "FILE_HASH=thY8iTmoGb6fN0rEyJleKyPpS29wQoBcAzA8yCcYa3s=",
+  "FILE_SIZE=1363593030",
+  "METADATA_HASH=VpyV6eIuw4KGonIsJ9g/P5YLzN9EGF9h/DJQZGaESnk=",
   "METADATA_SIZE=80232"
  ],
- "notes_de": "DuckOS 1.1.20\n\n• DuckMusic spielt ganze Songs selbst, von YouTube (YouTubes eigener Player mit Werbung, so werden die Künstler bezahlt). Bei einer 30-Sekunden-Vorschau „Ganzer Song hier (YouTube)“ tippen. In der Suche die Suchtaste oder „Ganze Songs von YouTube“. Oder DuckAI fragen: „Spiel Ara Beni von Hadise“. Das Video ist im Player und klein unten zu sehen und pausiert, wenn du DuckMusic verlässt (YouTubes Regeln).\n• DuckAI antwortet nach dem Aufwachen schneller: Was es vor deiner ersten Frage liest, wird auf dem Telefon gespeichert und in einem Moment wieder geladen, statt eine Minute lang neu gelesen zu werden.\n• Der Player von DuckMusic bleibt nicht mehr auf halber Höhe hängen.",
- "notes_tr": "DuckOS 1.1.20\n\n• DuckMusic tam şarkıları kendisi çalıyor, YouTube'dan (YouTube'un kendi oynatıcısı ve reklamları; böylece sanatçılar ödeme alıyor). 30 saniyelik bir önizlemede \"Şarkının tamamı burada (YouTube)\" seçeneğine dokunun. Aramada arama tuşuna veya \"YouTube'dan tam şarkılar\"a basın. Ya da DuckAI'ye sorun: \"Tarkan çal\". Video oynatıcıda ve altta küçük görünür; DuckMusic'ten çıkınca durur (YouTube'un kuralları).\n• DuckAI uyandıktan sonra daha hızlı cevap veriyor: ilk sorunuzdan önce okuduğu şey telefona kaydedilir ve bir dakika boyunca yeniden okunmak yerine bir anda yüklenir.\n• DuckMusic oynatıcısı artık yarı yolda takılı kalmıyor."
+ "notes_de": "DuckOS 1.1.21\n\n• DuckMusic: keine 30-Sekunden-Vorschauen mehr. Songs aus den Charts und der Suche spielen ganz, von YouTube; DuckMusic merkt sich das Video jedes Songs, das nächste Mal kostet es nichts.\n• YouTube-Songs spielen weiter, wenn du DuckMusic verlässt – in einem kleinen schwebenden Videofenster mit Zurück, Wiedergabe/Pause und Weiter. Wenn der Bildschirm ausgeht, pausieren sie (YouTubes Regeln).\n• Den Player oft öffnen und schließen lässt Ton und Video nicht mehr verschwinden.\n• Radio: Sender suchen, deine Sender mit einem Tipp, und schnelle Auswahl für Pop, Rock, Nachrichten, Dance, Hip-Hop, Jazz, Klassik, 80er, 90er, Elektronisch, Chill und Sport – hier oder weltweit.",
+ "notes_tr": "DuckOS 1.1.21\n\n• DuckMusic: artık 30 saniyelik önizleme yok. Listelerden ve aramadan şarkılar YouTube'dan tam olarak çalar; DuckMusic her şarkının videosunu hatırlar, tekrar çalmak bir şeye mal olmaz.\n• YouTube şarkıları DuckMusic'ten çıkınca küçük, yüzen bir video penceresinde (önceki, oynat/duraklat, sonraki düğmeleriyle) çalmaya devam eder. Ekran kapanınca durur (YouTube'un kuralları).\n• Oynatıcıyı defalarca açıp kapatmak artık sesi ve videoyu kaybettirmiyor.\n• Radyo: istasyon arama, istasyonların tek dokunuşla, ve Pop, Rock, Haberler, Dans, Hip-Hop, Caz, Klasik, 80'ler, 90'lar, Elektronik, Rahat ve Spor için hızlı seçim – burada veya dünya çapında."
 }
