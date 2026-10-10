@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.9",
- "date": 1791603807,
- "notes": "DuckOS 1.1.9\n\n• Search finds things typed without accents or special letters: \"yapilacaklar\" finds Yapılacaklar, \"grosse\" finds Größe (Start and Settings).\n• DuckMaps in your language: \"860 m away\", \"To …\", Drive / Walk / Cycle, and distances written your way (\"1,6 km\").\n• Languages: each language's name is shown in your own language too.\n• DuckOS yellow instead of Android's turquoise on video seek bars and other Android controls.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.9/payload.bin",
+ "duckos": "1.1.10",
+ "date": 1791604478,
+ "notes": "DuckOS 1.1.10\n\n• DuckMessage: hold a message to copy it.\n• The Sticky Notes widget shows your notes again (it said \"No notes yet\" since Notes got titles).\n• More in your language: message dates (\"Yesterday 15:31\"), DuckWeb's tab count, saved and reused passwords, ages in Medical ID, copying from a QR code, moving and copying in Files, passkey sign-in and the automatic design.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.10/payload.bin",
  "offset": 0,
- "size": 1244927354,
+ "size": 1244948442,
  "headers": [
-  "FILE_HASH=K66qUBnF3L6ndRSeY9Dk+CieMsR4S2xbAEJ3rRmRDFM=",
-  "FILE_SIZE=1244927354",
-  "METADATA_HASH=cQMxbzRr7vMc+okW2Brv2pHx888kOdFl4KjO2xdompU=",
+  "FILE_HASH=/p5Bbv8ENCo050QGR0tjmuDFOg50HF+pC5hh/RlriqU=",
+  "FILE_SIZE=1244948442",
+  "METADATA_HASH=DVMtIL0wd0Entbns9YkoHeUpWRNWK/6AXcakFLWmofc=",
   "METADATA_SIZE=76056"
  ],
- "notes_de": "DuckOS 1.1.9\n\n• Die Suche findet auch ohne Umlaute und Sonderzeichen: „grosse“ findet Größe, „yapilacaklar“ findet Yapılacaklar (Start und Einstellungen).\n• DuckMaps auf Deutsch: „860 m entfernt“, „Nach …“, Auto / Zu Fuß / Fahrrad und Entfernungen mit Komma („1,6 km“).\n• Sprachen: Der Name jeder Sprache steht jetzt auch auf Deutsch darunter.\n• DuckOS-Gelb statt Androids Türkis bei Video-Leisten und anderen Android-Elementen.",
- "notes_tr": "DuckOS 1.1.9\n\n• Arama, aksansız ve özel harfsiz yazılanı da bulur: „yapilacaklar“ Yapılacaklar'ı, „grosse“ Größe'yi bulur (Başlat ve Ayarlar).\n• DuckMaps sizin dilinizde: „860 m uzaklıkta“, „… yönüne“, Araba / Yürüyüş / Bisiklet ve sizin yazdığınız gibi mesafeler („1,6 km“).\n• Diller: her dilin adı artık sizin dilinizde de görünür.\n• Video çubuklarında ve diğer Android öğelerinde Android'in turkuazı yerine DuckOS sarısı."
+ "notes_de": "DuckOS 1.1.10\n\n• DuckMessage: Nachricht gedrückt halten, um sie zu kopieren.\n• Das Haftnotizen-Widget zeigt deine Notizen wieder (es sagte „Noch keine Notizen“, seit Notizen Titel haben).\n• Mehr auf Deutsch: Datum über Nachrichten („Gestern 15:31“), Tab-Anzahl in DuckWeb, gespeicherte und mehrfach verwendete Passwörter, Alter im Notfallpass, Kopieren aus einem QR-Code, Verschieben und Kopieren in Dateien, Anmelden mit Passkey und das automatische Design.",
+ "notes_tr": "DuckOS 1.1.10\n\n• DuckMessage: kopyalamak için bir mesaja basılı tutun.\n• Yapışkan Notlar widget'ı notlarınızı yine gösteriyor (Notlar başlık aldığından beri „Henüz not yok“ diyordu).\n• Daha fazlası sizin dilinizde: mesaj tarihleri („Dün 15:31“), DuckWeb sekme sayısı, kayıtlı ve tekrar kullanılan şifreler, Tıbbi Kimlik'te yaş, QR koddan kopyalama, Dosyalar'da taşıma ve kopyalama, geçiş anahtarıyla giriş ve otomatik tasarım."
 }
