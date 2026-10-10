@@ -1,16 +1,16 @@
 {
- "duckos": "1.1.17",
- "date": 1791622541,
- "notes": "DuckOS 1.1.17\n\n• DuckMusic: shuffle and repeat (the whole list or one song) in the player.\n• Settings › DuckMusic: shuffle, repeat, 30-second previews on or off, which app plays whole songs, the radio's country, and your search history. The gear in DuckMusic opens it.\n• DuckAI: \"play … with me\" (a game) no longer starts a song.\n• Settings › Storage › Free up space is now DuckOS's own: clear apps' temporary files, empty Trash, review Downloads, see your largest files, and remove apps you haven't used for a month.",
- "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.17/payload.bin",
+ "duckos": "1.1.18",
+ "date": 1791623749,
+ "notes": "DuckOS 1.1.18\n\n• Lock screen: a swipe up on Android's gesture bar no longer pulls away the DuckOS lock screen, so Android's old one doesn't show behind it. Android's home and recents gestures are off while the phone is locked; the lock screen's own swipe up unlocks as before.",
+ "url": "https://github.com/MrDuckyQuack/DuckOS-Phone-Updates/releases/download/phone-ab-1.1.18/payload.bin",
  "offset": 0,
- "size": 1363567206,
+ "size": 1363571759,
  "headers": [
-  "FILE_HASH=srd/HStZOm5tz3YASbjlnDerw1+iMCf2WmgKcV4KrTA=",
-  "FILE_SIZE=1363567206",
-  "METADATA_HASH=Nkf1pxBSLXippNrEIHTese41iXbyiZAqMn7QWFnK4Y4=",
-  "METADATA_SIZE=80232"
+  "FILE_HASH=XA+JMzhmnD1keHLjmJV+TcZHT44C3i/rrkIHNnLxLeU=",
+  "FILE_SIZE=1363571759",
+  "METADATA_HASH=id3XiD4+4FQtbjVPoE3OGme4nvzHFLoxQ6xc2Dih+Kg=",
+  "METADATA_SIZE=80233"
  ],
- "notes_de": "DuckOS 1.1.17\n\n• DuckMusic: Zufallswiedergabe und Wiederholen (die ganze Liste oder ein Song) im Player.\n• Einstellungen › DuckMusic: Zufallswiedergabe, Wiederholen, 30-Sekunden-Vorschauen an oder aus, welche App ganze Songs spielt, das Land fürs Radio und dein Suchverlauf. Das Zahnrad in DuckMusic öffnet sie.\n• DuckAI: „Spiel … mit mir“ (ein Spiel) startet keinen Song mehr.\n• Einstellungen › Speicher › Speicherplatz freigeben ist jetzt von DuckOS: temporäre Dateien der Apps löschen, den Papierkorb leeren, Downloads ansehen, die größten Dateien sehen und Apps entfernen, die du seit einem Monat nicht benutzt hast.",
- "notes_tr": "DuckOS 1.1.17\n\n• DuckMusic: oynatıcıda karışık çalma ve tekrarlama (tüm liste veya tek şarkı).\n• Ayarlar › DuckMusic: karışık çalma, tekrarlama, 30 saniyelik önizlemeleri açma/kapatma, tam şarkıları hangi uygulamanın çalacağı, radyonun ülkesi ve arama geçmişiniz. DuckMusic'teki dişli simgesi açar.\n• DuckAI: \"benimle … oyna\" (bir oyun) artık şarkı başlatmıyor.\n• Ayarlar › Depolama › Yer aç artık DuckOS'un: uygulamaların geçici dosyalarını temizleyin, çöp kutusunu boşaltın, İndirilenler'e bakın, en büyük dosyalarınızı görün ve bir aydır kullanmadığınız uygulamaları kaldırın."
+ "notes_de": "DuckOS 1.1.18\n\n• Sperrbildschirm: Ein Wisch nach oben auf Androids Gestenleiste zieht den DuckOS-Sperrbildschirm nicht mehr weg, Androids alter Sperrbildschirm erscheint also nicht mehr dahinter. Androids Gesten für Startbildschirm und letzte Apps sind aus, solange das Telefon gesperrt ist; der eigene Wisch nach oben entsperrt wie bisher.",
+ "notes_tr": "DuckOS 1.1.18\n\n• Kilit ekranı: Android'in hareket çubuğunda yukarı kaydırmak artık DuckOS kilit ekranını kaydırıp çekmiyor, bu yüzden Android'in eski kilit ekranı arkasında görünmüyor. Telefon kilitliyken Android'in ana ekran ve son uygulamalar hareketleri kapalı; kilit ekranının kendi yukarı kaydırması eskisi gibi kilidi açar."
 }
